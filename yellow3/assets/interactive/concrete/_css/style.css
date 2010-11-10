@@ -1,0 +1,446 @@
+/***************************************************
+	CONCRETE LANDSCAPE: PROJECT YELLOW SKYSCRAPER
+	INTRODUCTION WEB DESIGN: 10.2007
+****************************************************/
+
+	body{
+		font-family:"Verdana", "Arial", sans;
+		font-size:10px;
+		color:#666666;
+		margin:0px;
+	}
+	img{
+		border:0px
+	}
+	a{
+		text-decoration:none;
+		border:0px
+		color:FFFFFF;
+	}
+	b{
+		font-size:13;
+		color:#8FBC9F;
+	}
+	
+/***********************************************
+	Text Treatment 
+************************************************/
+
+	.headText{
+		font-size:30;
+		font-weight:bold;
+		color:#444444;
+	}
+	
+	.subText{
+		font-size:20;
+		color:#8FBC9F;
+	}
+	
+	
+/***********************************************
+	HOME
+************************************************/
+	.homeContainer{
+		width:auto;
+		height:auto;
+		background-color:#FFFFFF;
+		position:fixed;
+		left:10;
+		bottom:30;
+		padding-right:5;
+	}
+	.homeNav{
+		width:auto;
+		height:auto;
+		background-color:#FFFFFF;
+		float:bottom;
+		margin:5px 0px 5px 5px;
+	}
+	.homeHead{
+		width:3000;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+  		left:10;
+		bottom:460;
+		padding:5px 5px 5px 5px;
+		z-index:10;
+	}
+	.bodyContainer{
+		width:2000;
+		height:100;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	bottom:340;
+    	left:609;
+		margin: 5px 5px 5px 5px;
+		padding:5px 5px 5px 5px;
+	}
+	.sub{
+		width:400;
+		height:1000;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	bottom:506;
+    	right:226;
+		margin: 5px 5px 5px 5px;
+		padding:10px 10px 10px 10px;
+	}
+	
+/***********************************************
+	PAGE 1
+************************************************/
+
+	.navContainer_1{
+		width:auto;
+		height:auto;
+		background-color:#FFFFFF;
+		position:fixed;
+		top:60;
+		left:5;
+		padding-right:5;
+	}
+	
+	.navBox_1{
+		width:100;
+		height:100;
+		float:left;
+		background-color:#333333;
+		margin:5px 0px 5px 5px;
+	}
+	
+	.head_1{
+		width:auto;
+		height:40;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	top:0;
+		margin:5px 5px 5px 5px;
+		padding:5px 5px 5px 5px;
+		z-index:10;
+	}
+	
+	.bodyContainer_1{
+		width:auto;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	top:170;
+    	left:535;
+		margin: 5px 5px 5px 5px;
+		padding:5px 5px 5px 5px;
+	}
+
+	.body_1{
+		width:250;
+		height:250;
+		background-color:#FFFFFF;
+		margin: 5px 5px 5px 5px;
+		padding:0px 5px 5px 5px;
+	}	
+	.sub_1{
+		width:auto;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	bottom:0;
+    	right:0;
+		margin: 5px 5px 5px 5px;
+		padding:10px 10px 10px 10px;
+	}
+
+	.subtext1_1{
+		width:200;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	top:170;
+    	left:310;
+		margin: 5px 5px 5px 5px;
+		padding:5px 10px 5px 10px;
+	}
+	.subtext2_1{
+		width:200;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	top:209;
+    	left:310;
+		margin: 5px 5px 5px 5px;
+		padding:5px 10px 5px 10px;
+	}
+	.subtext3_1{
+		width:200;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	top:248;
+    	left:310;
+		margin: 5px 5px 5px 5px;
+		padding:5px 10px 5px 10px;
+	}
+/***********************************************
+	PAGE 2
+************************************************/
+	.navContainer_2{
+		width:auto;
+		height:auto;
+		background-color:#FFFFFF;
+		position:fixed;
+		top:60;
+		left:5;
+		padding-right:5;
+	}
+	
+	.navBox_2{
+		width:100;
+		height:100;
+		float:left;
+		background-color:#333333;
+		margin:5px 0px 5px 5px;
+	}
+	
+	.head_2{
+		width:auto;
+		height:40;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	top:0;
+		margin:5px 5px 5px 5px;
+		padding:5px 5px 5px 5px;
+		z-index:10;
+	}
+	
+	.bodyContainer_2{
+		width:auto;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	bottom:0;
+    	right:0;
+		margin: 5px 5px 5px 5px;
+		padding:5px 5px 5px 5px;
+	}
+
+	.body_2{
+		width:300;
+		height:auto;
+		background-color:#FFFFFF;
+		margin: 5px 5px 5px 5px;
+		padding:0px 0px 0px 0px;
+	}
+
+	.sub_2{
+		width:auto;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	bottom:0;
+    	right:325;
+		margin: 5px 5px 5px 5px;
+		padding:10px 10px 10px 10px;
+	}
+	.subtext_2{
+		width:200;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	bottom:270;
+    	right:425;
+		margin: 5px 5px 5px 5px;
+		padding:0px 5px 5px 5px;
+	}
+	.subhead_2{
+		width:310;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	bottom:325;
+    	right:325;
+		margin: 5px 5px 5px 5px;
+		padding:5px 5px 5px 5px;
+	}
+/***********************************************
+	PAGE 3
+************************************************/
+	.navContainer_3{
+		width:auto;
+		height:auto;
+		background-color:#FFFFFF;
+		position:fixed;
+		top:60;
+		left:5;
+		padding-right:5;
+	}
+	
+	.navBox_3{
+		width:100;
+		height:100;
+		float:left;
+		background-color:#333333;
+		margin:5px 0px 5px 5px;
+	}
+	
+	.head_3{
+		width:2000;
+		height:40;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	top:0;
+		margin:5px 5px 5px 5px;
+		padding:5px 5px 5px 5px;
+		z-index:10;
+	}
+	
+	.bodyContainer_3{
+		width:auto;
+		height:1000;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	top:55;
+    	left:535;
+		margin: 5px 5px 5px 5px;
+		padding:5px 5px 5px 5px;
+	}
+
+	.body_3{
+		width:250;
+		height:2000;
+		/*background-color:#DEB887;*/
+		background-color:#FFFFFF;
+		margin: 5px 5px 5px 5px;
+		padding:5px 5px 5px 5px;
+	}
+
+	.sub_3{
+		width:400;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	top:170;
+    	left:110;
+		margin: 5px 5px 5px 5px;
+		padding:10px 10px 10px 10px;
+	}
+	
+	.subtext_3{
+		width:250;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	/*top:291;
+    	left:250;*/
+    	bottom:0;
+    	left:250;
+		margin: 5px 5px 5px 5px;
+		padding:15px 15px 15px 15px;
+	}
+	
+	.emptycontainer_3{
+		width:310;
+		height:auto;
+    	position:fixed;
+    	bottom:0;
+    	left:820;
+		margin: 5px 5px 0px 5px;
+		padding:0px;
+	}
+	
+	.empty_3{
+		width:auto;
+		height:auto;
+		background-color:#FFFFFF;
+		float:top;
+		margin: 0px 0px 5px 0px;
+		padding:5px 5px 5px 5px;
+	}
+	
+/***********************************************
+	PAGE 4
+************************************************/
+	.navContainer_4{
+		width:auto;
+		height:auto;
+		background-color:#FFFFFF;
+		position:fixed;
+		top:60;
+		left:5;
+		padding-right:5;
+	}
+	
+	.navBox_4{
+		width:100;
+		height:100;
+		float:left;
+		background-color:#333333;
+		margin:5px 0px 5px 5px;
+	}
+	
+	.head_4{
+		width:2000;
+		height:40;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	top:0;
+		margin:5px 5px 5px 5px;
+		padding:5px 5px 5px 5px;
+		z-index:10;
+	}
+	
+	.bodyContainer_4{
+		width:auto;
+		height:2000;
+		/*background-color:#FFFFFF;*/
+    	position:fixed;
+    	top:170;
+    	left:130;
+		margin: 0px;
+		padding:0px;
+	}
+
+	.body_4{
+		width:200;
+		height:auto;
+		background-color:#FFFFFF;
+		float:left;
+		margin: 5px 0px 5px 5px;
+		padding:5px 15px 15px 15px;
+	}
+
+	.sub_4{
+		width:250;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	bottom:0;
+    	left:600;
+		margin: 5px 5px 5px 5px;
+		padding:10px 10px 10px 10px;
+	}
+	
+	.subhead_4{
+		width:4000;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	bottom:145;
+    	left:600;
+		margin: 5px 5px 5px 5px;
+		padding:5px 5px 5px 5px;
+	}
+	
+	.empty_4{
+		width:auto;
+		height:auto;
+		background-color:#FFFFFF;
+    	position:fixed;
+    	bottom:176;
+    	left:600;
+		margin: 5px 5px 5px 5px;
+		padding:10px 10px 10px 10px;
+	}
+
+/***********************************************
+	END
+************************************************/

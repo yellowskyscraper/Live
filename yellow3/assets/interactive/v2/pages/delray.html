@@ -1,0 +1,43 @@
+<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="../script/page_style.css" />
+	<script type="text/javascript" src="../script/variables.js"></script>
+	<script type="text/javascript">
+	
+		var one = new Image();   
+		one.src = "../img/print/posters/unite_against.jpg";
+		
+		var two = new Image();   
+		two.src = "../img/print/posters/macabre_delray.jpg";
+		
+		var three = new Image();   
+		three.src = "../img/print/posters/iconic.jpg";
+
+		function changeContent(img){
+			document.image1.src = img;
+		}
+
+	</script>
+	</head>
+	<body onload="goSetHeight()">
+		<div class="header">
+			Industrial Delray:<br>
+		</div>			
+				
+		<div class="image">
+			<img src="../img/print/posters/macabre_delray.jpg" name="image1">
+		</div>
+
+		<div class="body">
+			<span class="spanHead">The Posters:<br></span>
+			<span class="links1">
+				<a href="javascript://" onClick="javascript:changeContent(one.src);">&nbsp;&nbsp;&nbsp;&nbsp;Unite Against</a><br>
+				<a href="javascript://" onClick="javascript:changeContent(two.src);">&nbsp;&nbsp;&nbsp;&nbsp;Macabre Industrial</a><br>
+				<a href="javascript://" onClick="javascript:changeContent(three.src);">&nbsp;&nbsp;&nbsp;&nbsp;Iconic Representations</a><br><br>
+			</span>
+			
+			<span class="spanHead">Exploration of a Detroit Neighborhood.<br></span>
+			Delray is an embattled community within Detroit's industrial center. Seemingly trapped under the ominous towers of Zug Island, the industry has become as much, if not more, a part of Delray than the people themselves. Years of this Industrial encroachment has created a surreal stillness throughout the impoverished community. There is no wildlife to speak of in Delray only the dark perversions along its skyline, evident of mans handiwork. Due to this long-time presence of large Industrial complexes, the area is considered to be one of the most polluted residential areas in Michigan. Sybill Inc. (SRS) and Peerless Metals are two of the largest Industrial perpetrators within Detroit, the federal watchdog known as the Air Quality Management Devision (AQMD) is seemingly powerless against these macabre industrial giants. 
+		</div>
+	</body>
+</html>

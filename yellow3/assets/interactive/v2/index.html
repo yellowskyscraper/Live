@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta name="keywords" content="Yellow Skyscraper, James Hovell, Yellowskyscraper, Jim Hovell" />
+		<meta name="description" content="A very tall building of many stories." />
+		
+		<title>YELLOW SKYSCRAPER || CONSTANTLY UNDER CONSTUCTION</title>
+		
+		<link rel="stylesheet" type="text/css" href="script/style.css" />
+		<script type="text/javascript" src="script/variables.js"></script>
+		<script type="text/javascript" src="script/ufo.js"></script>
+		
+		
+		<script type="text/javascript">
+			//FLASH OBJECT
+			FO("flash/menu_01.swf","transparent","nav_container");
+			
+
+			var myMenu;
+			window.onload = function() {
+				//color();
+				myMenu = new SDMenu("my_menu");
+				myMenu.init();
+				
+				myMenu.collapseAll();
+				myMenu.oneSmOnly = true;
+				//var t = setTimeout(col,1000);
+			};
+			
+			
+			//SWAP IFRAME FROM FLASH NAVIGATION
+			function actionToJava (page){
+				loadIframe('ifrm', page)
+			};
+		</script>
+	</head>
+	
+	<body>
+		<div class="container">		
+			<div id="nav_container">
+				
+			</div>
+			
+			
+			<div class="body_container">
+				 <iframe name="ifrm" id="ifrm" src="pages/open.html" width="645" height="auto" scrolling="no" frameborder="0" style="background-color:FFFFFF;">Sorry, your browser doesn't support iframes.</iframe>
+				 <div class="footer">
+				 </div>
+			</div>
+		</div>
+	</body>
+</html>

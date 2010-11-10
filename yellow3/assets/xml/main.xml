@@ -1,0 +1,489 @@
+<MENU>
+<!--//////////////////////////////|
+//| YELLOWSKYSCRAPER VERSION 3.0
+//|	Property of James Hovell
+//|
+//|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//| BIOGRAOHIC -->	
+
+	<BIOGRAPHIC TITLE="Biographic">	
+		<PROJECT TITLE="Yellowskyscraper" FULLTITLE="Yellowskyscraper: Phase Three." TAB="Info" MEDIA="Nope" DATE="5.2006">
+			<SET>
+				<IMAGE TYPE="t1" THUMB="thum1">assets/images/background/background_0.jpg</IMAGE>
+			</SET>
+			<CONCEPT>1. A very tall building of many stories, constructed over periods of time, built on a transient foundation. Constantly under renovation and continuously under construction. Able to move with time, allowing room for inevitable growth and change.
+
+2. A building which lacks the courage to initiate or endure dangerous or unpleasant things.
+
+3. A tall building of many stories, which has managed to stimulate both the long- and medium-wavelength cone cells of the retina, but has yet to significantly stimulate the short-wavelength cone cells.</CONCEPT>
+		</PROJECT>
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->	
+		
+		<PROJECT TITLE="Jim Hovell" FULLTITLE="James Sean Hovell" TAB="A Brief History" MEDIA="Nope" DATE="10.21.1986">
+			<SET>
+				<IMAGE TYPE="t1" THUMB="thum1">assets/images/biographic/me_0.jpg</IMAGE>
+			</SET>
+			<CONCEPT>Started out not being able to sit still. Found an outlet; drawing. Was moved by sculpture, ended up falling in love with the smell of fixer and film. Made some moves, kissed some girls. Decided to get some schooling and try to grow up. Learned about design, loved, lost. Worked with some great artists. Became a better person.</CONCEPT>
+		</PROJECT>
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->		
+
+		<PROJECT TITLE="Contact" FULLTITLE="Jim, James, or Sean if you like." TAB="Drop a line" MEDIA="Contact" DATE="">
+			<SET>
+				<IMAGE TYPE="t1" THUMB="thum1">assets/images/biographic/mail_me.jpg</IMAGE>
+			</SET>
+			<CONCEPT>c: 734 812 4006 
+e: jim@yellowskyscraper.com</CONCEPT>
+		</PROJECT>
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->		
+
+		<PROJECT TITLE="Curriculum Vitae" FULLTITLE="A Professional Summary" TAB="Life and Qualifications" MEDIA="Resume" BTNNAME="DOWNLOAD CV" LINKURL="resume/james_hovell.pdf">
+			<SET>
+				<IMAGE TYPE="t1" THUMB="thum1">assets/images/biographic/cv.jpg</IMAGE>
+			</SET>
+			<CONCEPT>Decided to get a design job, worked at a magazine, learned what "bitch work" really meant. Lost interest in print. Learned about code. Decided to tutor, taught kids how to Flash and semiotics. Got a job at Wunderman. Had a blast, enjoyed the frequency my boss swore and they got drunk. Left to concentrate on schooling. Graduated after the shit hit the fan, Bear Stearns, Lehman Brothers, AIG, you remember.</CONCEPT>
+		</PROJECT>
+		
+	</BIOGRAPHIC>
+<!--//////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//| GRAPHIC -->
+
+	<GRAPHIC TITLE="Graphic">		
+		<PROJECT TITLE="Little Blank Books" FULLTITLE="Little Blank Books: A Series of Useful Information" TAB="Interactive Installation" MEDIA="Print" BTNNAME="VIEW LITTLE BLANK BOOKS" DATE="2008" LINKURL="assets/images/graphic/blankbooks/little_blank_books.pdf">
+			<VIDEO>
+				<IMG>assets/images/graphic/blankbooks/video/blankbooks.jpg</IMG>
+				<VID>assets/images/graphic/blankbooks/video/blankbooks.flv</VID>
+			</VIDEO>
+			<SET>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/blankbooks/_thumb/blankbooks0.jpg">assets/images/graphic/blankbooks/blankbooks0.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/blankbooks/_thumb/blankbooks5.jpg">assets/images/graphic/blankbooks/blankbooks5.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/blankbooks/_thumb/blankbooks1.jpg">assets/images/graphic/blankbooks/blankbooks1.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/blankbooks/_thumb/blankbooks4.jpg">assets/images/graphic/blankbooks/blankbooks4.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/blankbooks/_thumb/blankbooks2.jpg">assets/images/graphic/blankbooks/blankbooks2.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/blankbooks/_thumb/blankbooks3.jpg">assets/images/graphic/blankbooks/blankbooks3.jpg</IMAGE>
+			</SET>
+			<TECH>
+				<T>Processing 1.0</T>
+				<T>Arduino</T>
+				<T>RFID Sensor</T>
+				<T>Band Saw</T>
+				<T>Staple Gun</T>
+			</TECH>
+			<CONCEPT>This is an exploration of the last several years of my life. Each Little Blank Book is a short examination, and together they form a collection of where I am today. Blank, they can only be read through digital interaction, bringing my new found affinity for the relationships of the physical and the digital spaces to the world.
+
+DESCRIPTION OF INTERACTION
+The participant is presented with 23 individual Little Blank Books, each with their own story or reflection. The Books are only activated through the Little Black Sensor where the information pertaining to each book is unlocked and reveled on the nearby monitors.</CONCEPT>
+		</PROJECT>		
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->	
+		<!--
+		<PROJECT TITLE="Love Wanted" FULLTITLE="Love Wanted: A Tireless Search for Someone, Somewhere." TAB="Gallery Installation" MEDIA="Print" DATE="2007">
+			<VIDEO></VIDEO>
+			<SET>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/">assets/images/graphic/underconstruction2.jpg</IMAGE>
+			</SET>
+			<TECH></TECH>
+			<CONCEPT>A journey through the subjectivity of love. A typographic piece discussing the forms that our unrelenting search for companionship, and the insecurities of loneliness can sometimes take. The content for this piece is wholly genuine; each entry came from someone in the Detroit area, who needed something from someone.</CONCEPT>
+		</PROJECT>
+		-->
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->		
+		<PROJECT TITLE="Bayer Material Sciences" FULLTITLE="Bayer Material Sciences: Process and Reactive Floor Prototype." TAB="Installation Prototype" MEDIA="Mixed" BTNNAME="VIEW PROJECT PDF" DATE="2008" LINKURL="assets/images/graphic/bayer/bayer_proposal.pdf">
+			<VIDEO>
+				<IMG>assets/images/graphic/bayer/video/bayer.jpg</IMG>
+				<VID>assets/images/graphic/bayer/video/bayer.flv</VID>
+			</VIDEO>
+			<SET>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/bayer/_thumb/bayer0.jpg">assets/images/graphic/bayer/bayer0.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/bayer/_thumb/bayer1.jpg">assets/images/graphic/bayer/bayer1.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/bayer/_thumb/bayer2.jpg">assets/images/graphic/bayer/bayer2.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/bayer/_thumb/bayer3.jpg">assets/images/graphic/bayer/bayer3.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/bayer/_thumb/bayer4.jpg">assets/images/graphic/bayer/bayer4.jpg</IMAGE>
+				
+				<!-- PROCESS IMAGES-->
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/bayer/_thumb/process0.jpg">assets/images/graphic/bayer/process0.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/bayer/_thumb/process1.jpg">assets/images/graphic/bayer/process1.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/bayer/_thumb/process2.jpg">assets/images/graphic/bayer/process2.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/bayer/_thumb/process3.jpg">assets/images/graphic/bayer/process3.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/bayer/_thumb/process4.jpg">assets/images/graphic/bayer/process4.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/bayer/_thumb/process5.jpg">assets/images/graphic/bayer/process5.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/bayer/_thumb/process6.jpg">assets/images/graphic/bayer/process6.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/bayer/_thumb/process7.jpg">assets/images/graphic/bayer/process7.jpg</IMAGE>
+			</SET>
+			<TECH>
+				<T>Processing BETA</T>
+				<T>Arduino</T>
+				<T>Soldering Iron</T>
+				<T>Band Saw</T>
+				<T>Staple Gun</T>
+				<T>Will Power</T>
+			</TECH>
+			<CONCEPT>Bayer approached us with a need to bridge the gap between the Industrial Designer and the Material Supplier a.k.a. Bayer, to challenge the Manufacturing sector of the production line and inspire change. In their eyes, why replace one part to improve efficiency, when you can think holistically and make drastic improvements. 
+
+With collaboration in mind a series of interactive and conceptual promotions were developed to reach out into the creative sector. Ideas ranging from co-branding, to large interactive installations, to documentation and tone. Allowing Bayer to reach their hand out into the creative community to instantiate a relationship.
+
+Promotions intended to provoke opportunities to integrate themselves into the creative process. The collaborative position moves Bayer into an active role in the ideation phase. They will facilitate and contribute to the problem solving process, inviting creative new solutions that might cause them to rethink or develop something entirely new. In effect, facilitating progressive change and ingenuity.
+
+PROTOTYPE 1 of 6: A REACTIVE FLOOR
+Extracting from the essence of collaboration and the relationships formed from such cooperations, the Reactive Floor intends to engage users in a simple collaborative interaction. This will generate an experience that allows for the user to participate and build with others. The floor will grow and form around its participants, making connections between users that otherwise might not have been made. This applies the idea of multiple parts in a whole metaphorically to the users experience, reinforcing idea of collaboration.</CONCEPT>
+		</PROJECT>
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->	
+
+		<PROJECT TITLE="Jimventory" FULLTITLE="Jimventory: My Desk at 6:00pm on 9.21.2008" TAB="Interactive Installation" MEDIA="Mixed" BTNNAME="LAUNCH COMPLETE INVENTORY" DATE="2008" LINKURL="assets/interactive/jimventory/index.html">
+			<VIDEO>
+				<IMG>assets/images/graphic/jimventory/video/jimventory.jpg</IMG>
+				<VID>assets/images/graphic/jimventory/video/jimventory.flv</VID>
+			</VIDEO>
+			<SET>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/jimventory/_thumb/jimventory0.jpg">assets/images/graphic/jimventory/jimventory0.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/jimventory/_thumb/jimventory1.jpg">assets/images/graphic/jimventory/jimventory1.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/jimventory/_thumb/jimventory2.jpg">assets/images/graphic/jimventory/jimventory2.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/jimventory/_thumb/jimventory3.jpg">assets/images/graphic/jimventory/jimventory3.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/jimventory/_thumb/jimventory4.jpg">assets/images/graphic/jimventory/jimventory4.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/jimventory/_thumb/jimventory5.jpg">assets/images/graphic/jimventory/jimventory5.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/jimventory/_thumb/jimventory6.jpg">assets/images/graphic/jimventory/jimventory6.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/jimventory/_thumb/jimventory7.jpg">assets/images/graphic/jimventory/jimventory7.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/jimventory/_thumb/jimventory8.jpg">assets/images/graphic/jimventory/jimventory8.jpg</IMAGE>
+				
+				<!-- PROCESS IMAGES-->
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/jimventory/_thumb/process_00.jpg">assets/images/graphic/jimventory/process_00.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/jimventory/_thumb/process_01.jpg">assets/images/graphic/jimventory/process_01.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/jimventory/_thumb/process_02.jpg">assets/images/graphic/jimventory/process_02.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/jimventory/_thumb/process_03.jpg">assets/images/graphic/jimventory/process_03.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/jimventory/_thumb/process_04.jpg">assets/images/graphic/jimventory/process_04.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/jimventory/_thumb/process_05.jpg">assets/images/graphic/jimventory/process_05.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/jimventory/_thumb/process_06.jpg">assets/images/graphic/jimventory/process_06.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/jimventory/_thumb/process_07.jpg">assets/images/graphic/jimventory/process_07.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/jimventory/_thumb/process_08.jpg">assets/images/graphic/jimventory/process_08.jpg</IMAGE>
+				<IMAGE TYPE="process" THUMB="assets/images/graphic/jimventory/_thumb/process_09.jpg">assets/images/graphic/jimventory/process_09.jpg</IMAGE>
+			</SET>
+			<TECH>
+				<T>Processing BETA</T>
+				<T>Reactivision</T>
+				<T>XML</T>
+				<T>Radial Arm Saw</T>
+				<T>Band Saw</T>
+				<T>Plainer</T>
+				<T>Hot Glue Gun</T>
+			</TECH>
+			<CONCEPT>Have you ever stopped and thought about how many things you own, I mean really every single thing in your everyday space and why you have them. I find that within my clutter many things go predominantly unused or even forgotten. But why do we keep so much that we don't really use or need, what compels us to hang on to the clutter. Perhaps its more about our emotional relationship with the object, than its physical attributes. These relationships can be as simple as utility or a fascination or as complex as a memory or of sentiment. Either large or small, utilitarian or sentimental, this relationship seems to prevail over the tangible object. It is these reasons, these attachments we have with our surroundings that I became interested in. 
+
+Helping me to realize that I have these things for more than just there material value, I have them for a deeper reason and purpose. These things collectively have the capacity to define me. Perhaps in looking into the very reasons we keep the clutter, one could possibly glean something about a person. Through the process of inventory I used to catalogue the very things in my work space, I ask the user to participate in my inventory to learn something more about me.
+
+DESCRIPTION OF INTERACTION
+Simple wooden blocks, 60 in total, each representing a single item, that happened to be sitting on my desk on a random Saturday afternoon at 6:00pm. Each block is accompanied by unique bar code, associating the block (the representational object) with the reason why I have it. A barcode scanner is set up nearby, so the user can grab and scan my blocks to reveal the relationships I have with each thing.</CONCEPT>
+		</PROJECT>
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->	
+
+		<PROJECT TITLE="Tidal Project" FULLTITLE="Tidal Project: Stories of a swelling freshwater crisis." TAB="Awareness Campaign: A Message In A Bottle" MEDIA="Print" DATE="2008">
+			<VIDEO></VIDEO>
+			<SET>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/tidal_project/_thumb/tidal_project0.jpg">assets/images/graphic/tidal_project/tidal_project0.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/tidal_project/_thumb/tidal_project1.jpg">assets/images/graphic/tidal_project/tidal_project1.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/tidal_project/_thumb/tidal_project2.jpg">assets/images/graphic/tidal_project/tidal_project2.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/tidal_project/_thumb/tidal_project3.jpg">assets/images/graphic/tidal_project/tidal_project3.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/tidal_project/_thumb/tidal_project4.jpg">assets/images/graphic/tidal_project/tidal_project4.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/tidal_project/_thumb/tidal_project5.jpg">assets/images/graphic/tidal_project/tidal_project5.jpg</IMAGE>
+			</SET>
+			<TECH>
+				<T>Any Printer</T>
+				<T>Spare Bottles</T>
+				<T>Packaging Tape</T>
+				<T>Motivation</T>
+			</TECH>
+			<CONCEPT>Tidal is the growing collection of stories that otherwise would have been left untold. They are the families and communities in our own back yards that are being effected by the swelling fresh water crisis. This is no longer a matter of some family over there, it is here, it is now, it is effecting all of us. Even in Michigan, a state surrounded by 28 percent of the world's fresh water is on the tipping point, such as the long term effects of large scale irrigation and the families that go without fresh water during the summer months. Or Detroit’s 40,000 in Highland Park that have been disconnected from their water. Or the effects of a Nestle Bottled water plant on the environment and local communities. Or the large scale pollution of the great lakes from near by Oil Sand Refineries. It is in these local stories that have seemingly gone untold, the stories, the issues of our own communities that I address, gathered from the very families affected by our municipal neglect and complacency towards policy development.
+
+Tidal is the rising awareness in the very regions these issues affect. Stories that will inspire action and participation in local organizations, and encouraging political involvement in policy making. An awareness through a traveling Message, a Message with no intended recipient only the hope it will find an interested hand. A sort of modern Message in a bottle, released, left for someone to find. Inspired from the tiny and gratifying discovery of a message inside of something, left from someone else, set into the world, eventually landing in your path. Set out into naturally occurring systems of circulation, the message would travel until interrupted by a passer by. Tidal will be set out into centers where masses of people circulate through everyday or systems that circulate masses of people everyday.</CONCEPT>
+		</PROJECT>
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->	
+
+		<PROJECT TITLE="GD Showcase" FULLTITLE="Graphic Design Student Showcase 2008 - 2009" TAB="Promotional Site" MEDIA="Interactive" BTNNAME="LAUNCH WEBSITE" DATE="2008" LINKURL="http://gdshowcase.collegeforcreativestudies.edu">
+			<VIDEO></VIDEO>
+			<SET>
+				<IMAGE TYPE="final" THUMB="">assets/images/graphic/gd_showcase/gd_showcase.jpg</IMAGE>
+			</SET>
+			<TECH>
+				<T>HTML</T>
+				<T>CSS</T>
+				<T>PHP</T>
+				<T>MySQL</T>				
+				<T>Actionscript 2.0</T>
+				<T>XML</T>
+			</TECH>
+			<CONCEPT>The design and development of a micro site to showcase graphic design student work at the College for Creative Studies. The Student Showcase is an online portfolio of student work and is used as a tool for potential employers.  
+
+DESIGN CONSIDERATION
+Our task for the Student Showcase was to present, at once, all sophomore, junior and senior work, on objective and equal grounds, while organizing the work into categories that appropriately represent the diversity found in the students explorations. The design consists of a simple categorized presentation of all the work. The user is lead through a field of thumbnails, into individual student pages that consist of a description of the piece and thumbnails of their other work. Given the complexity of the visceral experience, a favorites functionality was added as well as an alphabetical directory of the students and a sorting tool for class level, to aid in a user's navigation and re navigation of the site.</CONCEPT>
+		</PROJECT>			
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|	-->
+
+		<PROJECT TITLE="The Detroit Zoo" FULLTITLE="The Detroit Zoological Society: Idenity Redesign" TAB="Identity System" MEDIA="Print" DATE="2007">
+			<VIDEO></VIDEO>
+			<SET>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/detroit_zoo/_thumb/detroitzoo0.jpg">assets/images/graphic/detroit_zoo/detroitzoo0.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/detroit_zoo/_thumb/detroitzoo1.jpg">assets/images/graphic/detroit_zoo/detroitzoo1.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/detroit_zoo/_thumb/detroitzoo2.jpg">assets/images/graphic/detroit_zoo/detroitzoo2.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/detroit_zoo/_thumb/detroitzoo3.jpg">assets/images/graphic/detroit_zoo/detroitzoo3.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/detroit_zoo/_thumb/detroitzoo4.jpg">assets/images/graphic/detroit_zoo/detroitzoo4.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/detroit_zoo/_thumb/detroitzoo5.jpg">assets/images/graphic/detroit_zoo/detroitzoo5.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/detroit_zoo/_thumb/detroitzoo6.jpg">assets/images/graphic/detroit_zoo/detroitzoo6.jpg</IMAGE>
+			</SET>
+			<TECH></TECH>
+			<CONCEPT>The Detroit Zoological Park is a micro representation of the worlds five biogeographic regions, more commonly known as Biomes. Much like a map allows its participant to experience a large amount of geographic data at a glance, the Zoological Park allows for a similar interaction involving these five Biomes. The Detroit Zoological Park acts as a map to navigate the worlds regions at a glance, despite a vast physical separation.
+
+Inspired by the nomenclature of maps to describe the physical terrane and conditions of an area, the Detroit Zoological Society's system emerged. With the inherit iconography, a method can be found to distill and represent the worlds five biogeographic realms. The five biomes represent the most basic division of the worlds surface, defined by four constants to a regions unique climate, fauna, flora and geography.
+
+The system for the Detroit Zoological Society is comprised of five graphic marks symbolizing these biogeographic regions within Park's boundaries and a logotype embodying the members of the Detroit Zoological Society.</CONCEPT>
+		</PROJECT>	
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->	
+
+		<PROJECT TITLE="Yellowskyscraper 2.0" FULLTITLE="Yellowskyscraper: Phase Two." TAB="Construction and Development" MEDIA="Interactive" BTNNAME="LAUNCH WEBSITE" DATE="2008" LINKURL="assets/interactive/v2/index.html">
+			<VIDEO></VIDEO>
+			<SET>
+				<IMAGE TYPE="final" THUMB="">assets/images/graphic/v2/v2.jpg</IMAGE>
+			</SET>
+			<TECH>
+				<T>HTML</T>
+				<T>CSS</T>
+				<T>PHP</T>
+				<T>Actionscript 2.0</T>
+			</TECH>
+			<CONCEPT>The second re-installment of the Yellowskyscraper development plan, earmarking the first official attempt to diagram, at scale, a completely malleable framework. Developed with the ongoing growth and construction of the stories represented here in mind. 
+
+This framework provides a firm basis for rational and consistent planning decisions, while allowing the fluid reconsideration of its rigidity at any point during its construction and development.</CONCEPT>
+		</PROJECT>	
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->	
+
+		<PROJECT TITLE="JIM: Standards" FULLTITLE="JIM: The Essentials, Applying the JIM Brand." TAB="SELF STANDARDS" MEDIA="Interactive" BTNNAME="LAUNCH STANDARDS GUID" DATE="2007" LINKURL="assets/interactive/jim_standards/index.html">
+			<VIDEO></VIDEO>
+			<SET>
+				<IMAGE TYPE="final" THUMB="">assets/images/graphic/jim_standards/jim_standards.jpg</IMAGE>
+			</SET>
+			<TECH>
+				<T>HTML</T>
+				<T>CSS</T>
+				<T>Flash CS3</T>
+				<T>Actionscript 2.0</T>
+			</TECH>
+			<CONCEPT>This Brand Identity Guide was developed to provide the foundation for consistent application of the JIM brand across all media including Interface, Web, Collateral, Promotions, and Advertising. Consistently expressing the JIM visual identity builds a strong brand awareness, allowing JIM to become the marketplace leader. 
+
+Please follow these guidelines for the most effective expression of the JIM brand.</CONCEPT>
+		</PROJECT>	
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->	
+
+		<PROJECT TITLE="Concrete Landscape" FULLTITLE="Our Ever Expanding Concrete Landscape" TAB="Interactive Response" MEDIA="Interactive" BTNNAME="LAUNCH WEBSITE" DATE="2008" LINKURL="assets/interactive/concrete/index.html">
+			<VIDEO></VIDEO>
+			<SET>
+				<IMAGE TYPE="final" THUMB="">assets/images/graphic/concrete_landscape/concrete_landscape.jpg</IMAGE>
+			</SET>
+			<TECH>
+				<T>HTML</T>
+				<T>CSS</T>
+			</TECH>
+			<CONCEPT>In most cases these days it is far more efficient and cost effective to solve a problem without really solving the problem at all. If patching a hole is more cost effective than figuring out how the hole got there in the first place, why not just patch the hole? We build more roadways to accommodate our ever growing commuter culture, but how far must it go? With the ever increasing time we spend on the road especially in traffic jams, when will the time come when we stop building more roads and try to understand this phenomena for what it is and what is behind it. A site as a catalyse for discussion on the topic at hand, how do we address this problem? Do we really need to expand our concrete landscape even farther, when will it cease?</CONCEPT>
+		</PROJECT>		
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->	
+
+		<PROJECT TITLE="Graphic Emotive" FULLTITLE="Graphic Emotive: Jonathan Barnbrook." TAB="Print" MEDIA="Print" DATE="2007">
+			<VIDEO></VIDEO>
+			<SET>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/graphic_emotive/_thumb/graphic_emotive0.jpg">assets/images/graphic/graphic_emotive/graphic_emotive0.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/graphic_emotive/_thumb/graphic_emotive1.jpg">assets/images/graphic/graphic_emotive/graphic_emotive1.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/graphic_emotive/_thumb/graphic_emotive2.jpg">assets/images/graphic/graphic_emotive/graphic_emotive2.jpg</IMAGE>
+			</SET>
+			<TECH></TECH>
+			<CONCEPT>A simple questioning of convention, an alteration or consideration of ones individual perception within his environment. Jonathan Barnbrook, Damien Hurst and Adbusters alike, consider  the conventional in new and interesting ways. Allowing for us to reflect upon the way in which we perceive information. With these cards I questioned the potential of a linear and complete read of information, a ‘book’. I also considered the relationships between content, images and read. Abstracting their individual rolls away from the usual understanding of a book.</CONCEPT>
+		</PROJECT>		
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->	
+
+		<PROJECT TITLE="Arts &amp; Scraps" FULLTITLE="Arts &amp; Scraps" TAB="Promotional Scrap" MEDIA="Print" DATE="2007">
+			<VIDEO></VIDEO>
+			<SET>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/arts_scraps/_thumb/arts_scraps1.jpg">assets/images/graphic/arts_scraps/arts_scraps1.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/arts_scraps/_thumb/arts_scraps2.jpg">assets/images/graphic/arts_scraps/arts_scraps2.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/arts_scraps/_thumb/arts_scraps3.jpg">assets/images/graphic/arts_scraps/arts_scraps3.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/arts_scraps/_thumb/arts_scraps4.jpg">assets/images/graphic/arts_scraps/arts_scraps4.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/arts_scraps/_thumb/arts_scraps5.jpg">assets/images/graphic/arts_scraps/arts_scraps5.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/arts_scraps/_thumb/arts_scraps6.jpg">assets/images/graphic/arts_scraps/arts_scraps6.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/arts_scraps/_thumb/arts_scraps7.jpg">assets/images/graphic/arts_scraps/arts_scraps7.jpg</IMAGE>
+			</SET>
+			<TECH></TECH>
+			<CONCEPT>Arts &amp; Scraps provides children with creative experiences using recycled industrial scraps to actively involve them in learning, increase their confidence and encourage independent thinking.
+
+DESIGN CONSIDERATION
+These solutions are meant to align with the non-wast, second life ideals of the Arts &amp; Scraps organization. The designs are minimal in form and printed on recycled industrial papers. Either processed recycled paper or straight up found materials, such as graphs, schematics, blue prints and so on. The three themes represented throughout the series are a 'Call for Donation', a 'Fabric Sale', and a 'Self Awareness' promotional. The series consists of six deluxe post cards, a 18x 24 in poster, a mailer with premium and a micro site.</CONCEPT>
+		</PROJECT>
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->
+
+		<PROJECT TITLE="The Greening of Detroit" FULLTITLE="The Greening of Detroit: Separate yet necessary in all things green." TAB="Stationary System" MEDIA="Print" DATE="2007">
+			<VIDEO></VIDEO>
+			<SET>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/greening/_thumb/greening1.jpg">assets/images/graphic/greening/greening1.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/greening/_thumb/greening2.jpg">assets/images/graphic/greening/greening2.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/greening/_thumb/greening3.jpg">assets/images/graphic/greening/greening3.jpg</IMAGE>
+				<IMAGE TYPE="final" THUMB="assets/images/graphic/greening/_thumb/greening4.jpg">assets/images/graphic/greening/greening4.jpg</IMAGE>
+			</SET>
+			<TECH></TECH>
+			<CONCEPT>The Greening of Detroit's Mission is to grow a 'greener' Detroit through planting, educational programs, environmental advocacy, and by developing community capacity. The Greening of Detroit offers programs that build a tighter community, which improves the quality of life within Detroit. Through their various programs, they are advocating clean environmentally forward solutions to the spaces of Detroit. The Greening is a necessary influence in the preservation of all things green. While in fact The Greening is separate from the actual physical growth in Detroit's spaces, they are a necessary influence in sustaining that growth and new growth. Much like the Greening the Butterfly, the Wasp and the Humming Bird are an intricate part of sustaining an ecosystem, separate from but necessary in the growth of all things Green.</CONCEPT>
+		</PROJECT>
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->
+		<!--	
+		<PROJECT TITLE="Fork Stab" FULLTITLE="Fork Stab: An Exploration of Process" TAB="Violent Process" MEDIA="Print" DATE="2007">
+			<VIDEO></VIDEO>
+			<SET>
+				<IMAGE TYPE="final" THUMB="">assets/images/graphic/fork/fork.jpg</IMAGE>
+			</SET>
+			<TECH>
+				<T>Scissors & Tape</T>
+				<T>Photo copier</T>
+				<T>Photoshop</T>
+			</TECH>
+			<CONCEPT>A fork, an implement with two or more prongs used for lifting food to the mouth or holding it when cutting. An object that when used, in all actuality, is quite violent in nature.</CONCEPT>
+		</PROJECT>	
+		-->	
+	</GRAPHIC>	
+<!--//////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//////////////////////////////////////////////////////////////////////////////////|
+//| PHOTOGRAPHIC -->		
+	
+	<PHOTOGRAPHIC TITLE="Photographic">
+		<SET TITLE="Urban Environments" TAB="">
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_0.jpg">assets/images/photographic/urban_0.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_1.jpg">assets/images/photographic/urban_1.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_2.jpg">assets/images/photographic/urban_2.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_3.jpg">assets/images/photographic/urban_3.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_4.jpg">assets/images/photographic/urban_4.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_5.jpg">assets/images/photographic/urban_5.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_6.jpg">assets/images/photographic/urban_6.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_7.jpg">assets/images/photographic/urban_7.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_8.jpg">assets/images/photographic/urban_8.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_9.jpg">assets/images/photographic/urban_9.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_10.jpg">assets/images/photographic/urban_10.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_11.jpg">assets/images/photographic/urban_11.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_12.jpg">assets/images/photographic/urban_12.jpg</IMAGE>
+			<!-- <IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_13.jpg">assets/images/photographic/urban_13.jpg</IMAGE>-->
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_24.jpg">assets/images/photographic/urban_24.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_25.jpg">assets/images/photographic/urban_25.jpg</IMAGE>
+			
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_14.jpg">assets/images/photographic/urban_14.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_15.jpg">assets/images/photographic/urban_15.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_16.jpg">assets/images/photographic/urban_16.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_17.jpg">assets/images/photographic/urban_17.jpg</IMAGE>
+			<!-- <IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_18.jpg">assets/images/photographic/urban_18.jpg</IMAGE> 
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_19.jpg">assets/images/photographic/urban_19.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_20.jpg">assets/images/photographic/urban_20.jpg</IMAGE>-->
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_21.jpg">assets/images/photographic/urban_21.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_22.jpg">assets/images/photographic/urban_22.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/urban_23.jpg">assets/images/photographic/urban_23.jpg</IMAGE>
+		</SET>
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->	
+		<SET TITLE="Rural Explorations" TAB="">
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/rural_0.jpg">assets/images/photographic/rural_0.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/rural_1.jpg">assets/images/photographic/rural_1.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/rural_2.jpg">assets/images/photographic/rural_2.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/rural_3.jpg">assets/images/photographic/rural_3.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/rural_4.jpg">assets/images/photographic/rural_4.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/rural_5.jpg">assets/images/photographic/rural_5.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/rural_6.jpg">assets/images/photographic/rural_6.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/rural_7.jpg">assets/images/photographic/rural_7.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/rural_8.jpg">assets/images/photographic/rural_8.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/rural_9.jpg">assets/images/photographic/rural_9.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/rural_10.jpg">assets/images/photographic/rural_10.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/rural_11.jpg">assets/images/photographic/rural_11.jpg</IMAGE>
+			<!-- <IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/rural_12.jpg">assets/images/photographic/rural_12.jpg</IMAGE> -->
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/rural_13.jpg">assets/images/photographic/rural_13.jpg</IMAGE>
+		</SET>
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->	
+		<SET TITLE="People Iv Passed" TAB="">
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_0.jpg">assets/images/photographic/people_0.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_1.jpg">assets/images/photographic/people_1.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_2.jpg">assets/images/photographic/people_2.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_3.jpg">assets/images/photographic/people_3.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_4.jpg">assets/images/photographic/people_4.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_5.jpg">assets/images/photographic/people_5.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_6.jpg">assets/images/photographic/people_6.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_7.jpg">assets/images/photographic/people_7.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_8.jpg">assets/images/photographic/people_8.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_9.jpg">assets/images/photographic/people_9.jpg</IMAGE>
+			<!-- <IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_9.jpg">assets/images/photographic/people_10.jpg</IMAGE> -->
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_11.jpg">assets/images/photographic/people_11.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_12.jpg">assets/images/photographic/people_12.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_13.jpg">assets/images/photographic/people_13.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_14.jpg">assets/images/photographic/people_14.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_15.jpg">assets/images/photographic/people_15.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_16.jpg">assets/images/photographic/people_16.jpg</IMAGE>
+			<!-- <IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/people_17.jpg">assets/images/photographic/people_17.jpg</IMAGE> -->
+		</SET>
+<!--////////////////////////////////|
+////////////////////////////////////|
+//|-->	
+		<SET TITLE="Things That Dont Fit" TAB="">
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/misc_0.jpg">assets/images/photographic/misc_0.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/misc_1.jpg">assets/images/photographic/misc_1.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/misc_2.jpg">assets/images/photographic/misc_2.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/misc_3.jpg">assets/images/photographic/misc_3.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/misc_4.jpg">assets/images/photographic/misc_4.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/misc_5.jpg">assets/images/photographic/misc_5.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/misc_6.jpg">assets/images/photographic/misc_6.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/misc_7.jpg">assets/images/photographic/misc_7.jpg</IMAGE>
+			<IMAGE TYPE="final" TITLE="" THUMB="assets/images/photographic/_thumb/misc_8.jpg">assets/images/photographic/misc_8.jpg</IMAGE>
+		</SET>		
+				
+	</PHOTOGRAPHIC>
+	
+</MENU>
+

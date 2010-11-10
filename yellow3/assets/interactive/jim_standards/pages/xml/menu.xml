@@ -1,0 +1,8 @@
+<MENU TITLE="Yellow Skyscraper" DARK="0x465B52" LIGHT="0x8B9893" HIGHLIGHT="0x00B5AD">
+	<SECTION TITLE="Overview">overview.html</SECTION>
+	<!--<SECTION TITLE="Logo-Type">logo.html</SECTION>-->
+	<SECTION TITLE="Color">color.html</SECTION>
+	<SECTION TITLE="Proportions">proportions.html</SECTION>
+	<SECTION TITLE="Configuration">configuration.html</SECTION>
+	<SECTION TITLE="Miss-Use">missuse.html</SECTION>
+</MENU>

@@ -1,0 +1,35 @@
+<MENU TITLE="Yellow Skyscraper" DARK="0x465B52" LIGHT="0x8B9893" HIGHLIGHT="0x00B5AD">
+	<SECTION TITLE="BIOGRAPHY">
+		<SUBNAV TITLE="Contact">pages/contact.html</SUBNAV>
+		<SUBNAV TITLE="Resume">pages/resume.html</SUBNAV>
+		<SUBNAV TITLE="Yellow  Skyscraper">pages/open.html</SUBNAV>
+		<SUBNAV TITLE="James Hovell">pages/james_hovell.html</SUBNAV>
+	</SECTION>
+
+	<SECTION TITLE="INTERACTIVE">
+		<SUBNAV TITLE="Vividbraille">pages/vividbraille.html</SUBNAV>
+		<SUBNAV TITLE="My Void">pages/void.html</SUBNAV>
+		<SUBNAV TITLE="Grafuc Standards">pages/grafuc.html</SUBNAV>
+		<SUBNAV TITLE="Road Noise">pages/road_noise.html</SUBNAV>
+		<SUBNAV TITLE="Concrete Landscape">pages/concrete_land.html</SUBNAV>
+		<SUBNAV TITLE="GD Showcase">pages/showcase.html</SUBNAV>
+	</SECTION>
+
+	<SECTION TITLE="PRINT">
+		<SUBNAV TITLE="Piston Revolution">pages/piston.html</SUBNAV>
+		<SUBNAV TITLE="Arts and Scraps">pages/scraps.html</SUBNAV>
+		<SUBNAV TITLE="Industrial Delray">pages/delray.html</SUBNAV>
+		<SUBNAV TITLE="The Greening of Detroit">pages/greening.html</SUBNAV>
+		<SUBNAV TITLE="Fork Stab">pages/fork.html</SUBNAV>
+		<SUBNAV TITLE="The Detroit Zoo">pages/detroit_zoo.html</SUBNAV>
+		<SUBNAV TITLE="Graphic Emotive">pages/graphic_emotive.html</SUBNAV>
+	</SECTION>
+
+	<SECTION TITLE="PHOTOGRAPHY">
+		<!--<SUBNAV TITLE="flickr">pages/james_hovell.html</SUBNAV>-->
+		<SUBNAV TITLE="Other">pages/other.html</SUBNAV>
+		<SUBNAV TITLE="People">pages/people.html</SUBNAV>
+		<SUBNAV TITLE="Rural">pages/rural.html</SUBNAV>
+		<SUBNAV TITLE="Urban">pages/urban.html</SUBNAV>
+	</SECTION>
+</MENU>

@@ -1,0 +1,649 @@
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/* HTML5 tags */
+	* { 
+		margin: 0; 
+		padding: 0; 
+		outline: 0; 
+	}
+
+	header, section, footer, aside, nav, article, figure {
+		display: block;
+	}
+
+	@font-face { 
+		font-family: GeorgiaBold; 
+		src: url(../fonts/Georgia-Bold.ttf) format("opentype"); 
+	}
+	
+	@font-face { 
+		font-family: GeorgiaBoldItalic; 
+		src: url(../fonts/Georgia-Bold-Italic.ttf) format("opentype"); 
+	}
+	
+	@font-face { 
+		font-family: Georgia; 
+		src: url(../fonts/Georgia.ttf) format("opentype");
+	}   
+	
+	@font-face { 
+		font-family: GeorgiaItalic; 
+		src: url(../fonts/Georgia-Italic.ttf) format("opentype");
+	}
+
+	body { 
+		background: url(images/pattern.gif); 
+	}
+
+	::selection { 
+		background-color: rgba(122, 192, 0, 0.2); 
+	}
+
+	::-moz-selection { 
+		background-color: rgba(122, 192, 0, 0.2); 
+		border: 10px solid red; 
+	}
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+
+	h1 { 
+		/*font-family: Georgia, Courier; firefox 3.6*/
+		font-family: GeorgiaBoldItalic;
+		font-size: 30px; 
+		color: #000000;
+	}
+	
+	h2 { 
+		/*font-family: Georgia, Courier; firefox 3.6*/
+		font-family: GeorgiaBold;    
+		font-size: 14px;
+		color: #000000;
+	}
+	
+	h3 { 	
+		/*font-family: Georgia, Courier; firefox 3.6*/
+		font-family: GeorgiaBold;
+		font-size: 10px; 
+		color: #000000;
+	}
+	
+	p { 
+		font-family: Georgia; 
+		font-size: 14px;
+		color: #4b4b4b;
+	}
+
+	strong { 
+	
+	}  	
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+
+	header { 
+		width: 937px;
+		height: 95px;
+		background-color: #FFF; 
+		margin: 0 auto;
+		position: relative; 
+		z-index: 10;
+	}
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+
+	#headercontainer { 
+		width: 930px;
+		margin: 0 auto; 
+		position: fixed;
+		border-bottom: 2px solid #000000;
+		left: 50%; 
+		margin: 0 0 0 -462px;
+	}
+	
+	#headercontainer div.topbar { 
+		width: 929px; 
+		height: 15px;
+		background-color: #000;
+		margin: 0 auto;
+	}	
+	
+	#headercontainer h1 { 
+		padding-bottom: 0px; 
+		position: fixed;
+		padding-left: 3px;
+		padding-top: 39px;   
+		margin-left: 7px;
+	}
+	
+	#headercontainer p { 
+		width: 450px;
+		padding-bottom: 0px; 
+		position: fixed;
+		padding-left: 5px;
+		padding-top: 143px;
+	}
+	
+	#headercontainer nav { 	
+		width: 925px;
+		background-color: #fff; 
+		padding-left: 5px;
+		margin-top: 58px;
+		position: absolute; 
+	}
+	
+	#headercontainer nav a { 
+		text-decoration:none;
+		font-family: Georgia;
+		font-size: 10px; 
+		color: #000000;
+			
+		float:right;
+		margin-right: 20px;
+	}
+	
+	#headercontainer nav a.active { 
+		font-family: GeorgiaBold;
+		height:20px;
+		font-size: 10px;
+		border-bottom: 2px solid #000000;
+	}
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+	
+	section {  
+		background-color: #444;
+		padding-bottom: 16px; 
+		padding-top: 110px;
+		float: left;
+	}
+	
+	section.detailprojects {  
+		background-color: #444;
+		padding-bottom: 16px; 
+		padding-top: 0px;
+		float: left;
+	}
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+
+	#contentcontainer { 
+		width: 965px; 
+		margin: 0 auto;
+		position: relative; 
+		float: none; 
+		padding: 0px;
+	}     	
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/   
+
+	#maindetail{ 
+		background-color: #fff;
+		padding-left:21px;
+	}
+/*//////////////////////////////////////////////////////////////////////////////////*/  
+
+    #maindetail div.titlebar{ 
+		background-color: #FFF;
+		border: 1px solid #000000;
+		width: 926px; 
+		height: 60px;
+		margin-left: 1px;
+		z-index: 3;
+	}
+
+	#maindetail div.titlebar h2 {
+		width: 925px;
+		margin-top: 15px;
+		margin-left: 15px;
+	}
+
+	#maindetail div.titlebar p { 
+		width: 926px;
+		font-size: 10px;
+		margin-left: 15px;
+	}     
+
+	#maindetail div.dividerbar{ 
+		background-color: #FFF;
+		border: 1px solid #000000;
+		width: 926px; 
+		height: 60px;
+		margin-top: 12px;
+		margin-left: 1px;
+		z-index: 3;
+	} 
+
+	#maindetail div.dividerdots{ 
+		background-color: #FFF;
+		border-top: 1px dotted #000000;
+		width: 929px; 
+		height: 1px;
+		margin-top: 17px;
+		margin-left: 1px;
+		z-index: 3;
+	}
+     
+	#maindetail .large_copy {  
+		background-color: #FFF;     
+		width: 880px;  
+		margin-left: 1px;  
+		padding: 10px;     
+		margin-top:0px;
+		margin-bottom:30px;
+	}    
+    
+	#maindetail .large_copy h1 {          
+		font-family: GeorgiaBold; 
+		font-size: 18px;  
+		margin-top:30px;
+		color: #000000;  
+	}
+
+	#maindetail .large_copy h2 {          
+		font-family: Georgia; 
+		font-size: 15px;  
+		color: #6d6d6d;
+		margin-top:40px;
+	}  
+    
+	#maindetail .large_copy p {  
+		font-family: GeorgiaItalic; 
+		font-size: 25px;     
+		line-height: 33px;
+		color: #4b4b4b; 
+		color: #6d6d6d;
+	}   
+	
+	#maindetail .large_copy p.subparagraph {  
+		font-family: Georgia;
+		font-size: 18px;     
+		line-height: 23px;        
+		width: 850px;
+	}  
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+
+	#mapcontainer {      
+		background-color: #000;
+		position: relative;   
+		width: 926px;
+		height: 400px;       
+	}   
+
+	#map {    
+		border: 1px solid #000000;           
+		width: 926px;
+		height: 400px;  
+		margin-left: 1px;  
+		margin-bottom: 10px; 
+		z-index: 0;
+	}   
+
+	#map h1{     
+   	font-family: GeorgiaBoldItalic;  
+		font-size: 14px;    
+		width:auto;     
+		height:auto;  
+	    margin-left: 2px;
+	}  
+
+	#map h2{   
+		font-family: GeorgiaBold;   
+		font-size: 10px;  	    
+		width:auto;     
+		height:auto;   
+	    margin-top: 6px;
+	    margin-left: 3px; 
+	}
+
+	#map p{  
+		font-size: 10px;       
+		width:auto;     
+		height:auto;  
+	    margin-left: 3px;
+	}     
+
+	#mapoverlay {         
+		background-color: #FFF;  
+		position: absolute;   
+		opacity:0.0;
+		filter:alpha(opacity=0);  
+		margin-top: 1px;  
+		margin-left: 2px;      
+		width: 926px;
+		height: 400px;    
+		z-index: 1;
+	}	    
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+
+	#detail{ 
+		background-color: #fff;
+		padding-left:21px;
+	}
+/*//////////////////////////////////////////////////////////////////////////////////*/
+	
+	#detail div.titlebar{ 
+		background-color: #FFF;
+		border: 1px solid #000000;
+		width: 926px; 
+		height: 65px;
+		margin-left: 1px;
+		z-index: 3;
+	}
+	
+	#detail div.titlebar h2 {
+		width: 925px;
+		margin-top: 20px;
+		margin-left: 15px;
+	}
+	
+	#detail div.titlebar p { 
+		width: 926px;
+		font-size: 10px;
+		margin-left: 15px;
+	}
+/*//////////////////////////////////////////////////////////////////////////////////*/
+
+	#detail div.inprogressbar{ 
+		width: 926px; 
+		height: 38px;
+		background-color: #fff;
+		background-color: rgba(210, 186, 244, 1);
+		border: 1px solid #000000;
+		margin-top: -2px;
+		margin-left: 1px;
+		margin-bottom: 0px;
+		z-index: 3;
+	}
+	
+	#detail div.inprogressbar h3 {  
+		font-family: GeorgiaItalic;
+		width: 905px;
+		position: absolute;
+		font-size: 14px;
+		color:#4704a2;   
+		padding-left: 20px;
+		padding-top: 9px;
+		padding-bottom: 8px;
+		margin-top: 3px;
+		margin-left: 0px;
+		z-index: 5;
+	}
+/*//////////////////////////////////////////////////////////////////////////////////*/
+	
+	#detail div.linkbar{  
+		width: 926px; 
+		height: 41px;
+		margin-top: -2px;
+		margin-left: 1px;
+		margin-bottom: 0px;
+		z-index: 3;
+	}
+
+	#detail div.linkbar div.bar{ 
+		width: 926px; 
+		height: 39px;
+		position: absolute;
+		background-color: #fff;
+		border-left: 1px solid #000000;
+		border-bottom: 1px solid #000000;
+		margin-top: 1px;
+		margin-left: 0px;
+		z-index: 3;
+	}
+	
+	#detail div.linkbar div.top{ 
+		width: 926px; 
+		height: 38px;
+		position: absolute;
+		/*background-color: #fff;*/
+		background-color: rgba(122, 192, 0, 0.2);
+		border: 1px solid #000000;
+		margin-top: 1px;
+		margin-left: 0px;
+		z-index: 3;
+	}
+
+	#detail div.linkbar:hover div.top{ 
+		background-color: #fff;
+		margin-top: 0px;
+		margin-left: 1px;
+	}
+
+	#detail div.linkbar h3 {  
+		font-family: GeorgiaItalic;   
+		color:#4b553a;
+		width: 905px;
+		position: absolute;
+		font-size: 14px;
+		padding-left: 20px;
+		padding-top: 9px;
+		padding-bottom: 8px;
+		margin-top: 4px;
+		margin-left: 2px;
+		z-index: 5;
+	}
+	
+	#detail div.linkbar:hover h3 {    
+		color:#000000;
+		margin-top: 3px;
+		margin-left: 3px;
+	}
+/*//////////////////////////////////////////////////////////////////////////////////*/
+	
+	#detail div.dividerbar{ 
+		background-color: #FFF;
+		border: 1px solid #000000;
+		width: 926px; 
+		height: 60px;
+		margin-top: 12px;
+		margin-left: 1px;
+		z-index: 3;
+	} 
+	
+	#detail div.dividerdots{ 
+		background-color: #FFF;
+		border-top: 1px dotted #000000;
+		width: 928px; 
+		height: 1px;
+		margin-top: 14px;
+		margin-left: 1px;
+		z-index: 3;
+	}
+	
+	#detail a {  
+		text-decoration:none;
+	}
+	
+	#detail h2 {
+		width: 453px;
+		margin-top: 0px;
+		padding-left: 5px;
+	}
+	
+	#detail p { 
+		width: 440px;
+		font-family: Georgia; 
+		font-size: 14px;
+		color: #4b4b4b;
+		padding-left: 5px;
+	}
+	
+	#detail img { 
+		border: 1px solid #000000;
+		margin-left: 1px;
+		margin-top: 16px;
+		margin-bottom: 0px;
+		margin-right: 10px;
+		z-index: 2;
+	}
+	
+	#detail .article_columns {
+		text-align: justify;
+		margin-top: 26px;
+		margin-bottom: 10px;
+		background-color: #fff;
+		
+		-moz-column-count: 2;
+		-moz-column-gap: 15px;
+		
+		-webkit-column-count: 2;
+		-webkit-column-gap: 15px;
+	}
+	
+	#detail .single_column {   
+		text-align: justify;
+		margin-top: 26px;
+		margin-bottom: 10px;
+		background-color: #fff;
+	}   
+	
+	#detail .explanation_column p{    
+		width:930px;
+		font-size: 3	0px;
+	}  
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/     
+
+	#portfolio{ 
+		background-color: #fff;
+		padding-left:21px;
+		/*padding-left:21px; firefox 3.6*/
+	}
+
+	#portfolio div.thumbnail { 
+		display: block;
+		position: relative;
+		float: left;
+		width: 220px; 
+		height: 367px;
+		margin-left: 1px;
+		margin-right: 15px;
+		margin-bottom: 17px;
+		background-color: #FFF;
+		clear:right;
+	}
+	
+	#portfolio div.thumbnail a {  
+		text-decoration:none;
+	}
+	
+	#portfolio div.thumbnail h2 {
+		width: 190px;
+		margin-top: 15px;
+		margin-left: 15px;
+	}
+	
+	#portfolio div.thumbnail p { 
+		width: 190px;
+		font-size: 10px;
+		margin-left: 15px;
+	}
+
+	#portfolio div.thumbnail div.bottom { 
+		/*Black Rectangle Background*/
+		position: absolute;
+		width: 220px; 
+		height: 369px;
+		background-color: #000;
+		margin-top: 1px;
+		z-index: 1;
+	}
+	
+	#portfolio div.thumbnail a:visited div.bottom {	
+		/*background-color: #00ffff;*/	
+	}
+
+	#portfolio div.thumbnail a img {
+		position: absolute;
+		border: 1px solid #000000;
+		margin-top: 1px;
+		z-index: 2;
+	}
+
+	#portfolio div.thumbnail:hover img {
+		margin-top: 0px;
+		margin-left: 1px;
+	}
+
+	#portfolio div.thumbnail a:visited img {
+		/*border: 1px solid #00ffff;*/
+	}
+
+	#portfolio div.thumbnail div.short { 
+		position: absolute;
+		background-color: #FFF;
+		border-top: 1px solid #000000;
+		width: 218px; 
+		height: 62px;
+		margin-top: 306px;
+		margin-left: 1px;
+		z-index: 3;
+	}
+	
+	#portfolio div.thumbnail:hover div.short { 
+		display:none;
+	}
+	
+	#portfolio div.thumbnail div.med { 
+		display:none;
+		position: absolute;
+		background-color: #FFF;
+		border-top: 1px solid #000000;
+		width: 218px; 
+		height: 62px;
+		margin-top: 305px;
+		margin-left: 2px;
+		padding-top: 0px;
+		z-index: 4;
+	}
+	
+	#portfolio div.thumbnail:hover div.med { 
+		display:block;
+	}
+	
+	#portfolio div.thumbnail div.long { 
+		display:none;
+		position: absolute;
+		background-color: #FFF;
+		border-top: 1px solid #000000;
+		width: 218px; 
+		height: 127px;
+		margin-top: 240px;
+		margin-left: 2px;
+		padding-top: 0px;
+		z-index: 4;
+	}
+	
+	#portfolio div.thumbnail div.long p { 
+		height: 78px;
+		overflow: hidden;
+	}
+	
+	#portfolio div.thumbnail:hover div.long { 
+		display:block;
+	}   	       
+      
+/*//////////////////////////////////////////////////////////////////////////////////*/
+
+	footer {
+/*		width: 930px;
+		height: 15px;
+		background-color: #000;
+		margin: 0 auto; 
+		position: fixed;
+		border-bottom: 2px solid #000000;
+		left: 50%;
+		bottom: 0px; 
+		margin: 0 0 0 -462px;
+		z-index: 20;*/
+	}
+/*//////////////////////////////////////////////////////////////////////////////////*/

@@ -1,0 +1,42 @@
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/* HTML5 tags */
+h1 { 
+	font-family: Georgia1, Georgia, serif;
+}
+
+h2 { 
+	font-family: Georgia1, Georgia, serif;
+}
+
+h3 { 	
+	font-family: Georgia1, Georgia, serif;
+}
+
+#detail{ 
+	padding-left:21px;
+}
+
+#detail div.linkbar h3 { 
+	font-family: Georgia1, Georgia, serif;
+	font-size: 10px;
+}
+
+#portfolio{ 
+	padding-left:21px;
+}
+
+#portfolio div.thumbnail p { 
+	font-family: Georgia1, Georgia, serif;
+	
+	font-size: 10px;
+}
+
+#portfolio div.thumbnail div.long { 
+	height: 139px;
+	margin-top: 228px;
+}
+
+#portfolio div.thumbnail div.long p{ 
+	height: 90px;
+}
+/*//////////////////////////////////////////////////////////////////////////////////*/

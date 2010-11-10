@@ -1,0 +1,49 @@
+/************************************************************
+
+	A PROTOTYPE
+	PROJECT: YELLOW SKYSCRAPER
+
+*************************************************************/
+
+	body{
+		background-color:#444444;
+		font-family:"Verdana", "Arial", sans;
+		font-size:10;
+		color:777777;
+		margin:5px;
+	}
+	
+	a{
+		text-decoration:none;
+		color:333333;
+	}
+	a:hover{
+		color:999999;
+	}
+	a:visited{
+		color:333333;
+	}
+/************************************************************
+
+	MAIN CONTAINER
+*************************************************************/
+	.container{
+		width:300;
+		height:auto;
+		
+		float:bottom;
+	
+		margin:5px 0px 0px 50px;
+		padding:10px;
+	}
+	
+	.title{
+		font-family:"Helvetica","Verdana", "Arial", sans;
+		font-size:14;
+		color:FFFFFF;
+	}
+
+/************************************************************
+
+
+*************************************************************/

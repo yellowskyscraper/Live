@@ -1,0 +1,39 @@
+<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="../script/page_style.css" />
+	<script type="text/javascript" src="../script/variables.js"></script>
+	<script type="text/javascript">
+	
+		var one = new Image();   
+		one.src = "../img/print/posters/84million.jpg";
+		
+		var two = new Image();   
+		two.src = "../img/print/posters/revolution.jpg";
+
+		function changeContent(img){
+			document.image1.src = img;
+		}
+
+	</script>
+	</head>
+	<body onload="goSetHeight()">
+		<div class="header">
+			Piston Revolution:
+		</div>
+		
+		<div class="image">
+			<img src="../img/print/posters/84million.jpg" name="image1">
+		</div>
+		
+		<div class="body">
+			<span class="spanHead">The Posters:<br></span>
+			<span class="links1">
+				<a href="javascript://" onClick="javascript:changeContent(two.src);">&nbsp;&nbsp;&nbsp;&nbsp;A Growing Revolution</a><br>
+				<a href="javascript://" onClick="javascript:changeContent(one.src);">&nbsp;&nbsp;&nbsp;&nbsp;84 Million Barrels</a><br><br>
+			</span>
+			
+			<span class="spanHead">Connotative Exploration of an Object.<br></span>
+			The piston is a vital component in an internal combustion engine. This is what drives every moving vehicle on the road. These engines are powered by petroleum a non-replenishable natural resource, more commonly known as fossil fuel. One would see when a small amount of high-energy fuel is put into a small, enclosed space then ignited; an incredible amount of energy is released in the form of expanding gas. If one can harness that energy and create a cycle that allows a person to set off explosions like that hundreds of times per minute, what would be created is at the core of every car.
+		</div>
+	</body>
+</html>

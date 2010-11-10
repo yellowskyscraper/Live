@@ -1,0 +1,40 @@
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/* HTML5 tags */
+	* { 
+		margin: 0; 
+		padding: 0; 
+		outline: 0; 
+	}
+
+	header, section, footer, aside, nav, article, figure {
+		display: block;
+	}
+
+	@font-face { 
+		font-family: GeorgiaBold; 
+		src: url(../fonts/Georgia-Bold.ttf) format("opentype"); 
+	}
+	
+	@font-face { 
+		font-family: GeorgiaBoldItalic; 
+		src: url(../fonts/Georgia-Bold-Italic.ttf) format("opentype"); 
+	}
+	
+	@font-face { 
+		font-family: Georgia; 
+		src: url(../fonts/Georgia.ttf) format("opentype");
+	}
+
+	body { 
+		background-color: #000;
+	}
+
+	::selection { 
+		background-color: rgba(122, 192, 0, 0.2); 
+	}
+
+	::-moz-selection { 
+		background-color: rgba(122, 192, 0, 0.2); 
+		border: 10px solid red; 
+	}
+/*//////////////////////////////////////////////////////////////////////////////////*/

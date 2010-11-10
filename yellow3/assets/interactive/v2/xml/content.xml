@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+
+<WORK>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_0.jpg">../img/photography/urban/urban_0.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_1.jpg">../img/photography/urban/urban_1.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_2.jpg">../img/photography/urban/urban_2.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_3.jpg">../img/photography/urban/urban_3.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_4.jpg">../img/photography/urban/urban_4.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_5.jpg">../img/photography/urban/urban_5.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_6.jpg">../img/photography/urban/urban_6.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_7.jpg">../img/photography/urban/urban_7.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_8.jpg">../img/photography/urban/urban_8.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_9.jpg">../img/photography/urban/urban_9.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_10.jpg">../img/photography/urban/urban_10.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_11.jpg">../img/photography/urban/urban_11.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_12.jpg">../img/photography/urban/urban_12.jpg</URBAN>
+<!--<URBAN thumb="../img/photography/urban/_thumb/urban_13.jpg">../img/photography/urban/urban_13.jpg</URBAN>-->
+	<URBAN thumb="../img/photography/urban/_thumb/urban_14.jpg">../img/photography/urban/urban_14.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_15.jpg">../img/photography/urban/urban_15.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_16.jpg">../img/photography/urban/urban_16.jpg</URBAN>
+	<URBAN thumb="../img/photography/urban/_thumb/urban_17.jpg">../img/photography/urban/urban_17.jpg</URBAN>
+	
+	<RURAL thumb="../img/photography/rural/_thumb/rural_0.jpg">../img/photography/rural/rural_0.jpg</RURAL>
+	<RURAL thumb="../img/photography/rural/_thumb/rural_1.jpg">../img/photography/rural/rural_1.jpg</RURAL>
+	<RURAL thumb="../img/photography/rural/_thumb/rural_2.jpg">../img/photography/rural/rural_2.jpg</RURAL>
+	<RURAL thumb="../img/photography/rural/_thumb/rural_3.jpg">../img/photography/rural/rural_3.jpg</RURAL>
+	<RURAL thumb="../img/photography/rural/_thumb/rural_4.jpg">../img/photography/rural/rural_4.jpg</RURAL>
+	<RURAL thumb="../img/photography/rural/_thumb/rural_5.jpg">../img/photography/rural/rural_5.jpg</RURAL>
+	<RURAL thumb="../img/photography/rural/_thumb/rural_6.jpg">../img/photography/rural/rural_6.jpg</RURAL>
+	<RURAL thumb="../img/photography/rural/_thumb/rural_7.jpg">../img/photography/rural/rural_7.jpg</RURAL>
+	<RURAL thumb="../img/photography/rural/_thumb/rural_8.jpg">../img/photography/rural/rural_8.jpg</RURAL>
+	<RURAL thumb="../img/photography/rural/_thumb/rural_9.jpg">../img/photography/rural/rural_9.jpg</RURAL>
+	<RURAL thumb="../img/photography/rural/_thumb/rural_10.jpg">../img/photography/rural/rural_10.jpg</RURAL>
+	<RURAL thumb="../img/photography/rural/_thumb/rural_11.jpg">../img/photography/rural/rural_11.jpg</RURAL>
+	
+	<PEOPLE thumb="../img/photography/people/_thumb/people_0.jpg">../img/photography/people/people_0.jpg</PEOPLE>
+	<PEOPLE thumb="../img/photography/people/_thumb/people_1.jpg">../img/photography/people/people_1.jpg</PEOPLE>
+	<PEOPLE thumb="../img/photography/people/_thumb/people_2.jpg">../img/photography/people/people_2.jpg</PEOPLE>
+	<PEOPLE thumb="../img/photography/people/_thumb/people_3.jpg">../img/photography/people/people_3.jpg</PEOPLE>
+	<PEOPLE thumb="../img/photography/people/_thumb/people_4.jpg">../img/photography/people/people_4.jpg</PEOPLE>
+	<PEOPLE thumb="../img/photography/people/_thumb/people_5.jpg">../img/photography/people/people_5.jpg</PEOPLE>
+	<PEOPLE thumb="../img/photography/people/_thumb/people_6.jpg">../img/photography/people/people_6.jpg</PEOPLE>
+	<PEOPLE thumb="../img/photography/people/_thumb/people_7.jpg">../img/photography/people/people_7.jpg</PEOPLE>
+	<PEOPLE thumb="../img/photography/people/_thumb/people_8.jpg">../img/photography/people/people_8.jpg</PEOPLE>
+	<PEOPLE thumb="../img/photography/people/_thumb/people_9.jpg">../img/photography/people/people_9.jpg</PEOPLE>
+	<PEOPLE thumb="../img/photography/people/_thumb/people_10.jpg">../img/photography/people/people_10.jpg</PEOPLE>
+	<PEOPLE thumb="../img/photography/people/_thumb/people_11.jpg">../img/photography/people/people_11.jpg</PEOPLE>
+	<PEOPLE thumb="../img/photography/people/_thumb/people_12.jpg">../img/photography/people/people_12.jpg</PEOPLE>
+<!--<PEOPLE thumb="../img/photography/people/_thumb/people_13.jpg">../img/photography/people/people_13.jpg</PEOPLE>-->
+	
+	<OTHER thumb="../img/photography/other/_thumb/other_0.jpg">../img/photography/other/other_0.jpg</OTHER>
+	<OTHER thumb="../img/photography/other/_thumb/other_1.jpg">../img/photography/other/other_1.jpg</OTHER>
+	<OTHER thumb="../img/photography/other/_thumb/other_2.jpg">../img/photography/other/other_2.jpg</OTHER>
+	<OTHER thumb="../img/photography/other/_thumb/other_3.jpg">../img/photography/other/other_3.jpg</OTHER>
+	<OTHER thumb="../img/photography/other/_thumb/other_4.jpg">../img/photography/other/other_4.jpg</OTHER>
+	<OTHER thumb="../img/photography/other/_thumb/other_5.jpg">../img/photography/other/other_5.jpg</OTHER>
+	<OTHER thumb="../img/photography/other/_thumb/other_6.jpg">../img/photography/other/other_6.jpg</OTHER>
+	<OTHER thumb="../img/photography/other/_thumb/other_7.jpg">../img/photography/other/other_7.jpg</OTHER>
+
+</WORK>

@@ -1,0 +1,27 @@
+/*//////////////////////////////////////////////////////////////////////////////////*/
+/* HTML5 tags */
+#detail{ 
+	padding-left:20px;
+}
+
+#detail div.linkbar h3 { 
+	font-size: 10px;
+}
+
+#portfolio{ 
+	padding-left:20px;
+}
+
+#portfolio div.thumbnail p { 
+	font-size: 10px;
+}
+
+#portfolio div.thumbnail div.long { 
+	height: 139px;
+	margin-top: 228px;
+}
+
+#portfolio div.thumbnail div.long p{ 
+	height: 90px;
+}
+/*//////////////////////////////////////////////////////////////////////////////////*/

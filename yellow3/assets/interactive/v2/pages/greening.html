@@ -1,0 +1,52 @@
+<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="../script/page_style.css" />
+	<script type="text/javascript" src="../script/variables.js"></script>
+	<script type="text/javascript">
+	
+		var one = new Image();   
+		one.src = "../img/print/greening/bttr.jpg";
+		
+		var two = new Image();   
+		two.src = "../img/print/greening/bird.jpg";
+		
+		var three = new Image();   
+		three.src = "../img/print/greening/wasp.jpg";
+		
+		var four = new Image();   
+		four.src = "../img/print/greening/detail.jpg";
+
+		function changeContent(img){
+			document.image1.src = img;
+		}
+
+	</script>
+	</head>
+	<body onload="goSetHeight()">
+		<div class="header">
+			The Greening of Detroit:<br>
+			A Graphic Identity.
+		</div>
+		
+		<div class="image">
+			<img src="../img/print/greening/bttr.jpg" name="image1">
+		</div>
+		
+		<div class="body">
+			<span class="spanHead">The Marks:<br></span>
+			<span class="links1">
+				<a href="javascript://" onClick="javascript:changeContent(two.src);">&nbsp;&nbsp;&nbsp;&nbsp;Bird</a><br>
+				<a href="javascript://" onClick="javascript:changeContent(three.src);">&nbsp;&nbsp;&nbsp;&nbsp;Wasp</a><br>
+				<a href="javascript://" onClick="javascript:changeContent(one.src);">&nbsp;&nbsp;&nbsp;&nbsp;Butterfly</a><br>
+				<a href="javascript://" onClick="javascript:changeContent(four.src);">&nbsp;&nbsp;&nbsp;&nbsp;Play</a><br><br>
+			</span>
+			
+			<span class="spanHead">The Idea:<br></span>
+			The Greening of Detroit's Mission is to grow a 'greener' Detroit through planting, educational programs, environmental advocacy, and by developing community capacity. The Greening of Detroit offers programs that build a tighter community, which improves the quality of life within Detroit. Through their various programs, they are advocating clean environmentally forward solutions to the spaces of Detroit. The Greening is a necessary influence in the preservation of all things green. While in fact The Greening is separate from the actual physical growth in Detroit's spaces, they are a necessary influence in sustaining that growth & new growth. Much like the Greening the Butterfly, the Wasp and the Humming Bird are an intricate part of sustaining an ecosystem, separate from but necessary in the growth of all things Green.
+		</div>
+		
+
+		
+
+	</body>
+</html>
