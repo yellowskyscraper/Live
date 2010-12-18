@@ -37,25 +37,35 @@
 			<div class="titlebar">
 				<h2>Little Blank Books</h2>
 				<p>Grab a Little Blank Book and begin.</p>
+			</div> 
+			     
+			<div class="detailsbar">    
+				<p>Project Status <span class="black">|</span> Month Year <span class="black">|</span> Media Type or Category</p> 
+       
+				<div class='social'>    
+					<?php   
+					$header = 'Yellowskyscraper';  
+					include 'data/elements/sharing.php';  
+					?>
+				</div>     
+			</div> 
+			    
+			<div class="linkbar"> 
+				<div class='arrow'></div>    
+				<a href="" target="blank"><h4>Browse Archive</h4></a>
 			</div>
-            <!-- 
-			<div class="linkbar">
-				<div class="bar"></div>
-				<div class="top"></div>
-				<a href="data/sites/LittleBlankBooks/index.php" target="blank"><h3>View Little Blank Books</h3></a>
-			</div>
-	         --> 
+			
 			<div class="article_columns">
-				<h2>A Senior Exhibition</h2>
+				<h3>A Senior Exhibition</h3>
 				<p>So, what exactly is the result of of an undergraduate degree in the fine arts; what is four years of study worth to a person in todays day and age? Is it a piece of paper signifying competence in a certain specialization? Is it allowing of a certain income bracket? Is it a body of work, cohesive and thorough, not without intention? Is it experimentation unconcerned with all that convention and indoctrination of an institutional education? Well, it might be silly to say that it is anything specific amongst these questions, in a way it's everything listed, nuanced and subjective, but in any case at the end you have a person.</p><br>
 
 				<p>For me, where I had found myself after those years of study wasn't apparent in the work itself, the work had been a sort of stepping stone to where I had ended up. I had grown beyond those experimentations of the class room. I figured this while putting together my senior exhibit of past work, I found that I was much less concerned with what I had produced over those years of study, and much more interested in where I had come as a result of those years of study. So there my exhibit was conceived, Little Blank Books, a collection of ruminations over an intensive undergraduate career, a presentation of personal outcome. A Showcase of four years of reflection instead of four years of production, in hopes to better understand the person the years produced.</p><br>
 				
-				<h2>Interaction</h2>
+				<h3>Interaction</h3>
 				<p>Each 'Little Blank Book' in the collection is a short examination, and together they form a collection of where I landed as an undergraduate. Each Little Book is blank inside, with a code and title on the cover. The content is revealed only through a digital interaction, the user moves the book over to the sensor where the content is revealed on the adjoining monitors.</p>
 			</div>
 
-			<img src="data/projects/LittleBlankBooks/image1.jpg" alt="Image Description" />
+			<img class="firstorder" src="data/projects/LittleBlankBooks/image1.jpg" alt="Image Description" />
 			<img src="data/projects/LittleBlankBooks/image2.jpg" alt="Image Description" /> 
 			<img src="data/projects/LittleBlankBooks/image3.jpg" alt="Image Description" />
 			<img src="data/projects/LittleBlankBooks/image4.jpg" alt="Image Description" />

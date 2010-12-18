@@ -36,20 +36,30 @@
 			<div class="titlebar">
 				<h2>Workopotamus</h2>
 				<p>One suit. One hundred dollars.</p>
-			</div>
-
-			<div class="linkbar">
-				<div class="bar"></div>
-				<div class="top"></div>
-				<a href="https://www.workopotamus.com/" target="blank"><h3>Go see for yourself</h3></a>
-			</div>
+			</div>        
+			
+			<div class="detailsbar">    
+				<p>Project Status <span class="black">|</span> Month Year <span class="black">|</span> Media Type or Category</p> 
+       
+				<div class='social'>    
+					<?php   
+					$header = 'Yellowskyscraper';  
+					include 'data/elements/sharing.php';  
+					?>
+				</div>     
+			</div> 
+			    
+			<div class="linkbar"> 
+				<div class='arrow'></div>    
+				<a href="https://www.workopotamus.com/" target="blank"><h4>Go see for yourself</h4></a>
+			</div>      
 	
 			<div class="article_columns">
-				<h2>One simple suit for the working man.</h2>
+				<h3>One simple suit for the working man.</h3>
 				<p>The Design and Development of a full E-Commerce Flash site for a start up suit company specializing in one affordable suit for the working stiff. In short Workopotomus is a modern suit made for the newly employed, or anyone who has less than a million dollars for work wear but still needs to look good. It's one reliable fit in two colors to keep costs down and make the suit-buying process as easy as possible. Try one out, you wont be disappointed.</p>
 			</div>
 			
-			<img src="data/projects/Workopotamus/image1.jpg" alt="Image Description" />
+			<img class="firstorder" src="data/projects/Workopotamus/image1.jpg" alt="Image Description" />
 			<img src="data/projects/Workopotamus/image2.jpg" alt="Image Description" />
 			<img src="data/projects/Workopotamus/image3.jpg" alt="Image Description" />
 			<img src="data/projects/Workopotamus/image4.jpg" alt="Image Description" />

@@ -108,21 +108,17 @@
         
 		<?php include 'data/elements/header-contact.php'; ?>
     </header>
-   
-	<footer>
-
-	</footer>
 <!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
     <section id="contentcontainer">
 
 		<section id="maindetail">  
-			  
+			
 			<div class="large_copy">                     
 				<p>But how can we here at Yellowskyscraper have any time for new, exciting clients and adventures while entrenched in such an overwhelming undertaking as a massive restructuring? Well, thank goodness that's not for the blood, sweat, and tears of our employees to decide!<br><br>     
 				
 				So please contact us, despite all the scary scaffolding out front, we're still very much in business and would love to hear from you.</p>
-			</div>    
+			</div>   
 			
 			<div class="mapcontainer">
 				<div id="mapoverlay"></div>
@@ -131,7 +127,7 @@
 			
 			<div class="dividerdots"></div>
 		</section>
-
+       
     	<section id="portfolio" class="detailprojects">
 			<?php include 'data/elements/thumbnails.php'; ?>
     	</section>

@@ -29,7 +29,7 @@
 		<section id="maindetail">
 
 			<div class="large_copy">    
-				<p>If you would please excuse the mess, we here at Yellowskyscraper are currently undergoing a massive restructuring. You see the times they are-a-changing, and we're struggling (as all must) to stay relevant in an ever changing landscape of information. You can rest assured that our team at Yellowskyscraper is working around the clock, in below adequate conditions to bring you the best experiences ever possible.<br><br>
+				<p>If you would please excuse the mess, we here at Yellowskyscraper are currently undergoing a massive restructuring. You see the times they have been changing, and we're struggling (as all must) to stay relevant in this ever changing landscape of information. You can rest assured that our team at Yellowskyscraper is working around the clock, in below adequate conditions to bring you the best experiences ever possible.<br><br>
                 
 			    So, in the mean time please enjoy this temporary showcase of recent works.</p>
 				

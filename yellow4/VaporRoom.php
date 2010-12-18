@@ -36,15 +36,25 @@
 			<div class="titlebar">
 				<h2>The Vapor Room</h2>
 				<p>A neighborhood dispensary. Development at OrdinaryKids.</p>
+			</div>    
+
+			<div class="detailsbar">                                                                                                     
+				<p>Project Status <span class="black">|</span> Month Year <span class="black">|</span> Media Type or Category</p>
+
+				<div class='social'>   
+					<?php   
+					$header = 'Yellowskyscraper';  
+					include 'data/elements/sharing.php';  
+					?>
+				</div>     
 			</div>
 
-			<div class="linkbar">
-				<div class="bar"></div>
-				<div class="top"></div>
-				<a href="http://vaporroom.com/" target="blank"><h3>Launch The Vapor Room</h3></a>
-			</div>
+			<div class="linkbar"> 
+				<div class='arrow'></div>    
+				<a href="http://vaporroom.com/" target="blank"><h4>Launch The Vapor Room</h4></a>
+			</div>     
 			
-			<img src="data/projects/VaporRoom/image1.jpg" alt="Image Description" />
+			<img class="firstorder" src="data/projects/VaporRoom/image1.jpg" alt="Image Description" />
 			<img src="data/projects/VaporRoom/image2.jpg" alt="Image Description" />
 			
 			<!-- <div class="dividerbar"></div>  --> 

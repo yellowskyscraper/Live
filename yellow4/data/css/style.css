@@ -5,10 +5,20 @@
 		padding: 0; 
 		outline: 0; 
 	}
-
+    
 	header, section, footer, aside, nav, article, figure {
 		display: block;
+	}   
+
+	@font-face { 
+		font-family: Georgia; 
+		src: url(../fonts/Georgia.ttf) format("opentype");
 	}
+
+	@font-face { 
+		font-family: GeorgiaItalic; 
+		src: url(../fonts/Georgia-Italic.ttf) format("opentype");
+	}     
 
 	@font-face { 
 		font-family: GeorgiaBold; 
@@ -18,20 +28,10 @@
 	@font-face { 
 		font-family: GeorgiaBoldItalic; 
 		src: url(../fonts/Georgia-Bold-Italic.ttf) format("opentype"); 
-	}
-	
-	@font-face { 
-		font-family: Georgia; 
-		src: url(../fonts/Georgia.ttf) format("opentype");
-	}   
-	
-	@font-face { 
-		font-family: GeorgiaItalic; 
-		src: url(../fonts/Georgia-Italic.ttf) format("opentype");
-	}
+	}      
 
 	body { 
-		background: url(images/pattern.gif); 
+		/*background: url(../data/images/pattern.gif);*/ 
 	}
 
 	::selection { 
@@ -56,16 +56,23 @@
 	h2 { 
 		/*font-family: Georgia, Courier; firefox 3.6*/
 		font-family: GeorgiaBold;    
-		font-size: 14px;
+		font-size: 20px;
 		color: #000000;
 	}
 	
 	h3 { 	
 		/*font-family: Georgia, Courier; firefox 3.6*/
 		font-family: GeorgiaBold;
-		font-size: 10px; 
+		font-size: 14px; 
 		color: #000000;
-	}
+	} 
+
+	h4 { 	
+		/*font-family: Georgia, Courier; firefox 3.6*/
+		font-family: GeorgiaItalic;
+		font-size: 18px; 
+		color: #000000;
+	} 
 	
 	p { 
 		font-family: Georgia; 
@@ -87,18 +94,15 @@
 		margin: 0 auto;
 		position: relative; 
 		z-index: 10;
-	}
-/*//////////////////////////////////////////////////////////////////////////////////*/
-/*//////////////////////////////////////////////////////////////////////////////////*/
-/*//////////////////////////////////////////////////////////////////////////////////*/
-
+	}                                                                                
+   
 	#headercontainer { 
 		width: 930px;
 		margin: 0 auto; 
 		position: fixed;
 		border-bottom: 2px solid #000000;
 		left: 50%; 
-		margin: 0 0 0 -462px;
+		margin: 0px 0px 0px -462px;
 	}
 	
 	#headercontainer div.topbar { 
@@ -124,7 +128,7 @@
 		padding-top: 143px;
 	}
 	
-	#headercontainer nav { 	
+	#headercontainer nav { 
 		width: 925px;
 		background-color: #fff; 
 		padding-left: 5px;
@@ -147,24 +151,17 @@
 		height:20px;
 		font-size: 10px;
 		border-bottom: 2px solid #000000;
-	}
+	}              
 /*//////////////////////////////////////////////////////////////////////////////////*/
 /*//////////////////////////////////////////////////////////////////////////////////*/
 /*//////////////////////////////////////////////////////////////////////////////////*/
-	
-	section {  
-		background-color: #444;
+
+	section {                   
+		background-color: #fff;
 		padding-bottom: 16px; 
-		padding-top: 110px;
+		padding-left:20px;
 		float: left;
-	}
-	
-	section.detailprojects {  
-		background-color: #444;
-		padding-bottom: 16px; 
-		padding-top: 0px;
-		float: left;
-	}
+	}                                                                                 	
 /*//////////////////////////////////////////////////////////////////////////////////*/
 /*//////////////////////////////////////////////////////////////////////////////////*/
 /*//////////////////////////////////////////////////////////////////////////////////*/
@@ -181,41 +178,9 @@
 /*//////////////////////////////////////////////////////////////////////////////////*/   
 
 	#maindetail{ 
-		background-color: #fff;
-		padding-left:21px;
+		margin-top: 110px;  
 	}
 /*//////////////////////////////////////////////////////////////////////////////////*/  
-
-    #maindetail div.titlebar{ 
-		background-color: #FFF;
-		border: 1px solid #000000;
-		width: 926px; 
-		height: 60px;
-		margin-left: 1px;
-		z-index: 3;
-	}
-
-	#maindetail div.titlebar h2 {
-		width: 925px;
-		margin-top: 15px;
-		margin-left: 15px;
-	}
-
-	#maindetail div.titlebar p { 
-		width: 926px;
-		font-size: 10px;
-		margin-left: 15px;
-	}     
-
-	#maindetail div.dividerbar{ 
-		background-color: #FFF;
-		border: 1px solid #000000;
-		width: 926px; 
-		height: 60px;
-		margin-top: 12px;
-		margin-left: 1px;
-		z-index: 3;
-	} 
 
 	#maindetail div.dividerdots{ 
 		background-color: #FFF;
@@ -227,7 +192,7 @@
 		z-index: 3;
 	}
      
-	#maindetail .large_copy {  
+	#maindetail .large_copy { 
 		background-color: #FFF;     
 		width: 880px;  
 		margin-left: 1px;  
@@ -236,46 +201,42 @@
 		margin-bottom:30px;
 	}    
     
-	#maindetail .large_copy h1 {          
+	#maindetail .large_copy h1 { 
 		font-family: GeorgiaBold; 
 		font-size: 18px;  
 		margin-top:30px;
 		color: #000000;  
 	}
 
-	#maindetail .large_copy h2 {          
+	#maindetail .large_copy h2 { 
 		font-family: Georgia; 
-		font-size: 15px;  
-		color: #6d6d6d;
+		font-size: 15px; 
+		color: #7e7e7e;
 		margin-top:40px;
 	}  
     
-	#maindetail .large_copy p {  
-		font-family: GeorgiaItalic; 
+	#maindetail .large_copy p { 
+		font-family: Georgia; 
 		font-size: 25px;     
-		line-height: 33px;
-		color: #4b4b4b; 
-		color: #6d6d6d;
-	}   
+		line-height: 33px; 
+		color: #7e7e7e;
+	}
 	
-	#maindetail .large_copy p.subparagraph {  
-		font-family: Georgia;
-		font-size: 18px;     
-		line-height: 23px;        
-		width: 850px;
-	}  
+	#maindetail .large_copy p span.italics{ 
+		font-family: GeorgiaItalic; 
+	}   
 /*//////////////////////////////////////////////////////////////////////////////////*/
 /*//////////////////////////////////////////////////////////////////////////////////*/
-/*//////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////*/   
 
-	#mapcontainer {      
+	#mapcontainer { 
 		background-color: #000;
 		position: relative;   
 		width: 926px;
 		height: 400px;       
 	}   
 
-	#map {    
+	#map { 
 		border: 1px solid #000000;           
 		width: 926px;
 		height: 400px;  
@@ -284,7 +245,7 @@
 		z-index: 0;
 	}   
 
-	#map h1{     
+	#map h1{ 
    	font-family: GeorgiaBoldItalic;  
 		font-size: 14px;    
 		width:auto;     
@@ -292,7 +253,7 @@
 	    margin-left: 2px;
 	}  
 
-	#map h2{   
+	#map h2{ 
 		font-family: GeorgiaBold;   
 		font-size: 10px;  	    
 		width:auto;     
@@ -301,14 +262,14 @@
 	    margin-left: 3px; 
 	}
 
-	#map p{  
+	#map p{ 
 		font-size: 10px;       
 		width:auto;     
 		height:auto;  
 	    margin-left: 3px;
 	}     
 
-	#mapoverlay {         
+	#mapoverlay { 
 		background-color: #FFF;  
 		position: absolute;   
 		opacity:0.0;
@@ -319,150 +280,154 @@
 		height: 400px;    
 		z-index: 1;
 	}	    
+/*//////////////////////////////////////////////////////////////////////////////////*/   
+/*//////////////////////////////////////////////////////////////////////////////////*/  
 /*//////////////////////////////////////////////////////////////////////////////////*/
-/*//////////////////////////////////////////////////////////////////////////////////*/
-/*//////////////////////////////////////////////////////////////////////////////////*/
-
-	#detail{ 
-		background-color: #fff;
-		padding-left:21px;
+    
+	#detail{                     
+		margin-top: 98px;  
 	}
 /*//////////////////////////////////////////////////////////////////////////////////*/
 	
-	#detail div.titlebar{ 
-		background-color: #FFF;
-		border: 1px solid #000000;
-		width: 926px; 
+	#detail div.titlebar { 
+		background-color: #f4f9e8;              
+		width: 930px; 
 		height: 65px;
-		margin-left: 1px;
+		margin-left: 0px;
+		padding-top: 60px;
 		z-index: 3;
-	}
+	}  
 	
-	#detail div.titlebar h2 {
+	#detail div.titlebar h2 { 
 		width: 925px;
 		margin-top: 20px;
-		margin-left: 15px;
+		margin-left: 24px;
+		color: #4b553a;
 	}
 	
 	#detail div.titlebar p { 
 		width: 926px;
 		font-size: 10px;
-		margin-left: 15px;
+		margin-left: 19px; 
+		color: #4b553a;
 	}
 /*//////////////////////////////////////////////////////////////////////////////////*/
 
-	#detail div.inprogressbar{ 
-		width: 926px; 
-		height: 38px;
-		background-color: #fff;
-		background-color: rgba(210, 186, 244, 1);
-		border: 1px solid #000000;
-		margin-top: -2px;
-		margin-left: 1px;
-		margin-bottom: 0px;
+	#detail div.titlebar_photo { 
+		background-color: #f1eafc;              
+		width: 930px; 
+		height: 65px;
+		margin-left: 0px;
+		padding-top: 60px;
 		z-index: 3;
+	}  
+	
+	#detail div.titlebar_photo h2 { 
+		width: 925px;
+		margin-top: 20px;
+		margin-left: 19px;
+		color: #6d568c;
 	}
 	
-	#detail div.inprogressbar h3 {  
-		font-family: GeorgiaItalic;
-		width: 905px;
-		position: absolute;
-		font-size: 14px;
-		color:#4704a2;   
-		padding-left: 20px;
-		padding-top: 9px;
-		padding-bottom: 8px;
-		margin-top: 3px;
-		margin-left: 0px;
-		z-index: 5;
-	}
+	#detail div.titlebar_photo p { 
+		width: 926px;
+		font-size: 10px;
+		margin-left: 19px; 
+		color: #6d568c;
+	}     
 /*//////////////////////////////////////////////////////////////////////////////////*/
-	
-	#detail div.linkbar{  
-		width: 926px; 
-		height: 41px;
-		margin-top: -2px;
-		margin-left: 1px;
-		margin-bottom: 0px;
-		z-index: 3;
-	}
 
-	#detail div.linkbar div.bar{ 
-		width: 926px; 
-		height: 39px;
-		position: absolute;
+	#detail div.detailsbar{ 
+		width: 930px;
+		height: 33px;       
 		background-color: #fff;
-		border-left: 1px solid #000000;
-		border-bottom: 1px solid #000000;
+		border-top: 1px dotted #000000;
+		border-bottom: 1px dotted #000000;
 		margin-top: 1px;
-		margin-left: 0px;
-		z-index: 3;
+		margin-left: 0px; 
+	}   
+	
+	#detail div.detailsbar p { 
+		width: 780px;         
+		font-size: 10px;
+		color: #969696;  
+		padding-top: 10px;
+		padding-left: 24px;  
+		float:left; 
 	}
 	
-	#detail div.linkbar div.top{ 
-		width: 926px; 
-		height: 38px;
-		position: absolute;
-		/*background-color: #fff;*/
-		background-color: rgba(122, 192, 0, 0.2);
-		border: 1px solid #000000;
-		margin-top: 1px;
-		margin-left: 0px;
-		z-index: 3;
-	}
-
-	#detail div.linkbar:hover div.top{ 
-		background-color: #fff;
-		margin-top: 0px;
-		margin-left: 1px;
-	}
-
-	#detail div.linkbar h3 {  
-		font-family: GeorgiaItalic;   
-		color:#4b553a;
-		width: 905px;
-		position: absolute;
-		font-size: 14px;
-		padding-left: 20px;
-		padding-top: 9px;
-		padding-bottom: 8px;
-		margin-top: 4px;
+	#detail div.detailsbar p span.black { 
+		font-family: GeorgiaBold;       
+		font-size: 12px; 
 		margin-left: 2px;
-		z-index: 5;
+		margin-right: 2px;
+		color: #000000;   
+	}                          
+	
+	#detail .social img{ 
+        margin-top:6px;     
+		border:0px;
+	}
+/*//////////////////////////////////////////////////////////////////////////////////*/       
+
+	#detail div.linkbar{ 
+		border-bottom: 1px dotted #000000;
+	   	width: 930px; 
+		height: 41px;
+		margin-left: 0px;
+		margin-bottom: 0px;
+		z-index: 3;  
+	}   
+	
+	#detail div.linkbar:hover{ 
+		background-color: #f4f9e8;
+	}  
+	
+	#detail div.linkbar div.arrow { 
+		background: url(../images/link_arrow.png);    
+		width: 7px;
+		height: 11px;  
+		margin-left: 12px; 
+		margin-top: 15px;  
+		position:absolute;                          
+	} 
+	
+	#detail div.linkbar:hover div.arrow { 
+		margin-left: 14px;                        
+	}    
+
+	#detail div.linkbar h4 { 
+		color: #4b553a;
+		width: 906px;  
+		height: 23px;   
+		padding-left: 24px;
+		padding-top: 10px;
+		padding-bottom: 8px;  
+		float:left;
 	}
 	
-	#detail div.linkbar:hover h3 {    
-		color:#000000;
-		margin-top: 3px;
-		margin-left: 3px;
+	#detail div.linkbar:hover h4 { 
+		color: #4b553a;     
+		width: 905px;   
+		padding-left: 25px;
 	}
 /*//////////////////////////////////////////////////////////////////////////////////*/
-	
-	#detail div.dividerbar{ 
-		background-color: #FFF;
-		border: 1px solid #000000;
-		width: 926px; 
-		height: 60px;
-		margin-top: 12px;
-		margin-left: 1px;
-		z-index: 3;
-	} 
 	
 	#detail div.dividerdots{ 
 		background-color: #FFF;
 		border-top: 1px dotted #000000;
-		width: 928px; 
+		width: 930px; 
 		height: 1px;
 		margin-top: 14px;
-		margin-left: 1px;
+		margin-left: 0px;
 		z-index: 3;
 	}
 	
-	#detail a {  
+	#detail a { 
 		text-decoration:none;
 	}
 	
-	#detail h2 {
+	#detail h3 { 
 		width: 453px;
 		margin-top: 0px;
 		padding-left: 5px;
@@ -485,7 +450,11 @@
 		z-index: 2;
 	}
 	
-	#detail .article_columns {
+	#detail img.firstorder { 
+		margin-top: 30px;   
+	}
+	
+	#detail .article_columns { 
 		text-align: justify;
 		margin-top: 26px;
 		margin-bottom: 10px;
@@ -498,25 +467,24 @@
 		-webkit-column-gap: 15px;
 	}
 	
-	#detail .single_column {   
+	#detail .single_column { 
 		text-align: justify;
 		margin-top: 26px;
 		margin-bottom: 10px;
 		background-color: #fff;
 	}   
 	
-	#detail .explanation_column p{    
+	#detail .explanation_column p{ 
 		width:930px;
-		font-size: 3	0px;
+		font-size: 30px;
 	}  
 /*//////////////////////////////////////////////////////////////////////////////////*/
 /*//////////////////////////////////////////////////////////////////////////////////*/
 /*//////////////////////////////////////////////////////////////////////////////////*/     
 
 	#portfolio{ 
-		background-color: #fff;
-		padding-left:21px;
-		/*padding-left:21px; firefox 3.6*/
+		background-color: #fff;  
+		padding-left:21px;          
 	}
 
 	#portfolio div.thumbnail { 
@@ -525,18 +493,18 @@
 		float: left;
 		width: 220px; 
 		height: 367px;
-		margin-left: 1px;
-		margin-right: 15px;
+		margin-left: 0px;
+		margin-right: 16px;
 		margin-bottom: 17px;
 		background-color: #FFF;
 		clear:right;
 	}
 	
-	#portfolio div.thumbnail a {  
+	#portfolio div.thumbnail a { 
 		text-decoration:none;
 	}
 	
-	#portfolio div.thumbnail h2 {
+	#portfolio div.thumbnail h3 { 
 		width: 190px;
 		margin-top: 15px;
 		margin-left: 15px;
@@ -562,19 +530,19 @@
 		/*background-color: #00ffff;*/	
 	}
 
-	#portfolio div.thumbnail a img {
+	#portfolio div.thumbnail a img { 
 		position: absolute;
 		border: 1px solid #000000;
 		margin-top: 1px;
 		z-index: 2;
 	}
 
-	#portfolio div.thumbnail:hover img {
+	#portfolio div.thumbnail:hover img { 
 		margin-top: 0px;
 		margin-left: 1px;
 	}
 
-	#portfolio div.thumbnail a:visited img {
+	#portfolio div.thumbnail a:visited img { 
 		/*border: 1px solid #00ffff;*/
 	}
 
@@ -630,20 +598,5 @@
 	
 	#portfolio div.thumbnail:hover div.long { 
 		display:block;
-	}   	       
-      
-/*//////////////////////////////////////////////////////////////////////////////////*/
-
-	footer {
-/*		width: 930px;
-		height: 15px;
-		background-color: #000;
-		margin: 0 auto; 
-		position: fixed;
-		border-bottom: 2px solid #000000;
-		left: 50%;
-		bottom: 0px; 
-		margin: 0 0 0 -462px;
-		z-index: 20;*/
-	}
+	}    
 /*//////////////////////////////////////////////////////////////////////////////////*/

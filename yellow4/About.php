@@ -4,8 +4,8 @@
 <head>
     
     <title>Yellowskyscraper - Currently Rebuilding Stuff</title>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />   
+
     <?php include 'data/elements/headerlinks.php'; ?>
 </head>
 
@@ -22,40 +22,23 @@
 		</nav>
 
 		<?php include 'data/elements/header-about.php'; ?>
-    </header>
-
-	<footer>
-
-	</footer>
+    </header> 
 <!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
     <section id="contentcontainer">
 		<section id="maindetail">
 			
 			<div class="large_copy">      
-				<!-- 
-				<p>So, you've found yourself wondering about this Skyscraper gilded in shimmering Yellow? Well here are a few Frequently Asked Questions to help shed some light on the subject.</p>
-				
-				<h1>What's a Yellowskyscraper?</h1>                   
-				<p class="subparagraph">It's quite simple in fact, we're a very tall building of many stories that just so happened to have stimulated both the long- and medium-wavelength cone cells of your retina, producing that yellowing effect we have all come to know and love.</p> 
-				
-				<h1>What do we do here? </h1>                 
-				<p class="subparagraph">But primarily we're here to bring you the richest experiences imaginable. Working to the best of our ability that is. We believe that there can be a Media Solution for just about any situation you could conger up. We make things for people, thats what.</p>
-				
-				<h1>Why?</h1>                
-				<p class="subparagraph">Well, that's not a question that has an answer. What's important to us here at Yellowskyscraper isn't that we like to make loads of money at the expense of others, it's not even that we wish to make a difference, it's that we're people and this is what me must do. That no matter how big or successful we may get or have gotten, we're still just a gaggle people, you see it wasn't that long ago that we were just a small struggling barber shop on a corner of Detroit's upper-west side. This we haven't forgotten.</p>   
-   		        -->     
-			   
-				<p>So, you've found yourself wondering about this little Skyscraper of gilded shimmering Yellow? Well, fortunately that's pretty simple wonder to address. We're Yellowskyscraper, a solutions agency developing powerful state of the art experiences for our clients and ourselves. And we're here to bring you the richest experiences imaginable, to the best of our ability that is, believing that there can be a Media Solution for just about any situation you could ever conger up, and some you couldn't.<br><br>
+				<p>So, you've found yourself wondering about our little Skyscraper gilded in Yellow?<br><br> 
+					
+				Well, at first glance, we're a very tall building of many stories that just so happens to have stimulated both the long- and medium-wavelength cone cells of the retina, producing that yellowing effect we have all come to know and love. It's in further inquiry though, the situation begins to complicate, so much so, that our own team can't even produce much more than senseless rambling and insult. To avoid this, <span class="italics">why</span> is slightly easier to address than <span class="italics">what</span>, as why we do what we do, or why we aren't doing what we aren't doing, is somewhat agreed upon. You see it isn't that we like to make loads of money at the expense of others, it's not even that we wish to make a difference in this world, it's not even that we desire fame and the admiration of our contemporaries. It's that we're simply people and this is just what me must do, even if we don't understand entirely and even if the process ultimately kills us.<br><br>
 
-			    Hope this cleared some things up for you.</p>
+			    I hope this has been of some help to you.</p>
 		    	
 				<h2>Take care and be safe,<br> 
 		  		Your friends at Yellowskyscraper</h2>       
-			</div>    
-			
-			<!-- <img src="data/projects/About/image.jpg" alt="Image Description" />     -->
-			                              
+			</div>            
+		   	                                                             		                              
 			<div class="dividerdots"></div>
 		</section>
 
@@ -63,7 +46,13 @@
 			<?php include 'data/elements/thumbnails.php'; ?>
     	</section>
 
-    </section>
+    </section>          
+
+<!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
+
+	<footer>
+
+	</footer>
 <!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
     <script type="text/javascript">

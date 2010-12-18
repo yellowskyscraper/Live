@@ -6,7 +6,8 @@
     <title>Yellowskyscraper - Currently Rebuilding Stuff</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     
-    <?php include 'data/elements/headerlinks.php'; ?>
+    <?php include 'data/elements/headerlinks.php'; ?>   
+
 </head>
 
 <body>
@@ -14,7 +15,7 @@
 
     <header id="headercontainer">
 		<div class="topbar"></div> 
-			
+		
 		<nav>	                                                  
 			<a href="Contact.php">contact</a>  
 			<a href="About.php">about</a>   
@@ -22,11 +23,7 @@
 		</nav>
 
 		<?php include 'data/elements/header.php'; ?>
-    </header>
-
-	<footer>
-
-	</footer>
+    </header>   
 <!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
     <section id="contentcontainer">
@@ -37,29 +34,43 @@
 				<h2>iSearch Media</h2>
 				<p>ISM, they're a search agency. Development at OrdinaryKids.</p>
 			</div>
-			
-			<div class="linkbar">
-				<div class="bar"></div>
-				<div class="top"></div>
-				<a href="http://isearchmedia.com/" target="blank"><h3>Launch iSearch Media</h3></a>
+			  
+			<div class="detailsbar">                                                                                                         
+				<p>Project Status <span class="black">|</span> Month Year <span class="black">|</span> Media Type or Category</p>
+       
+				<div class='social'>    
+					<?php   
+					$header = 'Yellowskyscraper';  
+					include 'data/elements/sharing.php';  
+					?>
+				</div>     
 			</div>
 			
-			<img src="data/projects/iSearchMedia/image1.jpg" alt="Image Description" />
+			<div class="linkbar"> 
+				<div class='arrow'></div>    
+				<a href="http://isearchmedia.com/" target="blank"><h4>Launch iSearch Media</h4></a>
+			</div>
+		  
+			<img class="firstorder" src="data/projects/iSearchMedia/image1.jpg" alt="Image Description" />
 			<img src="data/projects/iSearchMedia/image2.jpg" alt="Image Description" />
 			<img src="data/projects/iSearchMedia/image3.jpg" alt="Image Description" />
 			<img src="data/projects/iSearchMedia/image4.jpg" alt="Image Description" />
 			<img src="data/projects/iSearchMedia/image5.jpg" alt="Image Description" />
 			<img src="data/projects/iSearchMedia/image6.jpg" alt="Image Description" />
-			
-			<!-- <div class="dividerbar"></div>  --> 
-			<div class="dividerdots"></div>
+		                                                                      
+			<div class="dividerdots"></div> 
 		</section>
 
-    	<section id="portfolio" class="detailprojects">
+    	<section id="portfolio">
 			<?php include 'data/elements/thumbnails.php'; ?>
     	</section>
 
     </section>
+<!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->    	
+
+	<footer>
+
+	</footer>
 <!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
     <script type="text/javascript">
