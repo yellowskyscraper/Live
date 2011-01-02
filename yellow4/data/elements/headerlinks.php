@@ -120,6 +120,7 @@
 	document.writeln('<link rel="stylesheet" type="text/css" href="data/css/style.css">');
 	
 		 if(BrowserDetect.browser == "Firefox" && BrowserDetect.OS == "Mac") document.writeln('<link rel="stylesheet" type="text/css" href="data/css/firefox.css">');
+	else if(BrowserDetect.browser == "Chrome" && BrowserDetect.OS == "Mac") document.writeln('<link rel="stylesheet" type="text/css" href="data/css/chrome.css">');
 	else if(BrowserDetect.browser == "Firefox" && BrowserDetect.OS == "Windows") document.writeln('<link rel="stylesheet" type="text/css" href="data/css/firefoxWindows.css">');
 	else if(BrowserDetect.browser == "Chrome" && BrowserDetect.OS == "Windows") document.writeln('<link rel="stylesheet" type="text/css" href="data/css/chromeWindows.css">');
 	else if(BrowserDetect.browser == "Explorer") window.location = "http://www.yellowskyscraper.com/yellow4/NoDice.php";

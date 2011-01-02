@@ -108,6 +108,7 @@
 	</a>
 </div>
 
+<!--
 <div class="thumbnail">
 	<a href="LoveWanted.php">
 		<div class="bottom"></div>
@@ -125,6 +126,7 @@
 		</div>
 	</a>
 </div> 
+-->
 
 <div class="thumbnail">
 	<a href="LittleBlankBooks.php">
@@ -234,9 +236,7 @@
 	</a>
 </div>    
 
-
-
-	<!-- 
+<!-- 
 <div class="thumbnail">
 	<a href="">
 		<div class="bottom"></div>
@@ -272,7 +272,7 @@
 		</div>
 	</a>
 </div> 
-      -->
+      
 <div class="thumbnail">
 	<a href="UrbanLiving.php">
 		<div class="bottom"></div>
@@ -290,6 +290,7 @@
 		</div>
 	</a>
 </div>   
+--> 
 
 <div class="thumbnail">
 	<a href="../yellow3" target="blank">
