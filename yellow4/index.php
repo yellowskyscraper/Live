@@ -29,7 +29,7 @@
 		<section id="maindetail">
 
 			<div class="large_copy">    
-				<p>If you would please excuse the mess, we here at Yellowskyscraper are currently undergoing a massive restructuring. You see the times they have been changing, and we're struggling (as all must) to stay relevant in this ever changing landscape of information. You can rest assured that our team at Yellowskyscraper is working around the clock, in below adequate conditions to bring you the best experiences ever possible.<br><br>
+				<p>If you would please excuse the mess, we here at Yellowskyscraper are currently undergoing a massive restructuring. You see, the times they have been changing, and we're struggling (as all must) to stay relevant in this ever changing landscape of information. You can rest assured that our team at Yellowskyscraper is working around the clock, in below adequate conditions to bring you the best experiences ever possible.<br><br>
                 
 			    So, in the mean time please enjoy this temporary showcase of recent works.</p>
 				
@@ -51,7 +51,7 @@
 	</footer>
 <!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
-    <script type="text/javascript">
+  <script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 	</script>
