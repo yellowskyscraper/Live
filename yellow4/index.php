@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- This is a demonstration of HTML5 goodness with healthy does of CSS3 mixed in -->
+
 <head>
     
     <title>Yellowskyscraper - Currently Rebuilding Stuff</title>
