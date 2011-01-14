@@ -45,7 +45,7 @@
 			this.map_ = map;                            
 			this.div_ = null;  
 			this.setMap(map);
-		}  
+		}
 
 		InfoOverlay.prototype.onAdd = function() {  
 			var div = document.createElement('DIV');
@@ -59,15 +59,15 @@
 			img.style.width = "370px";
 			img.style.height = "119px"; 
 			                              
-		  	var content = document.createElement("content");  
+		  var content = document.createElement("content");  
 			content.style.position = "absolute";   
 			content.style.margin = "10px"; 
 			content.style.width = "370px";
 			content.style.height = "119px";
-		  	content.innerHTML = '<h1>Yellowskyscraper HQ</h1>'+ 
+		  content.innerHTML = '<h1>Yellowskyscraper HQ</h1>'+ 
 								'<h2>CEO James S. Hovell</h2>'+
-						        '<p>jim@yellowskyscraper.com</p>';  
-						                     
+						    '<p>office@yellowskyscraper.com</p>';
+						                       
 			div.appendChild(img);
 			div.appendChild(content);                       
 			
