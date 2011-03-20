@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>data/css/firefox.css</string>
+	<string>About.php</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -21,6 +21,36 @@
 	<integer>385</integer>
 	<key>metaData</key>
 	<dict>
+		<key>About.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>35</integer>
+				<key>line</key>
+				<integer>37</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>33</integer>
+				<key>line</key>
+				<integer>37</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>35</integer>
+				<key>line</key>
+				<integer>37</integer>
+			</dict>
+		</dict>
 		<key>LoveWanted.php</key>
 		<dict>
 			<key>caret</key>
@@ -65,6 +95,20 @@
 			<key>firstVisibleLine</key>
 			<integer>17</integer>
 		</dict>
+		<key>data/css/chrome.css</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>11</integer>
+				<key>line</key>
+				<integer>9</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 		<key>data/css/chromeWindows.css</key>
 		<dict>
 			<key>caret</key>
@@ -73,20 +117,6 @@
 				<integer>29</integer>
 				<key>line</key>
 				<integer>14</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>data/css/firefox.css</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>14</integer>
-				<key>line</key>
-				<integer>71</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -112,30 +142,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>48</integer>
+				<integer>50</integer>
 				<key>line</key>
-				<integer>70</integer>
+				<integer>176</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>33</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>29</integer>
-				<key>line</key>
-				<integer>71</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>48</integer>
-				<key>line</key>
-				<integer>70</integer>
-			</dict>
+			<integer>0</integer>
 		</dict>
 		<key>data/sites/LittleBlankBooks/data/elements/headerlinks.php</key>
 		<dict>
@@ -169,7 +183,8 @@
 	<key>openDocuments</key>
 	<array>
 		<string>data/css/style.css</string>
-		<string>data/css/firefox.css</string>
+		<string>data/css/chrome.css</string>
+		<string>About.php</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
