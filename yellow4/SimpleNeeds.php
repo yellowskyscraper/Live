@@ -57,7 +57,7 @@
 				<p>For this a simple algorithm was written to detect changes in the environment sent in from a Dual-Axis Accelerometer, triggering the ebb and flow of the simulated emotional reaction of a heart beat.</p><br>
 			</div>
 			
-			<img class="firstorder" src="data/projects/SimplyForsaken/image1.jpg" alt="Image Description" />
+			<img class="firstorder" src="data/projects/SimpleNeeds/image1.jpg" alt="Image Description" />
 			
 			<!-- <div class="dividerbar"></div>  --> 
 			<div class="dividerdots"></div>
