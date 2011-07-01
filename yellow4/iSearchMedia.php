@@ -32,11 +32,11 @@
 		
 			<div class="titlebar">
 				<h2>iSearch Media</h2>
-				<p>ISM, they're a search agency. Development at OrdinaryKids.</p>
+				<p>ISM, they're a search agency. </p>
 			</div>
 			  
 			<div class="detailsbar">                                                                                                         
-				<p>Project Status <span class="black">|</span> Month Year <span class="black">|</span> Media Type or Category</p>
+				<p>January 2010 <span class="black">|</span> Flash Web Site <span class="black">|</span> Developed at OrdinaryKids.</p>
        
 				<div class='social'>    
 					<?php   

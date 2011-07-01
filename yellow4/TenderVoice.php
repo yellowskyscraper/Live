@@ -35,7 +35,7 @@
 			</div>          
 			
 			<div class="detailsbar">    
-				<p>Project Status <span class="black">|</span> Month Year <span class="black">|</span> Media Type or Category</p> 
+				<p>BETA Version <span class="black">|</span> June 2010 <span class="black">|</span> Interactive Resource &amp; Game</p> 
        
 				<div class='social'>      
 					<?php   
@@ -52,11 +52,11 @@
 
 			<div class="article_columns">
 				<h3>San Francisco's Tenderloin</h3>
-				<p>The Design and Development of a simple Flash resource to serve the community. TenderVoice is an interactive web application which uses sound narratives to highlight community services and resources in the Tenderloin. It is designed to increase awareness about the service organizations in the neighborhood, as well as to serve as an educational tool for computer literacy.</p>
+				<p>TenderVoice is a simple and easy to use website developed to serve a neighborhood. It's a web application that indexes local organizations found throughout San Francisco's Tenderloin District, highlighting not only the organizations themselves but the people that are responsible for their very being. Designed to increase awareness about the density and diversity of services located in the neighborhood, as well as to serve as an educational tool for computer literacy.</p>
 				<br>
-				<p>TenderVoice users can be personally engaged in learning about resources available in the Tenderloin by hearing personal interviews with service providers. The application includes a full organizational database and interactive map of community resources, as well as a game which tests the knowledge of users about the community resources.</p>
+				<p>TenderVoice users become personally engaged in learning about the resources available to them by hearing interviews with the very people behind them. The application includes an organizational tool for easy use and an interactive map of the resources found in the neighborhood, as well as a game which tests the knowledge of users about those resources for good measure.</p>
 				<br>
-				<p>This website is currently being used by the Tenderloin Tech Lab, as a teaching tool for introducing interactive web-based applications to new computer users. The project was developed as part of the City Centered Festival, sponsored by the Gray Area Foundation for the Arts and KQED in San Francisco.</p>
+				<p>The TenderVoice site is currently being used by the Tenderloin Tech Lab as a tool for introducing interactive web-based applications to new computer users. The project was developed as part of the City Centered Festival, sponsored by the Gray Area Foundation for the Arts and KQED in San Francisco. And Please view our sister project <a href="http://tendernoise.movity.com/">TenderNoise</a>, a companion site in our discussion about a neighborhood, while rich with resource and community, is rather the noisiest in the bay area.</p>
 			</div>
 			
 			<img class="firstorder" src="data/projects/TenderVoice/image1.jpg" alt="Image Description" />

@@ -39,7 +39,7 @@
 			</div>  
 
 			<div class="detailsbar">    
-				<p>Project Status <span class="black">|</span> Month Year <span class="black">|</span> Media Type or Category</p> 
+				<p>November 2008 <span class="black">|</span> Interactive Installation</p> 
 
 				<div class='social'>    
 					<?php   
@@ -51,19 +51,17 @@
 
 			<div class="linkbar"> 
 				<div class='arrow'></div>    
-				<a href="data/sites/Jimventory/index.html" target="blank"><h4>View My Jimventory</h4></a>
+				<a href="Jimventory/index.html" target="blank"><h4>View My Jimventory</h4></a>
 			</div>          
 	
 			<div class="article_columns">
 				<h3>My Desk at 6:00pm on 9.21.2008</h3>
-				<p>Through a detailed inventory of my personal work space, I found more in the things I own than just their function, I found an emotional connection and a relationship. This is the documentation of the relationships I have with the things I own, this is my Jimventory.</p><br>
+				<p>Have you ever stopped and thought about how many things you own, I mean really every single thing in your everyday space and why you've got it? I found that within the clutter many of my things go predominantly unused, even forgotten. But why then do I keep so much that I don't really use or need, what compeled me to hang on to all this clutter? Perhaps it's more about the emotional relationship we have with our objects, than it is with their physical attributes. These relationships can be as simple as a utility or a fascination, or as complex as a memory or a deep sentiment. Either large or small, utilitarian or sentimental, this relationship seems to prevail over the tangible object itself.</p><br>
 			
-				<p>Have you ever stopped and thought about how many things you own, I mean really every single thing in your everyday space and why you have them. I find that within my clutter many things go predominantly unused or even forgotten. But why do we keep so much that we don't really use or need, what compels us to hang on to the clutter. Perhaps its more about our emotional relationship with the object, than its physical attributes. These relationships can be as simple as utility or a fascination or as complex as a memory or of sentiment. Either large or small, utilitarian or sentimental, this relationship seems to prevail over the tangible object. It is these reasons, these attachments we have with our surroundings that I became interested in.</p><br>
-				
-				<p>Helping me to realize that I have these things for more than just there material value, I have them for a deeper reason and purpose. These things collectively have the capacity to define me. Perhaps in looking into the very reasons we keep the clutter, one could possibly glean something about a person. Through the process of inventory I used to catalogue the very things in my work space, I ask the user to participate in my inventory to learn something more about me.</p><br>
+				<p>It is these attachments we have with our surroundings that I have become interested. It was realizing that I had all these things for more than just there material value, that inspired something. I asked, could these things have the capacity to define me if looked at collectively? Perhaps while looking into the very reasons we keep our clutter, one could possibly glean something about any person. Through the process of inventory I used to catalogue the very things in my work space, I ask the user to participate in my inventory to learn a little something more about me. This is the documentation of the relationships I have with the things I own, this is my Jimventory. </p><br>
 				
 				<h3>Interaction:</h3>
-				<p>Simple wooden blocks, 60 in total, each representing a single item, that happened to be sitting on my desk on a random Saturday afternoon at 6:00pm. Each block is accompanied by unique bar code, associating the block (the representational object) with the reason why I have it. A barcode scanner is set up nearby, so the user can grab and scan my blocks to reveal the relationships I have with each thing.</p>
+				<p>Simple wooden blocks, 60 in total, each representing a single item that happened to be sitting on my desk on a random Saturday afternoon at 6:00pm. Each block is accompanied by unique bar code, associating the block (the representational object) with the reason I have it. A barcode scanner is set up nearby, so the user can grab and scan my blocks to reveal the relationships I have with each thing.</p>
 			</div>
 			
 			<img class="firstorder" src="data/projects/Jimventory/image1.jpg" alt="Image Description" />

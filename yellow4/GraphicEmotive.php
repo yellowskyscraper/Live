@@ -35,7 +35,7 @@
 			</div>  
 
 			<div class="detailsbar">    
-				<p>Project Status <span class="black">|</span> Month Year <span class="black">|</span> Media Type or Category</p> 
+				<p>November 2007 <span class="black">|</span> A Non Linear Book?</p> 
 
 				<div class='social'>    
 					<?php   
@@ -46,8 +46,8 @@
 			</div>    
 
 			<div class="article_columns">
-				<h3>A Story of Jonathan Barnbrook.</h3>
-				<p>A simple questioning of convention, an alteration or consideration of ones individual perception within his environment. Jonathan Barnbrook, Damien Hurst and Adbusters alike, consider  the conventional in new and interesting ways. Allowing for us to reflect upon the way in which we perceive information. With these cards I questioned the potential of a linear and complete read of information, a 'book'. I also considered the relationships between content, images and read. Abstracting their individual rolls away from the usual understanding of a book.</p>
+				<h3>The Story of Jonathan Barnbrook.</h3>
+				<p>A simple questioning of convention, an alteration or consideration of ones individual perception within his environment. Jonathan Barnbrook, Damien Hurst and Adbusters alike, consider  the conventional in new and interesting ways. Allowing for us to reflect upon the way in which we perceive information. With these cards I questioned the potential of a linear and complete read of a 'book'. I also considered the relationships between content and images. Abstracting their individual rolls away from the usual understanding of a book.</p>
 			</div>
 			
 			<img class="firstorder" src="data/projects/GraphicEmotive/image1.jpg" alt="Image Description" />

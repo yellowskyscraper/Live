@@ -35,11 +35,11 @@
 		
 			<div class="titlebar">
 				<h2>The Vapor Room</h2>
-				<p>A neighborhood dispensary. Development at OrdinaryKids.</p>
+				<p>Your friendly neighborhood dispensary.</p>
 			</div>    
 
 			<div class="detailsbar">                                                                                                     
-				<p>Project Status <span class="black">|</span> Month Year <span class="black">|</span> Media Type or Category</p>
+				<p>September 2009 <span class="black">|</span> Flash Web Site <span class="black">|</span> Developed at OrdinaryKids</p>
 
 				<div class='social'>   
 					<?php   
