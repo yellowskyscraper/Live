@@ -39,7 +39,7 @@
 			</div>        
 			
 			<div class="detailsbar">    
-				<p>Project Status <span class="black">|</span> Month Year <span class="black">|</span> Media Type or Category</p> 
+				<p>BETA Version <span class="black">|</span> July 2010 <span class="black">|</span> E-Commerce Flash Site <span class="black">|</span> Made at OrdinaryKids</p> 
        
 				<div class='social'>    
 					<?php   
@@ -52,11 +52,11 @@
 			<div class="linkbar"> 
 				<div class='arrow'></div>    
 				<a href="https://www.workopotamus.com/" target="blank"><h4>Go see for yourself</h4></a>
-			</div>      
+			</div>
 	
 			<div class="article_columns">
 				<h3>One simple suit for the working man.</h3>
-				<p>The Design and Development of a full E-Commerce Flash site for a start up suit company specializing in one affordable suit for the working stiff. In short Workopotomus is a modern suit made for the newly employed, or anyone who has less than a million dollars for work wear but still needs to look good. It's one reliable fit in two colors to keep costs down and make the suit-buying process as easy as possible. Try one out, you wont be disappointed.</p>
+				<p>The Branding and Production of a full E-Commerce Flash site for a start up suit company specializing in one affordable suit for the working stiff. In short Workopotomus is a modern suit made for the newly employed, or anyone who has less than a million dollars to spend on work wear but still needs to look good. It's one reliable fit in two colors to keep costs down and to make the suit-buying process as easy as possible. Try one out, I promise, you wont be disappointed.</p>
 			</div>
 			
 			<img class="firstorder" src="data/projects/Workopotamus/image1.jpg" alt="Image Description" />

@@ -29,24 +29,24 @@
 	
 		<div class="long">
 			<h3>Workopotamus</h3>
-			<p>Design and Development at OrdinaryKids<br><br>The Design and Development of a full E-Commerce Flash site for a start up suit company specializing in one affordable suit for the working stiff. In short Workopotomus is a modern suit made for the newly employed, or anyone who has less than a million dollars for work wear but still needs to look good. It's one reliable fit in two colors to keep costs down and make the suit-buying process as easy as possible. Try one out, you wont be disappointed.</p>
+			<p>Designed and Developed at OrdinaryKids<br><br>The Design and Development of a full E-Commerce Flash site for a start up suit company specializing in one affordable suit for the working stiff. In short Workopotomus is a modern suit made for the newly employed, or anyone who has less than a million dollars for work wear but still needs to look good. It's one reliable fit in two colors to keep costs down and make the suit-buying process as easy as possible. Try one out, you wont be disappointed.</p>
 		</div>
 	</a>
 </div>
 
 <div class="thumbnail">
-	<a href="SimplyForsaken.php">
+	<a href="SimpleNeeds.php">
 		<div class="bottom"></div>
 
-		<img src="data/projects/SimplyForsaken/thumbnail.jpg" alt="Image Description" />
+		<img src="data/projects/SimpleNeeds/thumbnail.jpg" alt="Simple Needs" />
 
 		<div class="short">
-			<h3>Simply Forsaken</h3>
+			<h3>Simple Needs</h3>
 			<p>A greater study on isolation.</p>
 		</div>
 	
 		<div class="long">
-			<h3>Simply Forsaken</h3>
+			<h3>Simple Needs</h3>
 			<p>Personal Exploration <br><br>My focus for this exploration was to create a small electronic device that could experience loneliness on its most shallow of levels; alone he grows anxious and erratic, accompanied he becomes calm and ordered. The device was granted a single mode to perceive his world; movement, and a single means to expressing that perception; an illuminated heartbeat.</p>
 		</div>
 	</a>
@@ -65,7 +65,7 @@
 	
 		<div class="med">
 			<h3>iSearch Media</h3>
-			<p>Development at OrdinaryKids<br><br> </p>
+			<p>Developed at OrdinaryKids<br><br> </p>
 		</div>
 	</a>
 </div>
@@ -103,7 +103,7 @@
 	
 		<div class="med">
 			<h3>The Vapor Room</h3>
-			<p>Development at OrdinaryKids<br><br> </p>
+			<p>Developed at OrdinaryKids<br><br> </p>
 		</div>
 	</a>
 </div>
@@ -141,7 +141,7 @@
 	
 		<div class="long">
 			<h3>Little Blank Books</h3>
-			<p>Personal Exploration <br><br>So, what exactly is the result of of an undergraduate degree in the fine arts; what is four years of study worth to a person in todays day and age? Is it a piece of paper signifying competence in a certain specialization? Is it allowing of a certain income bracket?</p>
+			<p>Personal Exploration <br><br>So, what exactly is the result of an undergraduate degree in the Fine Arts and what is four years of study worth to a person these days? Is it a piece of paper noting competence in a certain specialization? Does it allow for a more significant income bracket or more status?</p>
 		</div>
 	</a>
 </div>

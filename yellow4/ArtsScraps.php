@@ -35,7 +35,7 @@
 			</div>  
 			    
 			<div class="detailsbar">    
-				<p>Project Status <span class="black">|</span> Month Year <span class="black">|</span> Media Type or Category</p> 
+				<p>February 2008 <span class="black">|</span> Promotional Mail Outs</p> 
 
 				<div class='social'>    
 					<?php   
@@ -47,7 +47,7 @@
 
 			<div class="article_columns">
 				<h3>Art from Scraps.</h3>
-				<p>Arts &amp; Scraps provides children with creative experiences using recycled industrial scraps to actively involve them in learning, increase their confidence and encourage independent thinking. These solutions are meant to align with the non-wast, second life ideals of Arts &amp; Scraps. The designs are minimal in form and printed on repurposed industrial graph papers. Either processed recycled paper or straight up found materials, such as graphs, schematics, blue prints and so on. The three themes represented throughout the series are a 'Call for Donation', a 'Fabric Sale', and a 'Self Awareness' promotional. The series consists of six deluxe post cards, a 18x 24 in poster, a mailer with premium and a micro site.</p>
+				<p>Arts &amp; Scraps provides children with creative experiences using recycled industrial scraps to actively involve them in learning, increase their confidence and encourage independent thinking. This in mind these promotional solutions are meant to align with the non-wast, second life ideals of the Arts &amp; Scraps organization. The designs are minimal in form and printed on recycled industrial papers. Either processed recycled paper or straight up found materials, such as graphs, schematics, blue prints and so on. The three themes represented throughout the series are a 'Call for Donation', a 'Fabric Sale', and a 'Self Awareness' promotional. The series consists of six deluxe post cards, a 18x24 in poster, a mailer with premium and a micro site.</p>
 			</div>
 			
 			<img class="firstorder" src="data/projects/ArtsScraps/image1.jpg" alt="Image Description" />
