@@ -290,7 +290,27 @@
 		</div>
 	</a>
 </div>   
---> 
+-->
+
+<div class="thumbnail">
+	<a href="http://www.flickr.com/photos/yellowskyscraper/">
+		<div class="bottom"></div>
+
+		<div id="flickrThumb">
+			<img src="data/images/thumbnail.jpg" alt="Image Description" />
+		</div>
+
+		<div class="short">
+			<h3>The Photo Archive</h3>
+			<p>Adventures documented.</p>
+		</div>
+
+		<div class="med">
+			<h3>The Photo Archive</h3>
+			<p>A Series of Photographs Over Time</p>
+		</div>
+	</a>
+</div>   
 
 <div class="thumbnail">
 	<a href="../yellow3" target="blank">
