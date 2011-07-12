@@ -510,6 +510,12 @@
 		margin-left: 15px;
 	}
 	
+	
+	
+	#portfolio div.thumbnail h3 span.italics { 
+		font-family: GeorgiaBoldItalic;
+	}
+	
 	#portfolio div.thumbnail p { 
 		width: 190px;
 		font-size: 10px;

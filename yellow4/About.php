@@ -29,8 +29,8 @@
 		<section id="maindetail">
 			
 			<div class="large_copy">      
-				<p>So, you've found yourself wondering about our little Skyscraper of gilded Yellow? Well, at first glance you may have noticed that we're a very tall building of many stories, you may have also noticed that we stimulated both the long- and medium-wavelength cone cells of your retina (apologies for any feeling of intrusion but we assure you it was necessary) producing that yellowing effect we have all come to know and love. It's getting beyond the facade that situation begins to complicate, so much so, that our own team can't even produce much more than senseless ramblings and insults. The best we can offer as an explanation is that we're simply people and this is just what me must do, even if we don't understand entirely and even if the process ultimately kills us.<br><br>
-			  	I hope this has been of some help to you.</p>
+				<p>So, you've found yourself wondering about our little Skyscraper of gilded Yellow? Well, at first glance you may have noticed that we're a very tall building of many stories, you may have also noticed that we stimulated both the long- and medium-wavelength cone cells of your retina (apologies for any feeling of intrusion but we assure you it was necessary) producing that yellowing effect we have all come to know and love. It's in any attempt to get beyond the facade that situation begins to complicate, so much so, that our own team can't even produce much more than senseless ramblings and insults. The best we can offer as an explanation is that we're simply people and this is just what me must do, even if we don't understand entirely and even if the process ultimately kills us.<br><br>
+			  	I hope this has been of some help to you.</p> 
 		    	
 				<h2>Take care and be safe,<br> 
 		  		Your friends at Yellowskyscraper</h2>       

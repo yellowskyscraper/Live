@@ -1,3 +1,22 @@
+
+<div class="thumbnail">
+	<a href="">
+		<div class="bottom"></div>
+
+		<img src="data/Projects/WeAllNeed/thumbnail.jpg" alt="Image Description" />
+
+		<div class="short">
+			<h3>We <span class="italics">All</span> Need</h3>
+			<p>A simple solution to a simple question.</p>
+		</div>
+
+		<div class="long">
+			<h3>We <span class="italics">All</span> Need</h3>
+			<p>Design and Concept Development <br><br>What do you need? What do you think? They're simple questions that remind us that no matter how complex it gets, it's still about people, talking with people, and living with people. Because no matter how far we may find ourselves apart from one another, our similarities will always bring us back together.</p>
+		</div>
+	</a>
+</div>
+
 <div class="thumbnail">
 	<a href="TenderVoice.php">
 		<div class="bottom"></div>
@@ -69,13 +88,12 @@
 		</div>
 	</a>
 </div>
-
-<!--
+<!-- 
 <div class="thumbnail">
 	<a href="PhysicsPrototype.php">
 		<div class="bottom"></div>
 
-		<img src="data/projects/PhysicsPrototype/thumbnail.jpg" alt="Image Description" />
+		<img src="data/images/thumbnail.jpg" alt="Image Description" />
 
 		<div class="short">
 			<h3>Physics Prototype</h3>
@@ -89,7 +107,6 @@
 	</a>
 </div>
 -->
-
 <div class="thumbnail">
 	<a href="VaporRoom.php">
 		<div class="bottom"></div>
@@ -108,7 +125,7 @@
 	</a>
 </div>
 
-<!--
+
 <div class="thumbnail">
 	<a href="LoveWanted.php">
 		<div class="bottom"></div>
@@ -126,7 +143,7 @@
 		</div>
 	</a>
 </div> 
--->
+
 
 <div class="thumbnail">
 	<a href="LittleBlankBooks.php">
@@ -234,7 +251,25 @@
 			<p>Personal Exploration <br><br>A simple questioning of convention, an alteration or consideration of ones individual perception within his environment. Jonathan Barnbrook, Damien Hurst and Adbusters alike, consider  the conventional in new and interesting ways. Allowing for us to reflect upon the way in which we perceive information.</p>
 		</div>
 	</a>
-</div>    
+</div>   
+
+<div class="thumbnail">
+	<a href="">
+		<div class="bottom"></div>
+
+		<img src="data/images/thumbnail.jpg" alt="Image Description" />
+
+		<div class="short">
+			<h3>Flickr</h3>
+			<p>Photos as I take them</p>
+		</div>
+
+		<div class="med">
+			<h3>Flickr</h3>
+			<p>A Series of Photographs</p>
+		</div>
+	</a>
+</div>   
 
 <!-- 
 <div class="thumbnail">
@@ -272,7 +307,7 @@
 		</div>
 	</a>
 </div> 
-      
+    
 <div class="thumbnail">
 	<a href="UrbanLiving.php">
 		<div class="bottom"></div>
@@ -290,7 +325,7 @@
 		</div>
 	</a>
 </div>   
---> 
+-->  
 
 <div class="thumbnail">
 	<a href="../yellow3" target="blank">
