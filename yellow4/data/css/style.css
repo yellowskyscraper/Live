@@ -79,6 +79,16 @@
 		font-size: 14px;
 		color: #4b4b4b;
 	}
+	
+	a {
+		font-family: GeorgiaItalic;
+		color: #000;
+		text-decoration: underline;
+	}
+	
+	a:hover {
+		color: #000;
+	}
 
 	strong { 
 		font-family: GeorgiaItalic;
@@ -211,7 +221,7 @@
 	#maindetail .large_copy h2 { 
 		font-family: Georgia; 
 		font-size: 15px; 
-		color: #7e7e7e;
+		color: #7e7e7e; 
 		margin-top:40px;
 	}  
     
@@ -305,6 +315,10 @@
 		color: #4b553a;
 	}
 	
+	#detail div.titlebar h2 span.italics { 
+		font-family: GeorgiaBoldItalic;
+	}
+	
 	#detail div.titlebar p { 
 		width: 926px;
 		font-size: 10px;
@@ -325,7 +339,7 @@
 	#detail div.titlebar_photo h2 { 
 		width: 925px;
 		margin-top: 20px;
-		margin-left: 19px;
+		margin-left: 24px;
 		color: #6d568c;
 	}
 	
@@ -334,7 +348,39 @@
 		font-size: 10px;
 		margin-left: 19px; 
 		color: #6d568c;
-	}     
+	}    
+	
+	#detail #flickr_div { 
+		border: 1px solid #000000;
+		background-color: #000;
+		margin-top: 15px;
+		margin-left: 1px;
+		width: 926px;
+		height: 647px;
+	}
+	
+	#detail #flickr_div img{ 
+		margin:0px;
+		margin-top:-1px;
+		margin-left:-1px;
+	}
+	
+	#detail .large_copy h2 { 
+		width: 925px;
+		font-family: Georgia; 
+		font-size: 15px; 
+		color: #7e7e7e;
+		margin-top:40px;
+	}  
+    
+	#detail .large_copy p { 
+		width: 925px;
+		font-family: Georgia; 
+		font-size: 25px;     
+		line-height: 33px; 
+		color: #7e7e7e;
+		margin-top:20px;
+	}
 /*//////////////////////////////////////////////////////////////////////////////////*/
 
 	#detail div.detailsbar{ 
@@ -407,7 +453,48 @@
 	}
 	
 	#detail div.linkbar:hover h4 { 
-		color: #4b553a;     
+		width: 905px;   
+		padding-left: 25px;
+	}
+/*//////////////////////////////////////////////////////////////////////////////////*/       
+
+	#detail div.linkbar_photo{ 
+		border-bottom: 1px dotted #000000;
+	   	width: 930px; 
+		height: 41px;
+		margin-left: 0px;
+		margin-bottom: 0px;
+		z-index: 3;  
+	}   
+	
+	#detail div.linkbar_photo:hover{ 
+		background-color: #f1eafc;
+	}  
+	
+	#detail div.linkbar_photo div.arrow { 
+		background: url(../images/link_arrow_photo.png);    
+		width: 7px;
+		height: 11px;  
+		margin-left: 12px; 
+		margin-top: 15px;  
+		position:absolute;                          
+	} 
+	
+	#detail div.linkbar_photo:hover div.arrow { 
+		margin-left: 14px;                        
+	}    
+
+	#detail div.linkbar_photo h4 { 
+		color: #6d568c;
+		width: 906px;  
+		height: 23px;   
+		padding-left: 24px;
+		padding-top: 10px;
+		padding-bottom: 8px;  
+		float:left;
+	}
+	
+	#detail div.linkbar_photo:hover h4 { 
 		width: 905px;   
 		padding-left: 25px;
 	}
@@ -430,7 +517,7 @@
 	#detail h3 { 
 		width: 453px;
 		margin-top: 0px;
-		padding-left: 5px;
+		padding-left: 25px;
 	}
 	
 	#detail p { 

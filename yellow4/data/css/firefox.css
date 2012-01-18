@@ -1,96 +1,125 @@
 /*//////////////////////////////////////////////////////////////////////////////////*/
 /* HTML5 tags */
-h1 { 
-	/*font-family: Georgia, Courier; firefox 3.6*/
-	font-family: GeorgiaItalic, Georgia1, Georgia, serif;
-	font-size: 33px; 
-}
-
-h2 { 
-	font-family: Georgia1, Georgia, serif;
-	font-size: 15px;
-}
-
-h3 { 	
-	font-family: Georgia1, Georgia, serif;
-}
-
-#headercontainer h1 { 
-	padding-top: 37px;  
-} 
-
-#contentcontainer { 
-	width: 966px;  
-} 
-
-#maindetail .large_copy h2 { 
-	letter-spacing:1px;
-}  
-   
-#maindetail .large_copy p span.italics{ 
-	color: #8f8f8f;
-}
-
-#detail{ 
-	padding-left:21px;
-}  
-
-#detail div.titlebar h2 {    
-	margin-top: 17px;
-	font-size: 20px;
-	letter-spacing:1px;
-} 
-
-#detail div.titlebar_photo h2 {  
-	letter-spacing:1px;
-}
-
-#detail div.linkbar h3 { 
-	font-family: Georgia1, Georgia, serif;
-	font-size: 10px;   
-	letter-spacing:1px;  
-}  
-
-#detail div.linkbar h4 {
-	letter-spacing:1px;
-} 
-
-#detail h3 {           
-	letter-spacing:1px;
-}
-
-#map {              
-	margin-left: 2px;   
-}  
-
-#map h1{    
-	font-family: GeorgiaItalic, Georgia1, Georgia, serif;         
-	letter-spacing:1px;
-}  
-
-#map h2{     
-	font-family: Georgia1, Georgia, serif;          
-	letter-spacing:1px;
-}
-
-#portfolio{ 
-	padding-left:22px;
-}
-
-#portfolio div.thumbnail p { 
-	font-size: 10px;
-} 
-
-#portfolio div.thumbnail h3 { 
-	letter-spacing:1px;
-}
-
-#portfolio div.thumbnail div.long { 
-	height: 152px;
-	margin-top: 215px;
-}
-
-#portfolio div.thumbnail div.long p{ 
-	height: 105px;
-}
+	h1 { 
+		/*font-family: Georgia, Courier; firefox 3.6*/
+		font-family: GeorgiaItalic, Georgia1, Georgia, serif;
+		font-size: 33px; 
+	}
+	
+	h2 { 
+		font-family: Georgia1, Georgia, serif;
+		font-size: 15px;
+	}
+	
+	h3 { 	
+		font-family: Georgia1, Georgia, serif;
+	}
+	
+	#headercontainer h1 { 
+		padding-top: 37px;  
+	} 
+	
+	#contentcontainer { 
+		width: 966px;  
+	} 
+	
+	#maindetail .large_copy h2 { 
+		letter-spacing:1px;
+	}  
+	
+	#maindetail .large_copy p span.italics{ 
+		color: #8f8f8f;
+	}
+	
+	#detail{ 
+		padding-left:21px;
+	}  
+	
+	#detail div.titlebar h2 {    
+		margin-top: 17px;
+		font-size: 20px;
+		letter-spacing:1px;
+	} 
+	
+	#detail div.titlebar_photo h2 {  
+		letter-spacing:1px;
+	}
+	
+	#detail div.linkbar h3 { 
+		font-family: Georgia1, Georgia, serif;
+		font-size: 10px;   
+		letter-spacing:1px;  
+	}  
+	
+	#detail div.linkbar h4 {
+		letter-spacing:1px;
+		font-size: 15px;
+		padding-top: 12px;
+		padding-left: 25px;
+	} 
+	
+	#detail div.linkbar:hover h4 { 
+		width: 905px;   
+		padding-left: 26px;
+	}
+	
+	#detail div.linkbar_photo h4 {
+		letter-spacing:1px;
+		font-size: 15px;
+		padding-top: 12px;
+		padding-left: 25px;
+	} 
+	
+	#detail div.linkbar_photo:hover h4 { 
+		width: 905px;   
+		padding-left: 26px;
+	}
+	
+	#detail div.titlebar h2 span.italics { 
+		font-family: Georgia1, Georgia, serif;
+	}
+	
+	
+	#detail h3 {           
+		letter-spacing:1px;
+	}
+	
+	#map {              
+		margin-left: 2px;   
+	}  
+	
+	#map h1{    
+		font-family: GeorgiaItalic, Georgia1, Georgia, serif;         
+		letter-spacing:1px;
+	}  
+	
+	#map h2{     
+		font-family: Georgia1, Georgia, serif;          
+		letter-spacing:1px;
+	}
+	
+	#portfolio{ 
+		padding-left:22px;
+	}
+	
+	#portfolio div.thumbnail h3 span.italics { 
+		font-family: Georgia1, Georgia, serif; 
+	}
+	
+	#portfolio div.thumbnail p { 
+		font-size: 10px;
+	} 
+	
+	#portfolio div.thumbnail h3 { 
+		letter-spacing:1px;
+	}
+	
+	#portfolio div.thumbnail div.long { 
+		height: 152px;
+		margin-top: 215px;
+	}
+	
+	#portfolio div.thumbnail div.long p{ 
+		height: 105px;
+	}
 /*//////////////////////////////////////////////////////////////////////////////////*/

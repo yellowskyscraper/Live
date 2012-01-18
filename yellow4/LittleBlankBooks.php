@@ -49,12 +49,12 @@
 					?>
 				</div>     
 			</div> 
-			<!--    
+ 
 			<div class="linkbar"> 
 				<div class='arrow'></div>    
-				<a href="" target="blank"><h4>Browse Archive</h4></a>
+				<a href="LittleBlankBooks/index.php" target="blank"><h4>Browse Online Archive</h4></a>
 			</div>
-			-->
+
 			<div class="article_columns">
 				<h3>An Exhibition Concerning An Undergraduate</h3>
 				<p>So, what exactly is the result of an undergraduate degree in the Fine Arts and what is four years of study worth to a person these days? Is it a piece of paper noting competence in a certain specialization? Does it allow for a more significant income bracket or more status? When 'Fine Arts' follows it, does it then imply a cohesive body of work, thorough and not without a learned intention? Or is it rebellion and experimentation unconcerned with all that has past into convention before it? It might be silly to say that it is anything specific amongst these, in reality it's everything listed above and more, in any case at the other end of an intensive undergraduate program you have a person.</p><br>

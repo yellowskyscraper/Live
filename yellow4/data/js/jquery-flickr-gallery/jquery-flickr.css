@@ -24,7 +24,6 @@
 
 #flickr_loader {
 	background:url('loader.gif') no-repeat center center;
-	z-index: 2;
 	position: absolute;
 	background-color: #000;
 	top: 1px;

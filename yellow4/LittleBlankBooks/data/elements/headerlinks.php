@@ -127,6 +127,6 @@
 	*/
 </script>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js" type="text/javascript"></script>
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js" type="text/javascript"></script>
 <script src="data/js/jquery.anchor.js" type="text/javascript"></script>
-<script src="data/js/jquery.fancybox-1.2.6.pack.js" type="text/javascript"></script>
+<script src="data/js/jquery.fancybox-1.2.6.pack.js" type="text/javascript"></script> -->

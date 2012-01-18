@@ -15,13 +15,12 @@
     <header id="headercontainer">
 		<div class="topbar"></div>
 
-		<nav>	
-			<a href="james_hovell.pdf" target="blank">resume</a>
-			<a href="Contact.php">contact</a>
+		<nav>	                                                  
+			<a href="Contact.php">contact</a>  
+			<a href="About.php">about</a>   
 			<a href="" class="active">work</a>
-			<a href="About.php">about</a>
 		</nav>
-
+		
 		<?php include 'data/elements/header.php'; ?>
     </header>
 <!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
@@ -36,7 +35,7 @@
 			</div>     
 
 			<div class="detailsbar">                                                                                                       
-				<p>Project Status <span class="black">|</span> Month Year <span class="black">|</span> Media Type or Category</p>
+				<p>February 2009 <span class="black">|</span> Large Print Installation</p>
 
 				<div class='social'>   
 					<?php   
@@ -47,8 +46,9 @@
 			</div>
 
 			<div class="article_columns">
-				<h3>Header Test</h3>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+				<h3>Looking At Desires Underbelly</h3>
+				<p>An observation of a single form that our tireless search for companionship, physical gratification, and love can sometimes take. We all experience and understand longing and love subjectively, developing our own notions deeply rooted in collective expectation and secondly personal experience. Where, if you were to peek through the personals section of your local paper, you might find a different means to such satisfaction, such ends.</p> 
+				<p>Borrowing from the Metro Times of Detroit I wished to express this idea, that to a point, no matter how tall you build mans accomplishments and sophistication, no matter how "civilized" he becomes, he still is animal no less. So what is this kind of love, perhaps nothing, perhaps it's only a window through to the underbelly of our sexual desires, or maybe it's a window into a facet of ourselves, a facet that we rather keep hidden.</p>
 			</div>
 			
 			<div class="dividerdots"></div>

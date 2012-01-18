@@ -1,9 +1,26 @@
-
 <div class="thumbnail">
-	<a href="">
+	<a href="Noise.php">
 		<div class="bottom"></div>
 
-		<img src="data/Projects/WeAllNeed/thumbnail.jpg" alt="Image Description" />
+		<img src="data/Projects/Noise/thumbnail.jpg" alt="" />
+
+		<div class="short">
+			<h3>Noise</h3>
+			<p>Making or given to making a lot of noise.</p>
+		</div>
+
+		<div class="med">
+			<h3>Noise</h3>
+			<p>A Simple Productivity App</p>
+		</div>
+	</a>
+</div>   
+
+<div class="thumbnail">
+	<a href="WeAllNeed.php">
+		<div class="bottom"></div>
+
+		<img src="data/Projects/WeAllNeed/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>We <span class="italics">All</span> Need</h3>
@@ -21,7 +38,7 @@
 	<a href="TenderVoice.php">
 		<div class="bottom"></div>
 
-		<img src="data/projects/TenderVoice/thumbnail.jpg" alt="Image Description" />
+		<img src="data/projects/TenderVoice/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>TenderVoice</h3>
@@ -39,7 +56,7 @@
 	<a href="Workopotamus.php">
 		<div class="bottom"></div>
 
-		<img src="data/projects/Workopotamus/thumbnail.jpg" alt="Image Description" />
+		<img src="data/projects/Workopotamus/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>Workopotamus</h3>
@@ -75,7 +92,7 @@
 	<a href="iSearchMedia.php">
 		<div class="bottom"></div>
 
-		<img src="data/projects/iSearchMedia/thumbnail.jpg" alt="Image Description" />
+		<img src="data/projects/iSearchMedia/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>iSearch Media</h3>
@@ -93,7 +110,7 @@
 	<a href="PhysicsPrototype.php">
 		<div class="bottom"></div>
 
-		<img src="data/images/thumbnail.jpg" alt="Image Description" />
+		<img src="data/images/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>Physics Prototype</h3>
@@ -111,7 +128,7 @@
 	<a href="VaporRoom.php">
 		<div class="bottom"></div>
 
-		<img src="data/projects/VaporRoom/thumbnail.jpg" alt="Image Description" />
+		<img src="data/projects/VaporRoom/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>The Vapor Room</h3>
@@ -130,7 +147,7 @@
 	<a href="LoveWanted.php">
 		<div class="bottom"></div>
 
-		<img src="data/images/thumbnail.jpg" alt="Image Description" />
+		<img src="data/images/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>LOVE WANTED</h3>
@@ -149,7 +166,7 @@
 	<a href="LittleBlankBooks.php">
 		<div class="bottom"></div>
 
-		<img src="data/projects/LittleBlankBooks/thumbnail.jpg" alt="Image Description" />
+		<img src="data/projects/LittleBlankBooks/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>Little Blank Books</h3>
@@ -167,7 +184,7 @@
 	<a href="Jimventory.php">
 		<div class="bottom"></div>
 
-		<img src="data/projects/Jimventory/thumbnail.jpg" alt="Image Description" />
+		<img src="data/projects/Jimventory/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>Jimventory</h3>
@@ -185,7 +202,7 @@
 	<a href="Tidal.php">
 		<div class="bottom"></div>
 
-		<img src="data/projects/Tidal/thumbnail.jpg" alt="Image Description" />
+		<img src="data/projects/Tidal/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>Tidal Project</h3>
@@ -203,15 +220,15 @@
 	<a href="ReactiveFloor.php">
 		<div class="bottom"></div>
 
-		<img src="data/projects/ReactiveFloor/thumbnail.jpg" alt="Image Description" />
+		<img src="data/projects/ReactiveFloor/thumbnail.jpg" alt="" />
 
 		<div class="short">
-			<h3>Reactive Floor Prototype</h3>
+			<h3>Reactive Floor</h3>
 			<p>Connections and collaborations.</p>
 		</div>
 
 		<div class="long">
-			<h3>Reactive Floor Prototype</h3>
+			<h3>Reactive Floor</h3>
 			<p>Design and Development <br><br>Bayer was in need of a bridge, a bridge to cross the gap between the Industrial Designer and the Material Supplier. The current chain works something like this, the Designer would create, the Engineer would have their say, then, eventually the Material Supplier would become involved.</p>
 		</div>
 	</a>
@@ -221,7 +238,7 @@
 	<a href="ArtsScraps.php">
 		<div class="bottom"></div>
 
-		<img src="data/projects/ArtsScraps/thumbnail.jpg" alt="Image Description" />
+		<img src="data/projects/ArtsScraps/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>Arts &amp; Scraps</h3>
@@ -239,7 +256,7 @@
 	<a href="GraphicEmotive.php">
 		<div class="bottom"></div>
 
-		<img src="data/projects/GraphicEmotive/thumbnail.jpg" alt="Image Description" />
+		<img src="data/projects/GraphicEmotive/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>Graphic Emotive</h3>
@@ -253,30 +270,12 @@
 	</a>
 </div>   
 
-<div class="thumbnail">
-	<a href="">
-		<div class="bottom"></div>
-
-		<img src="data/images/thumbnail.jpg" alt="Image Description" />
-
-		<div class="short">
-			<h3>Flickr</h3>
-			<p>Photos as I take them</p>
-		</div>
-
-		<div class="med">
-			<h3>Flickr</h3>
-			<p>A Series of Photographs</p>
-		</div>
-	</a>
-</div>   
-
 <!-- 
 <div class="thumbnail">
 	<a href="">
 		<div class="bottom"></div>
 
-		<img src="data/images/thumbnail.jpg" alt="Image Description" />
+		<img src="data/images/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>People I've Passed</h3>
@@ -294,7 +293,7 @@
 	<a href="">
 		<div class="bottom"></div>
 
-		<img src="data/images/thumbnail.jpg" alt="Image Description" />
+		<img src="data/images/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>Not Urban Places</h3>
@@ -312,7 +311,7 @@
 	<a href="UrbanLiving.php">
 		<div class="bottom"></div>
 
-		<img src="data/images/thumbnail.jpg" alt="Image Description" />
+		<img src="data/images/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>Urban Living</h3>
@@ -328,21 +327,21 @@
 -->
 
 <div class="thumbnail">
-	<a href="http://www.flickr.com/photos/yellowskyscraper/">
+	<a href="PhotoArchive.php">
 		<div class="bottom"></div>
 
 		<div id="flickrThumb">
-			<img src="data/images/thumbnail.jpg" alt="Image Description" />
+			<img src="data/photographs/PhotoArchive/thumbnail.jpg" alt="" />
 		</div>
 
 		<div class="short">
 			<h3>The Photo Archive</h3>
-			<p>Adventures documented.</p>
+			<p>An unproccessed documentation of life.</p>
 		</div>
 
 		<div class="med">
 			<h3>The Photo Archive</h3>
-			<p>A Series of Photographs Over Time</p>
+			<p>Film and Digital alike.</p>
 		</div>
 	</a>
 </div>   
@@ -351,7 +350,7 @@
 	<a href="../yellow3" target="blank">
 		<div class="bottom"></div>
 
-		<img src="data/projects/Yellowskyscraper/thumbnail.jpg" alt="Image Description" />
+		<img src="data/projects/Yellowskyscraper/thumbnail.jpg" alt="" />
 
 		<div class="short">
 			<h3>Yellowskyscraper 3.0</h3>

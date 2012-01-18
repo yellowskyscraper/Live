@@ -35,7 +35,7 @@
 			</div>          
 			
 			<div class="detailsbar">    
-				<p>BETA Version <span class="black">|</span> June 2010 <span class="black">|</span> Interactive Resource &amp; Game</p> 
+				<p>BETA Launch <span class="black">|</span> June 2010 <span class="black">|</span> Interactive Resource &amp; Game</p> 
        
 				<div class='social'>      
 					<?php   
