@@ -1,0 +1,14 @@
+/*  Easy Grid
+ *	class name .cols used for column containers
+ *	class name .col used for individual columns
+*/
+		
+.cols { background:#fff; margin-bottom: 30px; overflow: hidden; } 	/* main column container class */
+.cols img { border:1px solid #BBB; }
+
+.col1, .col2 { background:#fff; float: left; display: inline; margin: 30px 0px 30px 30px;}	
+
+.col1 { width:440px; }
+.col2 { width:312px; }
+.col2 p { font: normal 10px/14px Helvetica, "Helvetica Neue", sans-serif; }
+.col2 .boxcallout { background:#E6E7E8; padding:15px; margin-bottom:20px; color:#58595B; font: normal 10px/14px Helvetica, "Helvetica Neue", sans-serif; }
