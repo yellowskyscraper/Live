@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<work root="">
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->	
+<!-- Simple Panel XML Node
+
+	<panel type="Simple">
+		<url><![CDATA[ ]]></url>
+
+		<company logopath=" "><![CDATA[ ]]></company>
+
+		<title service="It Took Over The Internet"><![CDATA[ ]]></title>
+
+		<intro><![CDATA[ ]]></intro>
+	</panel>
+	
+-->
+<!-- Case Study XML Node
+	
+	<panel type="Case Study">
+		<url><![CDATA[ ]]></url>
+		
+		<company logopath=" "><![CDATA[ ]]></company>
+		
+		<title service=" "><![CDATA[ ]]></title>
+		
+		<intro><![CDATA[ ]]></intro>
+		
+		<services><![CDATA[ ]]></services>
+		
+		<supplemental type="quote"><![CDATA[ ]]></supplemental>
+		<supplemental type="statistic" stat=" "><![CDATA[ ]]></supplemental>
+		
+		<columns>
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[ ]]></node>
+					<node type="bullet"><![CDATA[ ]]></node>
+					<node type="paragraph"><![CDATA[ ]]></node>
+				</nodes>
+				
+				<nodes>
+					<node type="title"><![CDATA[ ]]></node>
+					<node type="bullet"><![CDATA[ ]]></node>
+					<node type="paragraph"><![CDATA[ ]]></node>
+				</nodes>
+			</column>
+			
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[ ]]></node>
+					<node type="bullet"><![CDATA[ ]]></node>
+					<node type="paragraph"><![CDATA[ ]]></node>
+				</nodes>
+				
+				<nodes>
+					<node type="title"><![CDATA[ ]]></node>
+					<node type="bullet"><![CDATA[ ]]></node>
+					<node type="paragraph"><![CDATA[ ]]></node>
+				</nodes>
+			</column>
+		</columns>
+
+		<imageticker>
+			<image path=" " title=" "><![CDATA[ ]]></image>
+			<image path=" " title=" "><![CDATA[ ]]></image>
+		</imageticker>
+	</panel>
+	
+	
+ -->
+
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->	
+<!-- Simple Panel XML Node -->
+
+	<panel type="Clients Intro">
+		<url><![CDATA[introduction]]></url>
+
+		<title service="Client Testimonials"><![CDATA[Don't take our word for it...]]></title>
+
+		<intro><![CDATA["You guys are rock stars at what you do."<br>-Rody Moore, CEO, Genbook Inc.
+
+"This call ended up being the best investment decision we have ever made.  iSearch Media literally saved our company.  We recommend them with the utmost confidence."<br>-Molly Aeck, Development Director, Mrs. Metal Fabrication
+
+"ISM's expertise in PPC advertising strategy is, at least in my experience, completely unrivaled."<br>-Patrick McNamara, CEO, Insound.com]]></intro>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!-- Full Case Study -->	
+
+	<panel type="Case Study">
+		<url><![CDATA[californiaclosets]]></url>
+		
+		<company logopath="site/images/work/californiaclosets/californiaclosets.png"><![CDATA[CaliforniaClosets]]></company>
+		
+		<title service="Integrated Search/California Closets "><![CDATA[Everything in its Right Place]]></title>
+		
+		<intro><![CDATA[California Closets, the industry leader in custom closet and home storage design, came to us in 2008 with one very large question: what did they have to do to make their online lead acquisition efforts work better?  Not an easy question to answer—especially when you're talking about a company with 90+ franchises, each running their own programs through their own unique websites, contracting to all different SEM vendors around the country. <br><br>We knew there was a lot we could do here, and we knew that the job couldn't be done by picking and choosing the channels to optimize.  The only answer was a holistic, comprehensive search solution: integrated search.]]></intro>
+		
+		<services><![CDATA[SEO/PPC/LPO/ORM/Design]]></services>
+		
+		<supplemental type="statistic" stat="112 / 63"><![CDATA[% increase in lead volume/ % decrease in cost per lead]]></supplemental>
+		
+		<columns>
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[Overview]]></node>
+					<node type="paragraph"><![CDATA[California Closets' challenges online were multifarious.  With 90+ franchises running their own programs through their own SEM vendors, on their own URLs, the brand strength in the search engines was totally diluted.  The corporate website, fully Flash-based and entirely non-compliant with SEO standards, failed to attract strong organic rankings, and prevented successful lead captures through PPC.  The franchises all promoting themselves independently created massive search engine overlap and internal PPC competition.  The program was losing money, and to fix it they needed a big, comprehensive solution.]]></node>
+				</nodes>
+				
+				<nodes>
+					<node type="title"><![CDATA[Objectives]]></node>
+					<node type="bullet"><![CDATA[Restructure the entire company-wide SEM program around a single corporate website and SEM vendor]]></node>
+					<node type="bullet"><![CDATA[Build a site designed to attract organic rankings and convert PPC visitors to leads]]></node>
+					<node type="bullet"><![CDATA[Build a reporting solution to analyze all data on multiple business levels]]></node>
+					<node type="bullet"><![CDATA[Track all leads individually, including both online leads and phone calls]]></node>
+					<node type="bullet"><![CDATA[Increase lead volume through PPC advertising]]></node>
+					<node type="bullet"><![CDATA[Decrease cost per lead through PPC]]></node>
+					<node type="bullet"><![CDATA[Increase organic traffic and lead volume]]></node>
+					<node type="bullet"><![CDATA[Improve on-site lead conversion rate]]></node>
+				</nodes>
+			</column>
+			
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[Tactics]]></node>
+					<node type="bullet"><![CDATA[Built a new, SEO-friendly site with customizable sections for each franchise and landing pages for each product/service]]></node>
+					<node type="bullet"><![CDATA[Consolidated the company-wide web presence around the new site]]></node>
+					<node type="bullet"><![CDATA[Consolidated the company-wide SEM programs around one vendor (ISM)]]></node>
+					<node type="bullet"><![CDATA[Built a custom reporting dashboard accessible by both corporate and franchise employees]]></node>
+					<node type="bullet"><![CDATA[Implemented call-tracking technology]]></node>
+					<node type="bullet"><![CDATA[Rebuilt the PPC program from the ground up, with all franchises now acting in harmony]]></node>
+					<node type="bullet"><![CDATA[Optimized all Google Local listings]]></node>
+					<node type="bullet"><![CDATA[Implemented strategy for landing page testing and optimization]]></node>
+				</nodes>
+				
+				<nodes>
+					<node type="title"><![CDATA[Results]]></node>
+					<node type="bullet"><![CDATA[Grew lead volume 112% in first three months]]></node>
+					<node type="bullet"><![CDATA[Decreased cost per lead 63% in three months]]></node>
+					<node type="bullet"><![CDATA[115% increase in total visitors from April to August]]></node>
+					<node type="bullet"><![CDATA[Traffic and lead volume growth continues month over month]]></node>
+				</nodes>
+			</column>
+		</columns>
+
+		<imageticker>
+			<image path="site/images/work/californiaclosets/caliclos_0.png" title="The New Home Page"><![CDATA[The standards-based, SEO-friendly home page after the website rebuild]]></image>
+			<image path="site/images/work/californiaclosets/calclosets_2.png" title="Lead Growth Graph"><![CDATA[Moving up and to the right - just the way we like it]]></image>
+		</imageticker>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Case Study">
+		<url><![CDATA[insound]]></url>
+		
+		<company logopath="site/images/work/insound/insound.png"><![CDATA[Insound]]></company>
+		
+		<title service="PPC/Insound "><![CDATA[Selling Indie through AdWords]]></title>
+		
+		<intro><![CDATA[When they came to us, Insound.com already had a loyal following in the indie music space.  Founded in 1998, Insound is one of the leading retailers of all things indie, from LPs to T-shirts, posters, books, and even quirky niche electronics.  But they were looking to expand their customer base through Google AdWords; they'd been running their own program for over a year, with no success whatsoever.  So in early 2007, they hired iSearch Media to turn that situation around.]]></intro>
+		
+		<services><![CDATA[PPC Mgmt/LPO]]></services>
+		
+		<supplemental type="quote"><![CDATA[“ISM's expertise in PPC advertising is, at least in my experience, completely unrivaled.” <br> -Patrick McNamara, Managing Director, Insound]]></supplemental>
+		
+		<columns>
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[Overview]]></node>
+					<node type="paragraph"><![CDATA[Insound offers a range of products focused around the indie music space, including music (LPs, CDs, and MP3s), apparel, posters, and electronics. Insound hired iSearch Media to design a PPC program to increase its online sales volume, with a particular emphasis on high-margin items such as turntables.  This included building and deploying a comprehensive keyword set, testing relevant messages, identifying growth opportunities, optimizing lead acquisition costs, and determining what strategies would result in the highest-value paid search sales.]]></node>
+				</nodes>
+				
+				<nodes>
+					<node type="title"><![CDATA[Objectives]]></node>
+					<node type="bullet"><![CDATA[Increase revenue from PPC sales]]></node>
+					<node type="bullet"><![CDATA[Improve PPC profitability (ROAS)]]></node>
+					<node type="bullet"><![CDATA[Determine which keywords drive higher-value sales]]></node>
+					<node type="bullet"><![CDATA[Determine which messaging generates the most profitable sales activity]]></node>
+					<node type="bullet"><![CDATA[Increase visibility of the Insound brand]]></node>
+				</nodes>
+			</column>
+			
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[Tactics]]></node>
+					<node type="bullet"><![CDATA[Built PPC campaigns mirroring the structure of Insound's full product line across the U.S., the Americas (non-U.S.), Europe, and Asia]]></node>
+					<node type="bullet"><![CDATA[Designed ROAS-focused bid strategy tailored to each vertical and market]]></node>
+					<node type="bullet"><![CDATA[Established long-term strategy for ongoing messaging testing and optimization]]></node>
+					<node type="bullet"><![CDATA[Implemented aggressive branding strategy through bids and messaging]]></node>
+				</nodes>
+				
+				<nodes>
+					<node type="title"><![CDATA[Results]]></node>
+					<node type="bullet"><![CDATA[Increased monthly revenue by 60% since start of relationship]]></node>
+					<node type="bullet"><![CDATA[Increased profitability (ROAS) by 50% since start of relationship]]></node>
+					<node type="bullet"><![CDATA[Grew brand sales from negligible levels to over 30% of total revenue]]></node>
+				</nodes>
+			</column>
+		</columns>
+
+		<imageticker>
+			<image path="site/images/work/insound/insound_0.png" title="The Home Page"><![CDATA[Insound.com's home page. They sell a lot of products.]]></image>
+			<image path="site/images/work/insound/insound_1.png" title="Where the Traffic Goes"><![CDATA[The revamped product page, designed to sell]]></image>
+		</imageticker>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Case Study">
+		<url><![CDATA[netsimplicity]]></url>
+	
+		<company logopath="site/images/work/netsimplicity/netsimp.png"><![CDATA[NetSimplicity]]></company>
+		
+		<title service="SEO/NetSimplicity "><![CDATA[B2B SEO Simplified]]></title>
+		
+		<intro><![CDATA[“Meeting Scheduling Simplified” - that's what NetSimplicity is known for.  They sell B2B products designed to help their clients schedule and coordinate the use of their office meeting and conference rooms, to prevent double-booking with the use of intuitive in-house software.  If only acquiring new customers were that simple... <br><br>NetSimplicity came to ISM in the spring of 2008, and tasked us with helping them reach aggressive client acquisition goals for the upcoming quarter.  They've been a great client ever since, and we've worked for them in a number of capacities, including PPC management, LPO, and lead quality optimization.  Some of the most striking resutls we've driven, though, came from search engine optimization.]]></intro>
+		
+		<services><![CDATA[SEO/ORM/PPC]]></services>
+		
+		<supplemental type="statistic" stat="117.05%"><![CDATA[Increase in conversions by improved keyword-to-target page relevancy]]></supplemental>
+		
+		<columns>
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[Overview]]></node>
+					<node type="paragraph"><![CDATA[NetSimplicity’s Meeting Room Manager (MRM) software simplifies everyday administrative tasks for more than 2,500 customers in leading corporations, educational institutions, law firms, healthcare facilities, and nonprofits worldwide.  NetSimplicity engaged with iSearch Media to improve upon an SEO initiative that had plateaued for the previous six months.  This included auditing their current SEO vendor, understanding where the opportunities for growth lay, and deploying strategies that would result in higher volumes of organically driven leads.]]></node>
+				</nodes>
+				
+				<nodes>
+					<node type="title"><![CDATA[Objectives]]></node>
+					<node type="bullet"><![CDATA[Audit current SEO strategy to find new opportunities]]></node>
+					<node type="bullet"><![CDATA[Implement SEO strategy for new site launch]]></node>
+					<node type="bullet"><![CDATA[Drive increased volumes of quality leads]]></node>
+				</nodes>
+			</column>
+			
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[Tactics]]></node>
+					<node type="bullet"><![CDATA[Built an SEO keyword strategy targeting high-converting PPC keywords]]></node>
+					<node type="bullet"><![CDATA[Built a website transition strategy to prevent a drop in lead flow; moved old site over to new]]></node>
+					<node type="bullet"><![CDATA[Built and implemented an external link strategy focused on an organic growth cycle]]></node>
+					<node type="bullet"><![CDATA[Developed a multi-channel social media strategy to help engage users and drive quality links]]></node>
+				</nodes>
+				
+				<nodes>
+					<node type="title"><![CDATA[Results]]></node>
+					<node type="bullet"><![CDATA[Transitioned from old site to new site successfully without lead loss]]></node>
+					<node type="bullet"><![CDATA[Improved monthly lead volume by 59% since the start of the relationship]]></node>
+					<node type="bullet"><![CDATA[Increased on-page conversion rate by 117% by improving keyword-to-target page relevancy]]></node>
+				</nodes>
+			</column>
+		</columns>
+
+		<imageticker>
+			<image path="site/images/work/netsimplicity/netsimp_0.png" title="The New Home Page"><![CDATA[NetSimplicity's new and improved, SEO-friendly home page]]></image>
+			<image path="site/images/work/netsimplicity/netsimp_1.png" title="Search Engine Dominanace"><![CDATA[The top organic and paid search results on one target keyword]]></image>
+		</imageticker>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<panel type="Case Study">
+		<url><![CDATA[globalenglish]]></url>
+	
+		<company logopath="site/images/work/globalenglish/globalenglish.png"><![CDATA[GlobalEnglish]]></company>
+		
+		<title service="LPO/Global English "><![CDATA[Teaching a Site to Convert]]></title>
+		
+		<intro><![CDATA[GlobalEnglish provides online language learning and support for over 450 companies who operate internationally, from HP to Deloitte to IBM.  They hired ISM at first to manage their pay-per-click campaigns; in addition, we recommended a landing page optimization plan to enhance the returns on the PPC investment. <br><br>The results?  Read and learn.]]></intro>
+		
+		<services><![CDATA[LPO/PPC]]></services>
+		
+		<supplemental type="statistic" stat="500%"><![CDATA[Conversion rate improvement after landing page optimization]]></supplemental>
+		
+		<columns>
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[Overview]]></node>
+					<node type="paragraph"><![CDATA[GlobalEnglish offers online English instruction to large and medium sized companies who need a scalable solution to improve the business English capabilities of their workforce. <br><br>GlobalEnglish engaged with ISM to develop an LPO initiative that would improve the performance of its paid search landing pages, with a particular emphasis on click-to-lead conversion rate. This included analyzing their existing landing pages, formulating testable hypotheses, working with their design team to generate a new page, and conducting the landing page test.]]></node>
+				</nodes>
+				
+				<nodes>
+					<node type="title"><![CDATA[Objectives]]></node>
+					<node type="bullet"><![CDATA[Increase conversion rate on target landing page]]></node>
+					<node type="bullet"><![CDATA[As a result, improve PPC lead volume & profitability (CPA)]]></node>
+					<node type="bullet"><![CDATA[Enable greater visibility & more aggressive spend in PPC advertising]]></node>
+				</nodes>
+			</column>
+			
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[Tactics]]></node>
+					<node type="bullet"><![CDATA[Clarify and simplify the landing page’s message]]></node>
+					<node type="bullet"><![CDATA[Incorporate a targeted call-to-action]]></node>
+					<node type="bullet"><![CDATA[Increase the visual prominence of the lead form (the intended action) on the landing page]]></node>
+					<node type="bullet"><![CDATA[Change the on-page images to create a more user-friendly feel]]></node>
+					<node type="bullet"><![CDATA[Rewrite and reformat the copy to emphasize top selling points; reduce wordiness]]></node>
+				</nodes>
+				
+				<nodes>
+					<node type="title"><![CDATA[Results]]></node>
+					<node type="bullet"><![CDATA[Six-fold increase in conversion rate: from 0.50% to over 3.0%]]></node>
+					<node type="bullet"><![CDATA[Drastically improved PPC effectiveness; lead volume increased five-fold, CPA reduced by 400% ]]></node>
+					<node type="bullet"><![CDATA[Efficiency improvement has allowed for much more aggressive PPC bidding at the same budget, resulting in greater brand visibility across the entire account]]></node>
+				</nodes>
+			</column>
+		</columns>
+
+		<imageticker>
+			<image path="site/images/work/globalenglish/globeng_1.png" title="Before"><![CDATA[The lead-capture page before optimization]]></image>
+			<image path="site/images/work/globalenglish/globeng_0.png" title="After"><![CDATA[The lead-capture page after optimization]]></image>
+		</imageticker>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+</work>

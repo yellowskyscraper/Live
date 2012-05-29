@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<news root="">
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel>
+		<title><![CDATA[The Latest/The Greatest]]></title>
+
+		<posts>
+		<!-- Template Post
+			<post>
+				<node type="date"><![CDATA[ ]]></node>
+				<node type="title"><![CDATA[ ]]></node>
+				<node type="body">
+					<nodes>
+						<node type="paragraph"><![CDATA[ ]]></node>
+						<node type="bullet"><![CDATA[ ]]></node>
+						<node type="paragraph"><![CDATA[ ]]></node>
+					</nodes>
+				</node>
+			</post>	
+		-->
+			<post>
+				<node type="date"><![CDATA[11/18/09]]></node>
+				<node type="title"><![CDATA[iSearchMedia.com launches in beta mode]]></node>
+				<node type="body">
+					<nodes>
+						<node type="paragraph"><![CDATA[We're launching the new site today--November 18, 4:45 p.m.  Many small changes still need to be made, content added or adjusted, some kinks to iron out, but after a long design and development process with the guys at Ordinary Kids, we're finally in a place to take this baby live.  Ready...set...go!]]></node>
+					</nodes>
+				</node>
+			</post>
+			<post>
+				<node type="date"><![CDATA[11/17/09]]></node>
+				<node type="title"><![CDATA[ISM has a new website]]></node>
+				<node type="body">
+					<nodes>
+						<node type="paragraph"><![CDATA[This is our new website.  Yep, you're looking at it!  After two and a half years of one site after the next that failed to do justice to the quality of work we do, we finally found the right design firm to bring our agency's digital identity to life.  Big thanks to the guys at Ordinary Kids for the great work--from branding and concept creation through the design and development process, the O.K. team was just what the doctor ordered.  So thanks, Ordinary Kids.  We at ISM salute you.<br><br> <a href="http://www.ordinarykids.com"><u>OrdinaryKids.com</u></a>]]></node>
+					</nodes>
+				</node>
+			</post>
+		</posts>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+</news>

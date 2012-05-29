@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<about root="">
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Inside ISM">
+		<url><![CDATA[insideism]]></url>
+		
+		<title header="Inside ISM"><![CDATA[Much more than a group of hamsters, years of combined experience in search engine marketing. We've kept our team agile, the partners taking a role in every project ISM consults on.]]></title>
+
+		<intro><![CDATA[Don't be so gloomy. After all it's not that awful. Like the fella says, in Italy for 30 years under the Borgias they had warfare, terror, murder, and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland they had brotherly love - they had 500 years of democracy and peace, and what did that produce? The cuckoo clock. So long Holly.]]></intro>
+
+		<awardsimages>
+			<image path="images/about/first.jpg"><![CDATA[]]></image>
+			<image path="images/about/third.jpg"><![CDATA[]]></image>
+		</awardsimages>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Introduction">
+		<url><![CDATA[introduction]]></url>
+		
+		<title header="The ISM Team"><![CDATA[Years of combined experience in search engine marketing. We've kept our team agile, the partners taking a role in every project ISM consults on.]]></title>
+
+		<intro><![CDATA[Don't be so gloomy. After all it's not that awful. Like the fella says, in Italy for 30 years under the Borgias they had warfare, terror, murder, and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland they had brotherly love - they had 500 years of democracy and peace, and what did that produce? The cuckoo clock. So long Holly.]]></intro>
+
+		<awardsimages>
+			<image path="images/about/first.jpg"><![CDATA[]]></image>
+			<image path="images/about/third.jpg"><![CDATA[]]></image>
+		</awardsimages>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Image Ticker">
+		<url><![CDATA[studio]]></url>
+
+		<title service="SEO/Net Simplicity "><![CDATA[Exponential Growth For Net Simplicity — Targeted SEO]]></title>
+
+		<intro><![CDATA[Don't be so gloomy. After all it's not that awful. Like the fella says, in Italy for 30 years under the Borgias they had warfare, terror, murder, and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland they had brotherly love - they had 500 years of democracy and peace, and what did that produce? The cuckoo clock. So long Holly.]]></intro>
+
+		<imageticker>
+			<image path="images/about/second.jpg"><![CDATA[]]></image>
+			<image path="images/about/first.jpg"><![CDATA[]]></image>
+			<image path="images/about/third.jpg"><![CDATA[]]></image>
+		</imageticker>	
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Profile">
+		<url><![CDATA[leadership]]></url>
+
+		<title label="Founders/Partners"><![CDATA[Leadership Team]]></title>
+
+		<column>
+			<nodes>
+				<node type="paragraph"><![CDATA[Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?]]></node>
+				<node type="name and title" name="The Team"><![CDATA[- Don't Fuck With Us]]></node>
+				<node type="name and title" name="Bradon Wishnow"><![CDATA[- Lord Of The Known World]]></node>
+				<node type="name and title" name="Evan Magers"><![CDATA[- A Straight Up Warrior]]></node>
+				<node type="name and title" name="Scott Rayden"><![CDATA[- The Web Master]]></node>
+				<node type="paragraph"><![CDATA[Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?]]></node>
+				<node type="paragraph"><![CDATA[Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?]]></node>
+			</nodes>
+		</column>
+
+		<imageticker>
+			<image path="images/about/third.jpg" name="The Team"><![CDATA[]]></image>	
+			<image path="images/about/second.jpg" name="Bradon Wishnow"><![CDATA[]]></image>
+			<image path="images/about/first.jpg" name="Evan Magers"><![CDATA[]]></image>
+			<image path="images/about/fourth.jpg" name="Scott Rayden"><![CDATA[]]></image>
+		</imageticker>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Image Ticker">
+		<url><![CDATA[other]]></url>
+
+		<title service="SEO/Net Simplicity "><![CDATA[Exponential Growth For Net Simplicity — Targeted SEO]]></title>
+
+		<intro><![CDATA[Don't be so gloomy. After all it's not that awful. Like the fella says, in Italy for 30 years under the Borgias they had warfare, terror, murder, and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland they had brotherly love - they had 500 years of democracy and peace, and what did that produce? The cuckoo clock. So long Holly.]]></intro>
+
+		<imageticker>
+			<image path="images/about/second.jpg"><![CDATA[]]></image>
+			<image path="images/about/first.jpg"><![CDATA[]]></image>
+			<image path="images/about/third.jpg"><![CDATA[]]></image>
+		</imageticker>	
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Image Ticker">
+		<url><![CDATA[random]]></url>
+
+		<title service="SEO/Net Simplicity "><![CDATA[Exponential Growth For Net Simplicity — Targeted SEO]]></title>
+
+		<intro><![CDATA[Don't be so gloomy. After all it's not that awful. Like the fella says, in Italy for 30 years under the Borgias they had warfare, terror, murder, and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland they had brotherly love - they had 500 years of democracy and peace, and what did that produce? The cuckoo clock. So long Holly.]]></intro>
+
+		<imageticker>
+			<image path="images/about/second.jpg"><![CDATA[]]></image>
+			<image path="images/about/first.jpg"><![CDATA[]]></image>
+			<image path="images/about/third.jpg"><![CDATA[]]></image>
+		</imageticker>	
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+</about>
