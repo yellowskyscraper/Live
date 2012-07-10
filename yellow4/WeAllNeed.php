@@ -23,8 +23,7 @@
 		
 		<?php include 'data/elements/header.php'; ?>
     </header>
-<!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
-
+    
     <section id="contentcontainer">
 
 		<section id="detail">
@@ -45,13 +44,18 @@
 				</div>     
 			</div>
 
+			<div class="linkbar"> 
+				<div class='arrow'></div>    
+				<a href="http://tenderneeds.appspot.com/#intro" target="blank"><h4>Launch Prototype</h4></a>
+			</div>
+			
 			<div class="article_columns">
 				<h3>Thoughts &amp; Needs</h3>
 				<p>What do you need? What do you think? These simple questions remind us that no matter how complex it gets, it's still about people, talking with people, and living with people. Because no matter how far we may find ourselves apart from one another, our similarities will always outweigh our differences. The aim of this project is to celebrate the shared human experiences of those that find themselves in the Tenderloin and those that don't. The neighborhood itself is unfortunately susceptible to one-sided reporting and dire data sets that only perpetuate these negative stereotypes. To balance this, We All Need is a data set that aims to remind us that there are people living in the Tenderloin, a simple fact that is easily overlooked. With this we hope a vivid portrait of the Tenderloin composed of the thoughts and needs of people interviewed on its streets will transcend neighborhood boundaries and inspire a meaningful conversation.</p>
 			</div>
 			
 			<img class="firstorder" src="data/projects/WeAllNeed/image1.jpg" alt="Image Description" />
-			<!-- <img src="data/projects/VaporRoom/image2.jpg" alt="Image Description" /> -->
+			<img src="data/projects/WeAllNeed/image2.jpg" alt="Image Description" />
 			
 			<div class="dividerdots"></div>
 		</section>
@@ -62,7 +66,9 @@
 
     </section>
 
-	<footer></footer>
+	<footer>
+		<?php include 'data/elements/footer.php'; ?>
+	</footer>
 <!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
     <script type="text/javascript">

@@ -94,10 +94,10 @@
       
 	//| XML SAX Parser Set Up  
 	$count = 0;
-	$year = 2010;
+//	$year = 2011;
 	$year = $_GET['year'];
 	$run = false;
-	$run = $_GET['run'];                         
+//	$run = $_GET['run'];                         
 	$placemark = FALSE;  
 	$name = FALSE;          
 	$hold_name = 'empty';

@@ -1,1 +1,0 @@
-Link to Archive: http://earthquake.usgs.gov/earthquakes/eqarchives/epic/kml/

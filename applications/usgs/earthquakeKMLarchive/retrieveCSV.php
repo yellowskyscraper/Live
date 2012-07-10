@@ -3,8 +3,8 @@
 	$row = 1;
 
 	echo '<?xml version="1.0" encoding="UTF-8"?>';
-	echo '<quakes>'; 
-	if (($handle = fopen("csvs/earthquake_archive_ascending.csv", "r")) !== FALSE) 
+	//echo '<quakes>'; 
+	if (($handle = fopen("csvs/Earthquake Archive Asc 1973-2012 June 13.csv", "r")) !== FALSE) 
 	{
 	    while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) 
 	    {
@@ -12,14 +12,14 @@
 	        
 	        if(distance(37.807614, -122.209167, $data[2], $data[3], true) <= 50)
 	        {
-	        	echo '<item><name>'.$data[0].'</name><description>'.$data[1].'</description><lat>'.$data[2].'</lat><lon>'.$data[3] .'</lon></item>'; 
-	        	//echo "Row <b>$row</b> " . $data[0] . " " . $data[1] . " (" . $data[2] . ", " . $data[2] . ") <br>\n";	
+	        	//echo '<item><name>'.$data[0].'</name><description>'.$data[1].'</description><lat>'.$data[2].'</lat><lon>'.$data[3] .'</lon></item>'; 
+	        	echo "Row <b>$row</b> " . $data[0] . " " . $data[1] . " (" . $data[2] . ", " . $data[2] . ") <br>\n";	
 	        	$row++;
 	        } 
 	    }
 	    fclose($handle);
 	}
-	echo '</quakes>';
+	//echo '</quakes>';
 
 	//| Distance Check
 	function distance($lat1, $lng1, $lat2, $lng2, $miles = true)

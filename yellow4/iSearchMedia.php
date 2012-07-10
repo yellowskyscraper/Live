@@ -24,7 +24,6 @@
 
 		<?php include 'data/elements/header.php'; ?>
     </header>   
-<!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
     <section id="contentcontainer">
 
@@ -48,7 +47,7 @@
 			
 			<div class="linkbar"> 
 				<div class='arrow'></div>    
-				<a href="http://isearchmedia.com/" target="blank"><h4>Launch iSearch Media</h4></a>
+				<a href="ISM/index.html" target="blank"><h4>Launch Depreciated ISM Site</h4></a>
 			</div>
 		  
 			<img class="firstorder" src="data/projects/iSearchMedia/image1.jpg" alt="Image Description" />
@@ -66,10 +65,9 @@
     	</section>
 
     </section>
-<!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->    	
 
 	<footer>
-
+		<?php include 'data/elements/footer.php'; ?>
 	</footer>
 <!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 

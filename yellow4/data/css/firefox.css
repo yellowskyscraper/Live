@@ -13,6 +13,10 @@
 	
 	h3 { 	
 		font-family: Georgia1, Georgia, serif;
+	}    
+
+	body { 
+		display:block;
 	}
 	
 	#headercontainer h1 { 
@@ -20,14 +24,15 @@
 	} 
 	
 	#contentcontainer { 
-		width: 966px;  
+		width: 966px; 
 	} 
 	
 	#maindetail .large_copy h2 { 
-		letter-spacing:1px;
+		letter-spacing:0.5px;
 	}  
 	
 	#maindetail .large_copy p span.italics{ 
+		font-family: GeorgiaItalic, Georgia1, Georgia, serif;
 		color: #8f8f8f;
 	}
 	
@@ -38,21 +43,21 @@
 	#detail div.titlebar h2 {    
 		margin-top: 17px;
 		font-size: 20px;
-		letter-spacing:1px;
+		letter-spacing:0.5px;
 	} 
 	
 	#detail div.titlebar_photo h2 {  
-		letter-spacing:1px;
+		letter-spacing:0.5px;
 	}
 	
 	#detail div.linkbar h3 { 
 		font-family: Georgia1, Georgia, serif;
 		font-size: 10px;   
-		letter-spacing:1px;  
+		letter-spacing:0.5px;  
 	}  
 	
 	#detail div.linkbar h4 {
-		letter-spacing:1px;
+		letter-spacing:0.5px;
 		font-size: 15px;
 		padding-top: 12px;
 		padding-left: 25px;
@@ -64,7 +69,7 @@
 	}
 	
 	#detail div.linkbar_photo h4 {
-		letter-spacing:1px;
+		letter-spacing:0.5px;
 		font-size: 15px;
 		padding-top: 12px;
 		padding-left: 25px;
@@ -76,12 +81,12 @@
 	}
 	
 	#detail div.titlebar h2 span.italics { 
-		font-family: Georgia1, Georgia, serif;
+		font-family: GeorgiaItalic, Georgia1, Georgia, serif;
 	}
 	
 	
 	#detail h3 {           
-		letter-spacing:1px;
+		letter-spacing:0.5px;
 	}
 	
 	#map {              
@@ -90,12 +95,12 @@
 	
 	#map h1{    
 		font-family: GeorgiaItalic, Georgia1, Georgia, serif;         
-		letter-spacing:1px;
+		letter-spacing:0.5px;
 	}  
 	
 	#map h2{     
 		font-family: Georgia1, Georgia, serif;          
-		letter-spacing:1px;
+		letter-spacing:0.5px;
 	}
 	
 	#portfolio{ 
@@ -103,7 +108,7 @@
 	}
 	
 	#portfolio div.thumbnail h3 span.italics { 
-		font-family: Georgia1, Georgia, serif; 
+		font-family: GeorgiaItalic, Georgia1, Georgia, serif;
 	}
 	
 	#portfolio div.thumbnail p { 
@@ -111,7 +116,7 @@
 	} 
 	
 	#portfolio div.thumbnail h3 { 
-		letter-spacing:1px;
+		letter-spacing:0.5px;
 	}
 	
 	#portfolio div.thumbnail div.long { 
@@ -121,5 +126,19 @@
 	
 	#portfolio div.thumbnail div.long p{ 
 		height: 105px;
+	}
+	
+	footer {                               
+		background-color: #FFF; 
+		width: 100%; 	
+		margin: 0px;
+		padding: 0px;
+		display:inline-table;
+	}
+	
+	footer div.dividerdots{ 
+		border-top: 1px solid #969696;
+		width: 900px; 
+		height: 2px;
 	}
 /*//////////////////////////////////////////////////////////////////////////////////*/

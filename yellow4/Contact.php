@@ -10,7 +10,7 @@
 	
 	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>   
 	<script type="text/javascript">   
-   
+   		
 		var overlay;
 		InfoOverlay.prototype = new google.maps.OverlayView();
 	
@@ -28,15 +28,14 @@
 				mapTypeId: google.maps.MapTypeId.ROADMAP
 			};
 
-			var map = new google.maps.Map(document.getElementById("map"), mapOptions);  
+			var map = new google.maps.Map(document.getElementById("mapplet"), mapOptions);  
 			
 		    var swBound = new google.maps.LatLng(37.79969, -122.41392);
 		    var neBound = new google.maps.LatLng(37.78469, -122.41392);
 		    var bounds = new google.maps.LatLngBounds(swBound, neBound);  
-		       
+		      
 		    var srcImage = 'data/images/InfoWindow.png';                    
-		
-		    overlay = new InfoOverlay(bounds, srcImage, map);                    
+		    overlay = new InfoOverlay(bounds, srcImage, map); 
 		}                                                       
                    
 		function InfoOverlay(bounds, image, map) {    
@@ -46,7 +45,7 @@
 			this.div_ = null;  
 			this.setMap(map);
 		}
-
+		
 		InfoOverlay.prototype.onAdd = function() {  
 			var div = document.createElement('DIV');
 			div.style.borderStyle = "none";
@@ -59,14 +58,14 @@
 			img.style.width = "370px";
 			img.style.height = "119px"; 
 			                              
-		  var content = document.createElement("content");  
+			var content = document.createElement("content");  
 			content.style.position = "absolute";   
 			content.style.margin = "10px"; 
 			content.style.width = "370px";
 			content.style.height = "119px";
-		  content.innerHTML = '<h1>Yellowskyscraper HQ</h1>'+ 
+		  	content.innerHTML = '<h1>Yellowskyscraper HQ</h1>'+ 
 								'<h2>CEO James S. Hovell</h2>'+
-						    '<p>office@yellowskyscraper.com</p>';
+						    	'<p>office@yellowskyscraper.com</p>';
 						                       
 			div.appendChild(img);
 			div.appendChild(content);                       
@@ -91,6 +90,7 @@
 			this.div_.parentNode.removeChild(this.div_);
 			this.div_ = null;   
 		}  
+
 	</script>
 </head>
 
@@ -108,8 +108,7 @@
         
 		<?php include 'data/elements/header-contact.php'; ?>
     </header>
-<!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
-
+    
     <section id="contentcontainer">
 
 		<section id="maindetail">  
@@ -122,7 +121,7 @@
 			
 			<div class="mapcontainer">
 				<div id="mapoverlay"></div>
-				<div id="map"></div>
+				<div id="mapplet"></div>
 			</div>                           
 			
 			<div class="dividerdots"></div>
@@ -131,8 +130,11 @@
     	<section id="portfolio" class="detailprojects">
 			<?php include 'data/elements/thumbnails.php'; ?>
     	</section>
-
     </section>
+    
+	<footer>
+		<?php include 'data/elements/footer.php'; ?>
+	</footer>
 <!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
     <script type="text/javascript">

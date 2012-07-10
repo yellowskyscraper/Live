@@ -23,14 +23,13 @@
 
 		<?php include 'data/elements/header.php'; ?>
     </header>
-<!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
     <section id="contentcontainer">
 
 		<section id="detail">
 		
 			<div class="titlebar">
-				<h2>Simple Needs</h2>
+				<h2>Simply Forsaken</h2>
 				<p>A greater study on isolation.</p>
 			</div>
 
@@ -59,7 +58,6 @@
 			
 			<img class="firstorder" src="data/projects/SimpleNeeds/image1.jpg" alt="Image Description" />
 			
-			<!-- <div class="dividerbar"></div>  --> 
 			<div class="dividerdots"></div>
 		</section>
 
@@ -69,7 +67,9 @@
 
     </section>
 
-	<footer></footer>
+	<footer>
+		<?php include 'data/elements/footer.php'; ?>
+	</footer>
 <!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
     <script type="text/javascript">

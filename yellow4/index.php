@@ -6,8 +6,7 @@
     <title>Yellowskyscraper - Currently Rebuilding Stuff</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-    <?php include 'data/elements/headerlinks.php'; ?>
-    
+    <?php include 'data/elements/headerlinks.php'; ?>   
 </head>
 
 <body>
@@ -24,7 +23,6 @@
 		
 		<?php include 'data/elements/header-construction.php'; ?> 
     </header>
-<!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
     <section id="contentcontainer">
 		<section id="maindetail">
@@ -45,10 +43,9 @@
 			<?php include 'data/elements/thumbnails.php'; ?>
     	</section>
     </section>
-<!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
 	<footer>
-
+		<?php include 'data/elements/footer.php'; ?>
 	</footer>
 <!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
