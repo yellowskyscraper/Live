@@ -1,14 +1,4 @@
 /*//////////////////////////////////////////////////////////////////////////////////*/
-/* HTML5 tags */
-	* { 
-		margin: 0; 
-		padding: 0; 
-		outline: 0; 
-	}
-    
-	header, section, footer, aside, nav, article, figure {
-		display: block;
-	}   
 
 	@font-face { 
 		font-family: Georgia; 
@@ -31,7 +21,7 @@
 	}      
 
 	body { 
-		/*background: url(../data/images/pattern.gif);*/ 
+		/*background: url(../data/images/pattern.gif); */
 	}
 
 	::selection { 
@@ -99,17 +89,16 @@
 
 	header { 
 		width: 937px;
-		height: 95px;
+		height: 80px;
 		background-color: #FFF; 
 		margin: 0 auto;
-		position: relative; 
+		position: fixed;
 		z-index: 10;
 	}                                                                                
    
 	#headercontainer { 
 		width: 930px;
 		margin: 0 auto; 
-		position: fixed;
 		border-bottom: 2px solid #000000;
 		left: 50%; 
 		margin: 0px 0px 0px -462px;
@@ -117,7 +106,7 @@
 	
 	#headercontainer div.topbar { 
 		width: 929px; 
-		height: 15px;
+		height: 0px;
 		background-color: #000;
 		margin: 0 auto;
 	}	
@@ -171,7 +160,8 @@
 		padding-bottom: 16px; 
 		padding-left:21px;
 		float: left;
-	}                                                                                 	
+		position: relative;
+	}                                                                               	
 /*//////////////////////////////////////////////////////////////////////////////////*/
 /*//////////////////////////////////////////////////////////////////////////////////*/
 /*//////////////////////////////////////////////////////////////////////////////////*/
@@ -179,7 +169,6 @@
 	#contentcontainer { 
 		width: 966px; 
 		margin: 0 auto;
-		position: relative; 
 		float: none; 
 		padding: 0px;
 	}     	
@@ -188,13 +177,13 @@
 /*//////////////////////////////////////////////////////////////////////////////////*/   
 
 	#maindetail{ 
-		margin-top: 110px;  
+		margin-top: 90px;  
 	}
 /*//////////////////////////////////////////////////////////////////////////////////*/  
 
 	#maindetail div.dividerdots{ 
 		background-color: #FFF;
-		border-top: 1px dotted #000000;
+		border-top: 1px solid #969696;
 		width: 929px; 
 		height: 1px;
 		margin-top: 17px;
@@ -246,7 +235,7 @@
 		height: 400px;       
 	}   
 
-	#map { 
+	#mapplet { 
 		border: 1px solid #000000;           
 		width: 926px;
 		height: 400px;  
@@ -255,15 +244,15 @@
 		z-index: 0;
 	}   
 
-	#map h1{ 
-   	font-family: GeorgiaBoldItalic;  
+	#mapplet h1{ 
+   		font-family: GeorgiaBoldItalic;  
 		font-size: 14px;    
 		width:auto;     
 		height:auto;  
 	    margin-left: 2px;
 	}  
 
-	#map h2{ 
+	#mapplet h2{ 
 		font-family: GeorgiaBold;   
 		font-size: 10px;  	    
 		width:auto;     
@@ -272,7 +261,7 @@
 	    margin-left: 3px; 
 	}
 
-	#map p{ 
+	#mapplet p{ 
 		font-size: 10px;       
 		width:auto;     
 		height:auto;  
@@ -295,7 +284,7 @@
 /*//////////////////////////////////////////////////////////////////////////////////*/
     
 	#detail{                     
-		margin-top: 97px;  
+		margin-top: 82px;  
 	}
 /*//////////////////////////////////////////////////////////////////////////////////*/
 	
@@ -385,16 +374,16 @@
 
 	#detail div.detailsbar{ 
 		width: 930px;
-		height: 33px;       
+		height: 34px;       
 		background-color: #fff;
-		border-top: 1px dotted #000000;
-		border-bottom: 1px dotted #000000;
-		margin-top: 1px;
+		border-top: 1px solid #969696;
+		border-bottom: 1px solid #969696;
+		margin-top: 0px;
 		margin-left: 0px; 
 	}   
 	
 	#detail div.detailsbar p { 
-		width: 780px;         
+		width: 772px;         
 		font-size: 10px;
 		color: #969696;  
 		padding-top: 10px;
@@ -407,17 +396,17 @@
 		font-size: 12px; 
 		margin-left: 2px;
 		margin-right: 2px;
-		color: #000000;   
+		color: #969696;   
 	}                          
 	
 	#detail .social img{ 
-        margin-top:6px;     
+        margin-top:7px;     
 		border:0px;
 	}
 /*//////////////////////////////////////////////////////////////////////////////////*/       
 
 	#detail div.linkbar{ 
-		border-bottom: 1px dotted #000000;
+		border-bottom: 1px solid #969696;
 	   	width: 930px; 
 		height: 41px;
 		margin-left: 0px;
@@ -459,7 +448,7 @@
 /*//////////////////////////////////////////////////////////////////////////////////*/       
 
 	#detail div.linkbar_photo{ 
-		border-bottom: 1px dotted #000000;
+		border-bottom: 1px solid #969696;
 	   	width: 930px; 
 		height: 41px;
 		margin-left: 0px;
@@ -502,7 +491,7 @@
 	
 	#detail div.dividerdots{ 
 		background-color: #FFF;
-		border-top: 1px dotted #000000;
+		border-top: 1px solid #969696;
 		width: 930px; 
 		height: 1px;
 		margin-top: 14px;
@@ -517,11 +506,11 @@
 	#detail h3 { 
 		width: 453px;
 		margin-top: 0px;
-		padding-left: 25px;
+		padding-left: 5px;
 	}
 	
 	#detail p { 
-		width: 440px;
+		width: 416px;
 		font-family: Georgia; 
 		font-size: 14px;
 		color: #4b4b4b;
@@ -544,6 +533,7 @@
 	#detail .article_columns { 
 		text-align: justify;
 		margin-top: 26px;
+		margin-left: 19px;
 		margin-bottom: 10px;
 		background-color: #fff;
 		
@@ -571,7 +561,8 @@
 
 	#portfolio{ 
 		background-color: #fff;  
-		padding-left:22px;          
+		padding-left:22px;  
+		padding-bottom: 4px;         
 	}
 
 	#portfolio div.thumbnail { 
@@ -596,8 +587,6 @@
 		margin-top: 15px;
 		margin-left: 15px;
 	}
-	
-	
 	
 	#portfolio div.thumbnail h3 span.italics { 
 		font-family: GeorgiaBoldItalic;
@@ -691,5 +680,35 @@
 	
 	#portfolio div.thumbnail:hover div.long { 
 		display:block;
-	}    
+	}  
 /*//////////////////////////////////////////////////////////////////////////////////*/
+	footer { 
+		width: 966px;
+		height: 65px;
+		background-color: #FFF; 
+		margin: 0 auto;
+		display: table;
+		padding:0px 0px 0px 21px;
+	} 
+	
+	footer p{       
+		text-align:center;
+		font-size: 12px;
+		/*color: #969696; /* Small Text Light Color */ 
+		color: #4b4b4b; /* Body Copy Color */
+		margin:0px 0px 0px 0px;
+	} 
+	
+	footer a{       
+		text-decoration: none;
+	}
+	
+	footer div.dividerdots{ 
+		background-color: #FFF;
+		border-top: 1px solid #969696;
+		width: 930px; 
+		height: 1px;
+		margin-bottom: 25px;
+		margin-left: 0px;
+		z-index: 3;
+	}

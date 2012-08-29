@@ -27,7 +27,7 @@
 	foreach($quakes as &$a)
 	{                                                                                                                           
 		$arr = explode(",", $a); 
-		$day = explode(" ", $arr[1]);                                                                                             
+		$day = explode(" ", $arr[1]);                                                                                            
 		if($day[1] != $holderday) {
 		    $holderday = $day[1];                
 			$count_days += 1;  

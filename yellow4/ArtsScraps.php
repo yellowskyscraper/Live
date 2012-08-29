@@ -23,7 +23,6 @@
 
 		<?php include 'data/elements/header.php'; ?>
     </header>
-<!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
     <section id="contentcontainer">
 
@@ -65,10 +64,11 @@
     	<section id="portfolio" class="detailprojects">
 			<?php include 'data/elements/thumbnails.php'; ?>
     	</section>
-
     </section>
 
-	<footer></footer>
+	<footer>
+		<?php include 'data/elements/footer.php'; ?>
+	</footer>
 <!--|///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////|-->
 
     <script type="text/javascript">

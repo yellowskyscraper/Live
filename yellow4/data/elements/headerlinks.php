@@ -117,6 +117,7 @@
 	
 	BrowserDetect.init();
 	//alert("Would you look at that, you're using " + BrowserDetect.browser +" "+ BrowserDetect.version +" on a "+ BrowserDetect.OS);
+	document.writeln('<link rel="stylesheet" type="text/css" href="data/css/reset.css">');
 	document.writeln('<link rel="stylesheet" type="text/css" href="data/css/style.css">');
 	
 		 if(BrowserDetect.browser == "Firefox" && BrowserDetect.OS == "Mac") document.writeln('<link rel="stylesheet" type="text/css" href="data/css/firefox.css">');
@@ -124,11 +125,9 @@
 	else if(BrowserDetect.browser == "Firefox" && BrowserDetect.OS == "Windows") document.writeln('<link rel="stylesheet" type="text/css" href="data/css/firefoxWindows.css">');
 	else if(BrowserDetect.browser == "Chrome" && BrowserDetect.OS == "Windows") document.writeln('<link rel="stylesheet" type="text/css" href="data/css/chromeWindows.css">');
 	else if(BrowserDetect.browser == "Explorer") window.location = "http://www.yellowskyscraper.com/yellow4/NoDice.php";
-	<!--
-	
-	//-->
 </script>
-
+<!-- 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js" type="text/javascript"></script>
 <script src="data/js/jquery.anchor.js" type="text/javascript"></script>
-<script src="data/js/jquery.fancybox-1.2.6.pack.js" type="text/javascript"></script>
+<script src="data/js/jquery.fancybox-1.2.6.pack.js" type="text/javascript"></script> 
+-->

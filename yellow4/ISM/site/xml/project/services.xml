@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<services>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!-- Template
+	<service title="Integrated Search Marketing">
+		<servicedata>
+			<node><![CDATA[ ]]></node>
+			<node><![CDATA[ ]]></node>
+			<node><![CDATA[ ]]></node>
+			<node><![CDATA[ ]]></node>
+			<node><![CDATA[ ]]></node>
+			<node><![CDATA[ ]]></node>
+			<node><![CDATA[ ]]></node>
+			<node><![CDATA[ ]]></node>
+			<node><![CDATA[ ]]></node>
+			<node><![CDATA[ ]]></node>
+			<node><![CDATA[ ]]></node>
+		</servicedata>
+		
+		<panel>
+			<title service=" "><![CDATA[ ]]></title>
+
+			<casestudy url=" "><![CDATA[]]></casestudy>
+
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[ ]]></node>
+					<node type="paragraph"><![CDATA[ ]]></node>
+					<node type="bullet"><![CDATA[ ]]></node>
+				</nodes>
+				<nodes>
+					<node type="title"><![CDATA[ ]]></node>
+					<node type="paragraph"><![CDATA[ ]]></node>
+					<node type="bullet"><![CDATA[ ]]></node>
+				</nodes>
+				<nodes>
+					<node type="title"><![CDATA[ ]]></node>
+					<node type="paragraph"><![CDATA[ ]]></node>
+					<node type="bullet"><![CDATA[ ]]></node>
+				</nodes>
+			</column>
+		</panel>
+	</service>
+-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<overview>
+		<analytics><![CDATA[Analytics is the heartbeat of everything we do.  Tha-thump, tha-thump.  We collect heaps of data about the ways people find and engage with our clients’ websites, then we slice and dice that data to make the numbers paint an actionable picture across every search channel we manage. When it comes to pivot tables, call us Picasso.]]></analytics>
+		<introduction title="Integrated Search Services"><![CDATA[In search, everything works better when it works together. Click on an orb to see what we mean.]]></introduction>
+	</overview>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<service title="SEO">
+		<servicedata>
+			<node><![CDATA[Link development]]></node>
+			
+			<node><![CDATA[Social media]]></node>
+			
+			<node><![CDATA[Image optimization]]></node>
+			<node><![CDATA[Video optimization]]></node>
+			<node><![CDATA[Technical architecture]]></node>
+			<node><![CDATA[Press releases/newsfeeds]]></node>
+			<node><![CDATA[Relevant keyword targeting]]></node>
+			<node><![CDATA[Content creation]]></node>
+			<node><![CDATA[Local search]]></node>
+			<node><![CDATA[Meta data]]></node>
+		</servicedata>	
+		<panel>
+			<title service="Service Provided" abv="Search Engine Optimization"><![CDATA[Search Engine Optimization Services]]></title>
+			
+			<casestudy url="netsimplicity"><![CDATA[NetSimplicity]]></casestudy>
+			
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[Process]]></node>
+					<node type="paragraph"><![CDATA[Here’s our SEO thesis statement: search engine rankings don’t matter unless they result in more sales. <br>We think of SEO as a bottom-line exercise.  Keyword rankings, Page Rank, and inbound links don’t mean squat if they don’t bring in real business.  That’s where our SEO focus lies: on building you an organic web presence that drives a ton of measurably valuable traffic to your site. <br> <br>Our SEO process is a combination of technical consulting, copy optimization, inbound link development, and outside-the-box search engine wizardry.  Our team’s experience is deep and diverse, and puts in your bullpen an all-star roster of search engine and online business experts.]]></node>
+				</nodes>
+
+				<nodes>
+					<node type="title"><![CDATA[Results]]></node>
+					<node type="paragraph"><![CDATA[Better rankings on targeted search terms across the major search engines.  A wider web of diverse and authoritative inbound links.  Site content that means something—both to the search engines and the visitors you’re trying to attract.  Bigger, better buzz across the social web. <br><br>All as a means to an end.  The end being more and better business coming your way from the search engines.]]></node>
+				</nodes>
+			</column>
+		</panel>
+	</service>	
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->	
+	<service title="ORM">
+		<servicedata>
+			<node><![CDATA[Brand voice]]></node>
+			<node><![CDATA[Brand awareness]]></node>
+			<node><![CDATA[Consumer interaction]]></node>
+			<node><![CDATA[Customer service]]></node>
+			<node><![CDATA[Blog & social buzz]]></node>
+			<node><![CDATA[Bad-press targeting]]></node>
+			<node><![CDATA[Community reputation]]></node>
+			<node><![CDATA[Online forum participation]]></node>
+		</servicedata>
+		<panel>
+			<title service="Service Provided" abv="Online Reputation Management"><![CDATA[Online Reputation Management]]></title>
+			
+			<casestudy url="netsimplicity"><![CDATA[NetSimplicity]]></casestudy>
+			
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[Process]]></node>
+					<node type="paragraph"><![CDATA[There's a saying that goes, “In the age of the internet, nothing ever dies.”  Well, while that may be true, it doesn't mean you can't send something to Siberia, never to be heard from again.  That's what online reputation management is all about: if there's content online—a negative blog post, a competitor's petty attempt to slander you, an unfortunate photo from a certain spring break trip in your sundry past—you want to make disappear, ORM is the service you need. <br> <br>ORM is a close relative of SEO, and many of the methods we use are the same.  The difference is that it's more focused; whereas our SEO projects involve several different tactics designed to boost your business through the organic end of the search engines, our ORM jobs are all about moving one or two pieces of bad press way, way, way down the rankings.  In a nutshell, we do it by supplanting those negative listings with lots and lots of positive ones.  We'll create fresh content targeting the problematic search terms, build social profiles, hit up Twitter; and if we have to, we'll even get in touch with the offending party and help them see things a little more clearly.]]></node>
+				</nodes>
+
+				<nodes>
+					<node type="title"><![CDATA[Results]]></node>
+					<node type="paragraph"><![CDATA[Down with the bad stuff, up with the good.  Pages of positive organic search engine rankings that send the negative ones into online purgatory.  Greater trust in your brand in the mind of your target customer, leading to, you guessed it, more business coming your way online.]]></node>
+				</nodes>
+			</column>
+		</panel>
+	</service>
+	
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->	
+	<service title="LPO">
+		<servicedata>
+			<node><![CDATA[Conversion funnels]]></node>
+			<node><![CDATA[Images]]></node>
+			<node><![CDATA[Messaging]]></node>
+			<node><![CDATA[A/B & multivariate testing]]></node>
+			
+			<node><![CDATA[Features/benefits/values]]></node>
+			
+			
+			<node><![CDATA[Calls to action]]></node>
+			<node><![CDATA[Hypothesize->act->measure->repeat]]></node>
+			<node><![CDATA[Trust factors]]></node>
+			
+			<node><![CDATA[Color scheme]]></node>
+		</servicedata>
+		<panel>
+			<title service="Service Provided" abv="Landing Page Optimization"><![CDATA[Landing Page Optimization]]></title>
+			
+			<casestudy url="globalenglish"><![CDATA[GlobalEnglish]]></casestudy>
+
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[Process]]></node>
+					<node type="paragraph"><![CDATA[Landing page optimization is about taking your current website and making it do better work for you.  Making it turn more visitors into buyers (or leads, or subscribers, or viewers of a key page, or whatever your goal for them may be).  It’s like teaching your website to turn Jedi mind tricks.  Well, not really—but the psychological effect can be pretty much the same.  <br> <br>Word choice, color scheme, image and graphic design and placement, page architecture and layout: these things matter—in a big way—and finding the right mix is often what determines whether your website will make money or suck your budget dry. While our methods are firmly rooted in best-practice standard theories of site usability, we know firsthand that not all websites follow all the same rules. That's why we approach every site we optimize with fresh eyes and a determination to cover all the bases—by testing every ingredient until the recipe is perfected.]]></node>
+				</nodes>
+
+				<nodes>
+					<node type="title"><![CDATA[Results]]></node>
+					<node type="paragraph"><![CDATA[LPO is an art and a science, and it’s something we strongly recommend for nearly every client we work with.  Some of the most dramatic improvements we’ve ever seen have come as a direct result of reconsidering a client’s landing page strategy; if executed well, LPO has the very real potential to improve conversion volume by 50% or more—even if your traffic volume stays exactly the same.]]></node>
+				</nodes>
+			</column>
+		</panel>
+	</service>
+	
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->	
+	<service title="PPC">
+		<servicedata>
+			<node><![CDATA[Data=god]]></node>
+			<node><![CDATA[Account organization]]></node>
+			
+			<node><![CDATA[Methodical testing]]></node>
+			
+			
+			<node><![CDATA[Wordplay+psychology+creativity]]></node>
+			<node><![CDATA[Process & patience]]></node>
+			<node><![CDATA[Technical knowledge]]></node>
+			<node><![CDATA[Inside connections]]></node>
+			<node><![CDATA[Smart bid management]]></node>
+			<node><![CDATA[Quality Score]]></node>
+			<node><![CDATA[The human element]]></node>
+			
+			
+		</servicedata>
+		<panel>
+			<title service="Service Provided" abv="Pay-Per-Click Management"><![CDATA[Pay Per Click Advertising Management]]></title>
+			
+			<casestudy url="insound"><![CDATA[Insound]]></casestudy>
+
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[Process]]></node>
+					<node type="paragraph"><![CDATA[The approach we take to paid search is our very own—a unique recipe of math, creativity, logic, and technology, mixed together by true experts exhaustively trained on our proprietary PPC optimization process.  It’s a method  that starts with the rules plucked straight from Google’s own in-house PPC playbook, then continues down a path of scientifically methodical data analysis, testing, and continuous ROI improvement.]]></node>
+				</nodes>
+
+				<nodes>
+					<node type="title"><![CDATA[Results]]></node>
+					<node type="paragraph"><![CDATA[If you have a website worth promoting, chances are high that PPC advertising is a very worthwhile investment.  A smart PPC campaign can bring huge volumes of highly targeted visitors—people actively searching for what you provide—to your site in a matter of minutes.  Our real-time reporting and analytics capabilities give crystal-clear insight into what your PPC dollars are buying you, and how to keep improving the return on that investment. <br> <br>Well-executed PPC advertising has the real potential to flip a business’s sluggish bottom line on its head.  We’ve seen PPC campaigns we’ve built and managed literally save companies from bankruptcy.  Yep, if done right, this ad platform can be that powerful. <br>]]></node>
+				</nodes>
+			</column>
+		</panel>
+	</service> 
+
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->	      
+
+	<service title="SMM">
+		<servicedata>
+			<node><![CDATA[xxx]]></node>        
+			<node><![CDATA[xxx]]></node>         
+			<node><![CDATA[xxx]]></node>        
+			<node><![CDATA[xxx]]></node>        
+			<node><![CDATA[xxx]]></node>        
+			<node><![CDATA[xxx]]></node>        
+			<node><![CDATA[xxx]]></node>        
+			<node><![CDATA[xxx]]></node>        
+			<node><![CDATA[xxx]]></node>        
+			<node><![CDATA[xxx]]></node>  
+		</servicedata>
+		<panel>
+			<title service="Social" abv="Social Media Marketing"><![CDATA[Social Media Marketing]]></title>
+
+			<casestudy url="netsimplicity"><![CDATA[NetSimplicity]]></casestudy>
+
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[Process]]></node>
+					<node type="paragraph"><![CDATA[Social media to us is about three things: driving business, making your company more human and approachable, and laying important groundwork for online success in the future.]]></node> 
+					<node type="paragraph"><![CDATA[Gone are the days of “surfing” the web.  These days we’re living it.  We  don’t get online to read passively; rather than sitting back and simply observing, we’re fully engaged, reading, writing, interacting, sharing, participating.  And for companies trying to reach their customers online, that changes the game in a big way.  In the past, when it was a one-way street, you provided information and tried to get it in front of the right audience.  Today you have to understand how deeply the internet is woven into the fabric of your customers’ lives, and make the constant feedback loop that is social media  work in your favor.]]></node>
+					<node type="paragraph"><![CDATA[And oh yeah, search engines now get that too.  Which means that if you want to position your brand effectively in the search results, you have to get involved in the social conversation.]]></node>
+					<node type="paragraph"><![CDATA[We harness our understanding of user behavior, social networks, brand conversations, and the role they play in search engine results to develop social media strategies that help our clients better engage with their customers and, as a result, drive more business online.  Our approach isn’t to spend $100k to produce a video that we “hope” will go viral.  Instead, we follow calculated, organized  methods that are easily deployable, manageable, and ROI-focused.]]></node>
+					<node type="paragraph"><![CDATA[Every social media marketing solution is different, depending on the client’s brand and where it sits in the social conversation cloud.  Common elements o four method include blog creation and strategy development, outreach programs, brand and social sentiment analysis, social profile development, widget strategy and creation, influencer audits, and social advertising.  Everything we do is trackable, all of it is measured against the ultimate goal of driving revenue for your company.]]></node>
+				</nodes>
+
+				<nodes>
+					<node type="title"><![CDATA[Results]]></node>
+					<node type="paragraph"><![CDATA[Your brand finds its voice, and that voice gets heard.  Conversations start happening.  Recommendations get passed from one person to hundreds.  Positive, honest, user-generated information starts filling up the search results pages.  Your frequency, reach, and yield grow; your marketing efforts become a  grass roots movement; your website traffic skyrockets.]]></node> 
+					<node type="paragraph"><![CDATA[Smart social media marketing doesn’t just find you customers; it turns customers into true brand evangelizers.  What could be better.]]></node>
+				</nodes>
+			</column>
+		</panel>
+	</service>  
+	
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->	
+	<service title="Integrated Search Marketing">
+		<panel>
+			<title service="Service Provided"><![CDATA[End-to-End Integrated Search]]></title>
+
+			<casestudy url="californiaclosets"><![CDATA[California Closets]]></casestudy>
+
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[PROCESS]]></node>
+					<node type="paragraph"><![CDATA[Holistic, big-picture integrated search is ISM’s bread and butter, where we do our very best work.  It’s the service we provide clients who understand that all search traffic channels overlap, and that each channel performs most effectively when it’s one part of a full search strategy, rather than just a siloed source of traffic.]]></node>
+					<node type="paragraph"><![CDATA[The ISM integrated search process is  complex but finely calibrated.  The first step is a full search strategy audit, where we pick apart literally everything you’re currently doing online:]]></node>
+					<node type="bullet"><![CDATA[Where are you investing your money online?]]></node>
+					
+					<node type="bullet"><![CDATA[How is your website helping you or hurting you in the search engines?]]></node>
+	
+					<node type="bullet"><![CDATA[What are you doing to optimize your site organically?]]></node>
+					<node type="bullet"><![CDATA[What’s the state of your PPC programs and where are the opportunities for improvement?]]></node>
+					<node type="bullet"><![CDATA[How is your online  marketing team organized and who’s responsible for what?]]></node>
+					<node type="bullet"><![CDATA[What are the key landing pages on your site and how can they be made to convert better?]]></node>
+					<node type="bullet"><![CDATA[What are the key landing pages on your site and how can they be made to convert better?]]></node>
+					<node type="bullet"><![CDATA[What are the key landing pages on your site and how can they be made to convert better?]]></node>
+					<node type="bullet"><![CDATA[What are you doing with social media and how well is it working?]]></node>
+
+					<node type="paragraph"><![CDATA[After scrutinizing every aspect of your search strategy, we  provide a detailed analysis of our findings and recommendations.  We talk you through everything we’ve discovered, and together form a plan for improvement.]]></node>
+					
+					<node type="paragraph"><![CDATA[What comes next depends entirely on your particular situation.  If a new website is necessary, we broker a deal with one of our several top-shelf web design partner firms, then we manage the development of the site to ensure that it will set you up  for ideal search engine inindexing and conversion effectiveness.  In  cases where a client’s current website is in good shape, we turn our attention to their SEO, PPC, landing page optimization, and social media efforts.]]></node>
+					
+					<node type="paragraph"><![CDATA[We take the whole project under our control, creating a cross-channel search strategy where one channel’s data informs the way we optimize the others, where nothing is siloed and everything works in harmony.]]></node>
+				   	<node type="paragraph"><![CDATA[Hiring ISM for integrated search  is a turnkey way to bring the very best search marketing team under your roof.  It’s ideal for companies who’ve decided it’s time to get serious about online.]]></node>
+				</nodes>
+				<nodes>
+					<node type="title"><![CDATA[RESULTS]]></node>
+					<node type="paragraph"><![CDATA[The results of an integrated search effort are a real case of one plus one equals three.  With all search channels and optimization methods working together, the effectiveness of each one individually increases exponentially.  When one team is responsible for your entire search operations, wasted effort and spend is minimized, all your data lives in one place, and you quickly see the quantifiable benefit of taking a big-picture approach to search.]]></node>
+				</nodes>
+			</column>
+		</panel>
+	</service>
+</services>
