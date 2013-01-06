@@ -1,0 +1,274 @@
+/* ============================== */
+/* ! Layout for desktop version   */
+/* ============================== */
+
+	body {
+
+		font-family: 'Tinos', serif;
+		font-size: 13px;
+		line-height: 18px;
+		color: #333;
+	}
+
+	a {
+		text-decoration:none;
+		color: #333;
+	}
+	
+	p {
+		margin: 0 0 0 0;
+		padding: 0 0 0 10px;
+	}
+
+	h1 {
+		font-size: 30px;
+		line-height: 34px;
+		margin: 0 0 0 0;
+		padding: 0 0 0 10px;
+	}
+
+	h2 {
+		font-size: 24px;
+		line-height: 28px;
+		margin: 0 0 0 0;
+		padding: 0 0 0 10px;
+	}
+
+	h3 {
+		font-size: 18px;
+		line-height: 22px;
+		margin: 0 0 0 0;
+		padding: 0 0 0 10px;
+	}
+
+	header h1 {
+		font-size: 20px;
+	}
+
+	header h1, nav {
+		margin: 0 20px 0 0;
+		float:left;
+	}
+
+	header li {
+		padding: 9px 10px 4px 10px;
+		margin: 0 1px 0 0;
+		display: block;
+		float:left;
+	}
+
+	header li:hover {
+		cursor:pointer;
+		border-bottom: 3px solid #ddd;
+	}
+
+	header li.current-section {
+		cursor:pointer;
+		border-bottom: 3px solid #ddd;
+	}
+
+	header li:hover a{
+		color: #000;
+	}
+
+	header .row {
+		margin: 0px auto;
+		padding: 5px 0 0 0;
+	}
+
+	header .row, header .twelvecol, footer .row, footer .twelvecol {
+		background: none;
+	}
+
+	.landing-header p {
+		font-size: 30px;
+		line-height: 34px;
+		color: #999;
+		margin-top: 20px;
+	}
+
+	.landing-credit p {
+		color: #999;
+	}
+
+	.hero-unit {
+		height: 200px;
+		padding: 15px 0 20px 0;
+		color: #fff;
+		text-shadow: 0 1px 0 #000;
+		background-position: center;
+		background-repeat: repeat;
+		overflow:hidden;
+	}
+
+	.hero-unit p{
+		background: none;
+		font-size: 20px;
+		line-height: 23px;
+		margin-left: 3px;
+	}
+
+	.hero-unit h1{
+		background: none;
+		font-size: 60px;
+		line-height: 65px;
+	}
+
+	.work-detail {
+		height: auto;
+		padding: 15px 0 0px 0;
+		color: #333;
+		background-color: #fff;
+	}
+
+	.work-detail p{
+		background: none;
+		font-size: 20px;
+		line-height: 23px;
+		margin-left: 3px;
+	}
+
+	.work-detail h1{
+		background: none;
+		font-size: 60px;
+		line-height: 65px;
+	}
+	
+	.information-bar {
+		background-color: #eee;
+	}
+	
+	.information-bar p {
+		float:left;
+		padding-top: 4px;
+	}
+
+	.divider-line {
+		margin-bottom: 5px;
+		border-top: 1px dotted #ccc;
+	}
+
+	.share-me {
+		float:right;
+		background-color: #ddd;
+		border-left: 1px solid #ccc;
+		width:96px;
+		height:26px;
+	}
+	.share-me img{
+		margin-left: 3px;
+		margin-top: 3px;
+	}
+
+	.link-to-microsite {
+		width:100%;
+		background-color: #ddd;
+		margin: 0 0 20px 0;
+		padding:12px;
+	}
+
+	.link-to-microsite h3 {
+		padding:0;
+	}
+
+	.link-to-microsite:hover {
+		cursor:pointer;
+		background-color: #eee;
+	}
+
+	.link-to-microsite:hover h3 {
+		padding-left: 3px;
+		color:#000;
+	}
+
+	.link-a {
+		display: none;
+	}
+
+	.link-b {
+		display:block;
+	}
+
+	.bodycopy p {
+		font-size: 16px;
+		line-height: 19px;	
+	}
+
+	footer .row {
+		font-size: 12px;
+		margin: 5px auto;
+		padding: 5px 0 7px 0;
+	}
+
+	.fixed {
+		top: 0;
+		padding: 0;
+		width: 100%;
+		margin: 0px auto;
+		overflow: hidden;
+        position:fixed;
+	}
+
+	.firstup {
+		margin-top: 100px;
+	}
+
+	.thumbnails .fourcol h3 {
+		margin: 4px 0 0 0;
+	}
+
+	.thumbnails .fourcol p {
+		margin: 0 0 0 0;
+		padding: 0 5px 8px 10px;
+	}
+
+	.thumbnails .fourcol img{
+		/*border: 1px solid #ddd;*/
+	}
+
+	.thumbnails .fourcol:hover{
+		cursor:pointer;
+		background-color: #eee;
+		color:#000;
+	}
+
+	.thumbnails .fourcol:hover img{
+		-moz-opacity:.80; 
+		filter:alpha(opacity=80); 
+		opacity:.80;
+	}
+
+/* ============================= */
+/* ! Layout for mobile version   */
+/* ============================= */
+
+@media handheld, only screen and (max-width: 767px) {
+
+	body {
+		
+	}
+
+
+
+	.link-a {
+		display:block;
+	}
+
+	.link-b {
+		display:none;
+	}
+
+}
+
+/* ========================================== */
+/* ! Provide higher res assets for iPhone 4   */
+/* ========================================== */
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) { 
+
+/*	.logo {
+		background: url(logo2x.jpg) no-repeat;
+		background-size: 212px 303px;
+	}*/
+
+}
