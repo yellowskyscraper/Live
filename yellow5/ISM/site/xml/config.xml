@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config root='site/'>
+		
+	<xml>	
+		<file><![CDATA[xml/project/general_assets.xml]]></file>	
+		<file><![CDATA[xml/project/landing.xml]]></file>	
+		<file><![CDATA[xml/project/services.xml]]></file>
+		<file><![CDATA[xml/project/clients.xml]]></file>
+		<file><![CDATA[xml/project/work.xml]]></file>				
+		<file><![CDATA[xml/project/about.xml]]></file>	
+		<file><![CDATA[xml/project/contact.xml]]></file>
+		<file><![CDATA[xml/project/news.xml]]></file>																				
+	</xml>
+</config>

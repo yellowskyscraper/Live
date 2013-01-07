@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<about root="">
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!-- Templates
+	<panel type="Inside ISM">
+		<url><![CDATA[]]></url>
+		
+		<title header=""><![CDATA[]]></title>
+
+		<intro><![CDATA[ ]]></intro>
+
+		<awardsimages>
+			<image path=""><![CDATA[]]></image>
+			<image path=""><![CDATA[]]></image>
+		</awardsimages>
+	</panel>
+	
+	<panel type="Image Ticker">
+		<url><![CDATA[]]></url>
+
+		<title><![CDATA[]]></title>
+
+		<imageticker>
+			<image path=" "><![CDATA[]]></image>
+			<image path=" "><![CDATA[]]></image>
+			<image path=" "><![CDATA[]]></image>
+		</imageticker>	
+	</panel>
+-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Landing Page Intro">
+		<url><![CDATA[introduction]]></url>
+
+		<title label="More Than Just Hamsters"><![CDATA[Hello, we're iSearch Media.]]></title>
+		
+		<intro><![CDATA[(But our friends call us ISM.)<br><br>Come see what we're all about, check out our intergalactic headquarters, and meet the team...]]></intro>
+
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Introduction">
+		<url><![CDATA[introduction]]></url>
+		
+		<title header="The ISM Team"><![CDATA[Hello, we're iSearch Media.]]></title>
+
+		<intro><![CDATA[(But our friends call us ISM.)
+
+We’re a San Francisco search agency made up of sharp, energetic internet experts with backgrounds covering every inch of the marketing, advertising, technology, consulting, and online business landscapes (and a whole lot more).   Walk into our office and you’ll meet writers, painters, boxers, bikers, surfers, coders, ravers, vegans, foodies, musicians, mutton-chopped Excel experts—a motley crew of humans who all happen to share a strong belief in the power of smart search marketing to change a business for the better.
+
+We think we’re the best search shop in the business.  We think you’ll think the same.
+]]></intro>
+
+		<awardsimages>
+			<image path="site/images/about/introduction/google.png"><![CDATA[]]></image>
+			<image path="site/images/about/introduction/adexcellence.png"><![CDATA[]]></image>
+			<image path="site/images/about/introduction/yahoo.png"><![CDATA[]]></image>
+			<image path="site/images/about/introduction/accreditedbusiness.png"><![CDATA[]]></image>
+		</awardsimages>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Image Ticker">
+		<url><![CDATA[studio]]></url>
+
+		<title label="San Francisco, CA"><![CDATA[Inside ISM]]></title>
+
+		<imageticker>  
+			<image path="site/images/about/studio/lobby.jpg"><![CDATA[]]></image>
+			<image path="site/images/about/studio/kels.jpg"><![CDATA[]]></image>
+			<image path="site/images/about/studio/evan-lecture.jpg"><![CDATA[]]></image>
+			<image path="site/images/about/studio/ads.jpg"><![CDATA[]]></image>
+			<image path="site/images/about/studio/bayview.jpg"><![CDATA[]]></image>
+			<image path="site/images/about/studio/kels-and-trevor.jpg"><![CDATA[]]></image>
+			<image path="site/images/about/studio/lounge.jpg"><![CDATA[]]></image>
+			<image path="site/images/about/studio/scott-phone.jpg"><![CDATA[]]></image>
+			<image path="site/images/about/studio/magazines.jpg"><![CDATA[]]></image>
+		</imageticker>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Leadership">
+		<url><![CDATA[leadership]]></url>
+
+		<title label="ISM Management"><![CDATA[Leadership Team]]></title>
+
+		<set title="The Team" handle="Don't Fuck With Us">
+			<url><![CDATA[Team]]></url>
+			
+			<header><![CDATA[The ISM Management Team]]></header>
+			
+			<image path="site/images/about/leadership/partners.jpg" 	name="The Team"><![CDATA[]]></image>
+			
+			<nodes>	
+				<node type="paragraph"><![CDATA[These are the three fellows who steer the ship that is ISM.  Recognizing the huge future of search, they brought their diverse and complementary expertise together to launch the agency in January 2007.]]></node>
+				<node type="name and title" name="Brandon Wishnow"><![CDATA[- Partner/Operations]]></node>
+				<node type="name and title" name="Evan Magers"><![CDATA[- Partner/Marketing]]></node>
+				<node type="name and title" name="Scott Rayden"><![CDATA[- Partner/Strategy]]></node>
+			</nodes>
+		</set>	
+		
+		<set title="Brandon Wishnow" handle="Partner/Operations">
+			<url><![CDATA[Wishnow]]></url>
+			
+			<header><![CDATA[Brandon Wishnow <br>Partner/Operations]]></header>
+			
+			<image path="site/images/about/leadership/brandon.jpg"><![CDATA[]]></image>
+			
+			<nodes>
+				<node type="paragraph"><![CDATA[Brandon Wishnow cut his teeth in internet marketing as a strategy consultant for Accenture, where he specialized in developing and applying transformative business strategy and customer-centric data analyses to the off-line and online marketing initiatives of Accenture's Fortune 500 clients. His core focus at ISM is on overseeing client services—running the day-to-day execution side of things to ensure that the proper strategy is developed, deployed, and managed effectively for each and every one of ISM’s clients.]]></node>
+				<node type="paragraph"><![CDATA[To compensate for his rather buttoned-up credentials and his deep, bizarre passion for things like theoretical financial models, integrated corporate structural solutions, and Excel V- and H-lookups, Wishnow unapologetically sports a pair of frankly mesmerizing mutton chops, which some speculate to be the Samson-like source of his powerful cognitive capacity.]]></node>
+			</nodes>
+		</set>
+
+		<set title="Evan Magers" handle="Partner/Marketing">
+			<url><![CDATA[Magers]]></url>
+			
+			<header><![CDATA[Evan Magers <br>Partner/Marketing]]></header>
+			
+			<image path="site/images/about/leadership/evan.jpg"><![CDATA[]]></image>
+			
+			<nodes>
+				<node type="paragraph"><![CDATA[Evan Magers first learned paid search strategy while working at Google, where he was the first AdWords optimization specialist ever hired straight to the position. His sole task at Google was to build and optimize the accounts of their blue-chip advertisers to get them the biggest possible bang for the millions of bucks they invested annually with AdWords.  He’s managed the paid search programs for a variety of international brands, including Jockey, Harry and David, and the Mandarain Oriental hotel group.]]></node>
+				<node type="paragraph"><![CDATA[Prior to joining Google, Evan worked as a writer and editor. He went to college on the Foundation Fellowship, the state of Georgia's most prestigious academic scholarship, then straight to grad school as one of the youngest students ever accepted to Boston University's fiction-writing Master's program.]]></node>
+			</nodes>
+		</set>
+		
+		<set title="Scott Rayden" handle="Partner/Strategy">
+			<url><![CDATA[Rayden]]></url>
+			
+			<header><![CDATA[Scott Rayden <br>Partner/Strategy]]></header>
+			
+			<image path="site/images/about/leadership/scott.jpg"><![CDATA[]]></image>
+			
+			<nodes>
+				<node type="paragraph"><![CDATA[Scott Rayden brings 10 years of experience in digital marketing, sales, and management to ISM. His focus at iSearch is on search engine optimization, landing page optimization, and digital marketing strategy. Prior to co-founding iSearch Media, Scott worked at Quinstreet and LeadClick Media, two of the largest digital lead generation agencies in the country, where he built, deployed, and managed paid and organic search marketing campaigns for some of the country's leading brands, including Blockbuster, SEARS, Audi, and ADT.]]></node>
+				<node type="paragraph"><![CDATA[Scott was also the co-founder and VP of marketing for iPlayMusic, a successful interactive musical instruction software company sold in Apple stores nationwide.]]></node>
+			</nodes>
+		</set>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Expanded">
+		<url><![CDATA[inside]]></url>
+
+		<title label="ISM Social"><![CDATA[SocialISM]]></title>
+
+		<column>
+			<nodes>
+			<node type="title"><![CDATA[Stalk us here. No really, it's okay, we want you to.]]></node>
+				<node type="paragraph"><![CDATA[Friend us on Facebook, tweet at us on Twitter, flick us on Flickr, or shoot us your resume on LinkedIn.<br><br>In other words, let's be friends.  <i>Best</i> friends.]]></node>
+				<node type="bullet"><![CDATA[<a href="http://www.Twitter.com/iSearchMedia" target="_blank"><u>Twitter</u></a>]]></node>
+				<node type="bullet"><![CDATA[<a href="http://www.facebook.com/pages/San-Francisco-CA/iSearch-Media/52598052021" target="_blank"><u>Facebook</u></a>]]></node>
+				<node type="bullet"><![CDATA[<a href="http://www.linkedin.com/companies/isearch-media" target="_blank"><u>LinkedIn</u></a>]]></node>
+				<node type="bullet"><![CDATA[<a href="http://www.flickr.com/photos/isearchmedia/" target="_blank"><u>Flickr</u></a>]]></node>
+			</nodes>
+		</column>
+
+
+		<imageticker>
+			<image path="site/images/about/insideism/social-logos.jpg"><![CDATA[]]></image>
+			<image path="site/images/about/studio/7.jpg"><![CDATA[]]></image>
+		</imageticker>
+	</panel>
+</about>

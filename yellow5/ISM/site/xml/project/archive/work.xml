@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<work root="">
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--
+	<panel type="Clients">
+		<url><![CDATA[clients]]></url>
+		
+		<title header="Our Clients"><![CDATA[ISM manages the Search marketing goals for a variety of diverse global brands]]></title>
+		
+		<clients>
+			<client type="Case Study" url="netSimplicity" 	logopath="site/images/work/project/logo.png"><![CDATA[Net Simplicity]]></client>
+			<client type="Case Study" url="insound" 		logopath="site/images/work/project/logo.png"><![CDATA[Insound]]></client>
+			<client type="Case Study" url="xcelEnergy" 		logopath="site/images/work/project/logo.png"><![CDATA[Xcel Energy]]></client>
+			<client type="Case Study" url="pOM" 			logopath="site/images/work/project/logo.png"><![CDATA[POM Wonderful]]></client>
+		</clients>
+	</panel>
+-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Case Study">
+		<url><![CDATA[netsimplicity]]></url>
+		
+		<company logopath="images/work/project/logo.png"><![CDATA[Net Simplicity]]></company>
+		
+		<title service="SEO/Net Simplicity"><![CDATA[Exponential Growth For <br>Net Simplicity – Targeted SEO]]></title>
+		
+		<intro><![CDATA[Don't be so gloomy. After all it's not that awful. Like the fella says, in Italy for 30 years under the Borgias they had warfare, terror, murder, and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland they had brotherly love - they had 500 years of democracy and peace, and what did that produce? The cuckoo clock. So long Holly.]]></intro>
+		
+		<services><![CDATA[SEO ORM]]></services>
+		
+		<supplemental type="quote"><![CDATA[“If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></supplemental>
+		
+		<columns>
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 0]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+				
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 1]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+			</column>
+			
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 0]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+				
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 1]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+			</column>
+		</columns>
+		
+		<imageticker>
+			<image path="images/work/project/thirdman_0.jpg" title="Caption Title Image 1"><![CDATA[Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?]]></image>
+			<image path="images/work/project/thirdman_1.jpg" title="Caption Title Image 2"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden.]]></image>
+		</imageticker>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Case Study">
+		<url><![CDATA[insound]]></url>
+		
+		<company logopath="images/work/project/logo.png"><![CDATA[Insound]]></company>
+		
+		<title service="SEO/Insound"><![CDATA[Exponential Growth For <br>Insound — Targeted SEO]]></title>
+		
+		<intro><![CDATA[Don't be so gloomy. After all it's not that awful. Like the fella says, in Italy for 30 years under the Borgias they had warfare, terror, murder, and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland they had brotherly love - they had 500 years of democracy and peace, and what did that produce? The cuckoo clock. So long Holly.]]></intro>
+		
+		<services><![CDATA[SEO ORM]]></services>
+		
+		<supplemental type="statistic" stat="117.05%"><![CDATA[Increas in Conversions by improved keyword to target page relevancy]]></supplemental>
+		
+		<columns>
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 0]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+				
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 1]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+			</column>
+			
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 0]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+				
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 1]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+			</column>
+		</columns>
+		
+		<imageticker>
+			<image path="images/work/project/thirdman_0.jpg" title="Caption Title Image 1"><![CDATA[Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?]]></image>
+			<image path="images/work/project/thirdman_1.jpg" title="Caption Title Image 2"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden.]]></image>
+		</imageticker>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Case Study">
+		<url><![CDATA[xcelenergy]]></url>
+	
+		<company logopath="images/work/project/logo.png"><![CDATA[Xcel Energy]]></company>
+	
+		<title service="SEO/Xcel Energy"><![CDATA[Exponential Growth For <br>Xcel Energy — Targeted SEO]]></title>
+	
+		<intro><![CDATA[Don't be so gloomy. After all it's not that awful. Like the fella says, in Italy for 30 years under the Borgias they had warfare, terror, murder, and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland they had brotherly love - they had 500 years of democracy and peace, and what did that produce? The cuckoo clock. So long Holly.]]></intro>
+	
+		<services><![CDATA[SEO ORM]]></services>
+	
+		<supplemental type="quote"><![CDATA[“If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></supplemental>
+	
+		<columns>
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 0]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+			
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 1]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+			</column>
+		
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 0]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+			
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 1]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+			</column>
+		</columns>
+	
+		<imageticker>
+			<image path="images/work/project/thirdman_0.jpg" title="Caption Title Image 1"><![CDATA[Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?]]></image>
+			<image path="images/work/project/thirdman_1.jpg" title="Caption Title Image 2"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden.]]></image>
+		</imageticker>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Simple">
+		<url><![CDATA[yellowskyscraper]]></url>
+
+		<company logopath="images/work/project/logo.png"><![CDATA[Yellowskyscraper]]></company>
+
+		<title service="It Took Over The Internet"><![CDATA[Out Of Control... <br>The Yellowskyscraper Is]]></title>
+
+		<intro><![CDATA[Don't be so gloomy. After all it's not that awful. Like the fella says, in Italy for 30 years under the Borgias they had warfare, terror, murder, and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland they had brotherly love - they had 500 years of democracy and peace, and what did that produce? The cuckoo clock. So long Holly.]]></intro>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Case Study">
+		<url><![CDATA[pom]]></url>
+	
+		<company logopath="images/work/project/logo.png"><![CDATA[POM Wonderful]]></company>
+	
+		<title service="SEO/POM Wonderful"><![CDATA[Exponential Growth For <br>POM — Targeted SEO]]></title>
+	
+		<intro><![CDATA[Don't be so gloomy. After all it's not that awful. Like the fella says, in Italy for 30 years under the Borgias they had warfare, terror, murder, and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland they had brotherly love - they had 500 years of democracy and peace, and what did that produce? The cuckoo clock. So long Holly.]]></intro>
+	
+		<services><![CDATA[SEO ORM]]></services>
+	
+		<supplemental type="statistic" stat="117.05%"><![CDATA[Increas in Conversions by improved keyword to target page relevancy]]></supplemental>
+	
+		<columns>
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 0]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+			
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 1]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+			</column>
+		
+			<column>
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 0]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+			
+				<nodes>
+					<node type="title"><![CDATA[The Third Man: 1]]></node>
+					<node type="paragraph"><![CDATA[“Have you ever seen any of your victims?” Holly asks Harry. “Victims?” says Harry, chuckling. “Don’t be melo­dramatic. Look down there.” He points through the window, at the people moving like black flies at the foot of the wheel. “Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?”]]></node>
+					<node type="bullet"><![CDATA[In this scene, Greene questions our right to judge Harry’s crime at all in the wake of a world war that has just left millions of similar “dots” dead.]]></node>
+					<node type="bullet"><![CDATA[None of those pilots and bomb crews ever saw their victims—many of them children, like the ones in Ward 3 of the Vienna General Hospital.]]></node>
+					<node type="bullet"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden, to say nothing of what America had inflicted on Hiroshima and Nagasaki.]]></node>
+				</nodes>
+			</column>
+		</columns>
+	
+		<imageticker>
+			<image path="images/work/project/thirdman_0.jpg" title="Caption Title Image 1"><![CDATA[Would you really feel any pity if one of those dots stopped moving forever? If I offered you twenty thousand pounds for every dot that stopped, would you really, old man, tell me to keep my money?]]></image>
+			<image path="images/work/project/thirdman_1.jpg" title="Caption Title Image 2"><![CDATA[And Greene seems to be asking us how morally reprehensible it is for one man to sell a few tubes of dodgy penicillin when others, such as Churchill and Sir Arthur Harris, had so recently ordered the saturation bombing of Dresden.]]></image>
+		</imageticker>
+	</panel>
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+</work>

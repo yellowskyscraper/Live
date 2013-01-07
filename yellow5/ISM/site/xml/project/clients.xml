@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<clients root="">
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+<!--|//////////////////////////////////////////////////////////////////////////////////////////////////|-->
+	<panel type="Clients">
+		<url><![CDATA[Clients]]></url>
+		
+		<title header="Our Clients"><![CDATA[ISM manages the search marketing programs for a variety of great brands.]]></title>
+	
+		<clients>
+			<client type="Case Study" 	url="californiaclosets"	logopath="site/images/work/californiaclosets/californiaclosets_sm.png"><![CDATA[California Closets]]></client>
+			<client type="not" 			url="" 					logopath="site/images/clients/chronicle_sm.png"><![CDATA[]]></client>
+			<client type="Case Study" 	url="insound" 			logopath="site/images/work/insound/insound_sm.png"><![CDATA[Insound]]></client>
+			<client type="not" 			url="" 					logopath="site/images/clients/benz_sm.png"><![CDATA[]]></client>
+			<client type="not" 			url="" 					logopath="site/images/clients/figi_sm.png"><![CDATA[]]></client>
+				
+			<client type="not" 			url="" 					logopath="site/images/clients/paramount_sm.png"><![CDATA[]]></client>
+			<client type="not" 			url="" 					logopath="site/images/clients/pom_sm.png"><![CDATA[]]></client>
+			<client type="Case Study" 	url="globalenglish" 	logopath="site/images/work/globalenglish/globalenglish_sm.png"><![CDATA[Global English]]></client>
+			<client type="not" 			url="" 					logopath="site/images/clients/box_sm.png"><![CDATA[]]></client>
+			<client type="Case Study" 	url="netsimplicity" 	logopath="site/images/work/netsimplicity/netsimp_sm.png"><![CDATA[Net Simplicity]]></client>
+			
+			<client type="not" 			url="" 					logopath="site/images/clients/solutionset_sm.png"><![CDATA[]]></client>
+			<client type="not" 			url="" 					logopath="site/images/clients/xcel_sm.png"><![CDATA[]]></client>
+		</clients>
+	</panel>
+</clients>
