@@ -57,7 +57,7 @@
 				<h2>An Exhibition Concerning An Undergraduate</h2>
 				<p>So, what exactly is the result of an undergraduate degree in the Fine Arts and what is four years of study worth to a person these days? Is it a piece of paper noting competence in a certain specialization? Does it allow for a more significant income bracket or more status? When <i>Fine Arts</i> follows it, does it then imply a cohesive body of work, thorough and not without a learned intention? Or is it rebellion and experimentation unconcerned with all that has past into convention before it? It might be silly to say that it is anything specific amongst these, in reality it's everything listed above and more, in any case at the other end of an intensive undergraduate program you have a person.</p><br>
 
-				<p>For me it was right there after those years of study that I found a little of myself. Where I was was no longer in those pieces&#151;valuable stepping stones no less&#151;they only seemed relics to me in hindsight. I had grown since then, and with that, every experimentation of the class room looked foreign, no longer a part of me. This was some thought process to find yourself in when asked to put together a Senior Exhibit, an exhibit meant to showcase four years of production and accomplished study.</p><br>
+				<p>For me it was right there after those years of study that I found a little of myself. Where I was was no longer in those pieces&#151;valuable stepping stones no less&#151;they only seemed relics to me in hindsight. I had grown since then, and with that, every experimentation of the class room looked foreign, no longer a part of me. This was some thought process to find yourself in when asked to put together a Senior Exhibit, an exhibit meant to showcase four years of production and accomplished study.</p>
 			</div>
 
 			<div class="sixcol bodycopy last">
@@ -72,17 +72,16 @@
 	<section>
 		<div class="row">
 			<div class="sevencol">
-				<a href="LittleBlankBooks/"><div class="link-to-microsite link-a"><h3>Browse the online archive &raquo;</h3></div></a>
+				<a href="LittleBlankBooks/" target="_blank"><div class="link-to-microsite link-a"><h3>Browse the online archive &raquo;</h3></div></a>
 				<img src="data/projects/LittleBlankBooks/image1.jpg">
 				<img src="data/projects/LittleBlankBooks/image3.jpg">
 				<img src="data/projects/LittleBlankBooks/image5.jpg">
 			</div>
 			<div class="fivecol last">
-				<a href="LittleBlankBooks/"><div class="link-to-microsite link-b"><h3>Browse the online archive &raquo;</h3></div></a>
+				<a href="LittleBlankBooks/" target="_blank"><div class="link-to-microsite link-b"><h3>Browse the online archive &raquo;</h3></div></a>
 				<img src="data/projects/LittleBlankBooks/image2.jpg">
 				<img src="data/projects/LittleBlankBooks/image4.jpg">
 				<img src="data/projects/LittleBlankBooks/image6.jpg">
-				<img src="data/projects/LittleBlankBooks/image1.jpg">
 			</div>
 		</div>
 	</section>

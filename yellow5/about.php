@@ -44,9 +44,9 @@
 	<section id="first">
 		<div class="row">
 			<div class="tencol landing-header">
-				<p>If you would please excuse the mess, we here at Yellowskyscraper are currently undergoing a massive restructuring. You see, the times they have been changing, and we're struggling (as all must) to stay relevant in this ever changing landscape of information. You can rest assured that our team at Yellowskyscraper is working around the clock, in below adequate conditions to bring you the best experiences ever possible.</p>
+				<p>So, you've found yourself wondering about our little Skyscraper of gilded Yellow? Well, at first glance you may have noticed that we're a very tall building of many stories, you may have also noticed that we stimulated both the long- and medium-wavelength cone cells of your retina (apologies for any feeling of intrusion but we assure you it was necessary) producing that yellowing effect we have all come to know and love. It's in any attempt to get beyond the facade that situation begins to complicate, so much so, that our own team can't even produce much more than senseless ramblings and insults. The best we can offer as an explanation is that we're simply people and this is just what me must do, even if we don't understand entirely, and even if the process ultimately kills us.</p>
 
-				<p>So, in the mean time please enjoy this temporary showcase of recent works.</p>
+			  	<p>I hope this has been of some help to you.</p> 
 			</div>
 			<div class="twocol last">
 
@@ -55,8 +55,8 @@
 
 		<div class="row">
 			<div class="tencol landing-credit">
-				<p>Wish you the best possible,<br /> 
-				CEO James S. Hovell</p>
+				<p>Take care and be safe,<br /> 
+				Your friends at Yellowskyscraper</p>
 			</div>
 			<div class="twocol last">
 

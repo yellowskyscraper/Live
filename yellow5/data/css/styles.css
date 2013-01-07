@@ -189,9 +189,10 @@
 		display:block;
 	}
 
-	.bodycopy p {
+	.bodycopy p{
 		font-size: 16px;
-		line-height: 19px;	
+		line-height: 19px;
+		width:540px;
 	}
 
 	footer .row {
@@ -223,7 +224,9 @@
 	}
 
 	.thumbnails .fourcol img{
-		/*border: 1px solid #ddd;*/
+		-moz-opacity:1.0; 
+		filter:alpha(opacity=800); 
+		opacity:1.0;
 	}
 
 	.thumbnails .fourcol:hover{
@@ -233,10 +236,62 @@
 	}
 
 	.thumbnails .fourcol:hover img{
-		-moz-opacity:.80; 
-		filter:alpha(opacity=80); 
+		-moz-opacity:.80;
+		filter:alpha(opacity=80);
 		opacity:.80;
 	}
+
+	#mapcontainer { 
+		background-color: #000;
+		position: relative;   
+		width: 926px;
+		height: 400px;       
+	}   
+
+	#mapplet { 
+		border: 1px solid #000000;           
+		width: 926px;
+		height: 400px;  
+		margin-left: 1px;  
+		margin-bottom: 10px; 
+		z-index: 0;
+	}   
+
+	#mapplet h1{ 
+   		font-family: GeorgiaBoldItalic;  
+		font-size: 14px;    
+		width:auto;     
+		height:auto;  
+	    margin-left: 2px;
+	}  
+
+	#mapplet h2{ 
+		font-family: GeorgiaBold;   
+		font-size: 10px;  	    
+		width:auto;     
+		height:auto;   
+	    margin-top: 6px;
+	    margin-left: 3px; 
+	}
+
+	#mapplet p{ 
+		font-size: 10px;       
+		width:auto;     
+		height:auto;  
+	    margin-left: 3px;
+	}     
+
+	#mapoverlay { 
+		background-color: #FFF;  
+		position: absolute;   
+		opacity:0.0;
+		filter:alpha(opacity=0);  
+		margin-top: 1px;  
+		margin-left: 2px;      
+		width: 926px;
+		height: 400px;    
+		z-index: 1;
+	}	
 
 /* ============================= */
 /* ! Layout for mobile version   */
@@ -247,8 +302,6 @@
 	body {
 		
 	}
-
-
 
 	.link-a {
 		display:block;

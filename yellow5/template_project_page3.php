@@ -61,33 +61,27 @@
 			</div>
 
 			<div class="sixcol bodycopy last">
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
-
-				<h2>Descriptive Thing</h2>
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
+				<a href="xxx"><div class="link-to-microsite link-c"><h3>Link &raquo;</h3></div></a>
 			</div>
 		</div>
 	</section>
 
 	<section>
 		<div class="row">
-			<div class="sevencol">
-				<a href="xxx"><div class="link-to-microsite link-a"><h3>Link &raquo;</h3></div></a>
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
+			<div class="sixcol">
 				<img src="data/projects/template/image1.jpg">
 			</div>
-			<div class="fivecol last">
-				<a href="xxx"><div class="link-to-microsite link-b"><h3>Link &raquo;</h3></div></a>
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
+			<div class="sixcol last">
 				<img src="data/projects/template/image1.jpg">
 			</div>
 		</div>
+
+		<div class="row">
+			<div class="twelvecol">
+				<img src="data/projects/template/image1_L.jpg">
+			</div>
+		</div>
 	</section>
-
-
 
 	<section>
 		<div class="row">

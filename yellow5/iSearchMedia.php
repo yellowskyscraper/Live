@@ -2,16 +2,15 @@
 <html lang="en">
 
 <head>
-	<title>Title &middot; Yellowskyscraper</title>
+	<title>iSearch Media &middot; Yellowskyscraper</title>
 
 	<?php include 'data/includes/header.php'; ?>
 
 	<!--Delete embedded styles, just for example.-->
 	<style type="text/css">
 	
-	
-	</style>
 
+	</style>
 </head>
 
 <body>
@@ -34,7 +33,7 @@
 	<section id="first">
 		<div class="row">
 			<div class="twelvecol work-detail">
-				<h1>Title</h1>
+				<h1>iSearch Media</h1>
 				<p>Sub title.</p>
 			</div>
 		</div>
@@ -72,13 +71,13 @@
 	<section>
 		<div class="row">
 			<div class="sevencol">
-				<a href="xxx"><div class="link-to-microsite link-a"><h3>Link &raquo;</h3></div></a>
+				<a href="xxx" target="_blank"><div class="link-to-microsite link-a"><h3>Link &raquo;</h3></div></a>
 				<img src="data/projects/template/image1.jpg">
 				<img src="data/projects/template/image1.jpg">
 				<img src="data/projects/template/image1.jpg">
 			</div>
 			<div class="fivecol last">
-				<a href="xxx"><div class="link-to-microsite link-b"><h3>Link &raquo;</h3></div></a>
+				<a href="xxx" target="_blank"><div class="link-to-microsite link-b"><h3>Link &raquo;</h3></div></a>
 				<img src="data/projects/template/image1.jpg">
 				<img src="data/projects/template/image1.jpg">
 				<img src="data/projects/template/image1.jpg">

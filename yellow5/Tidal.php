@@ -2,16 +2,15 @@
 <html lang="en">
 
 <head>
-	<title>Title &middot; Yellowskyscraper</title>
+	<title>Tidal Project &middot; Yellowskyscraper</title>
 
 	<?php include 'data/includes/header.php'; ?>
 
 	<!--Delete embedded styles, just for example.-->
 	<style type="text/css">
 	
-	
-	</style>
 
+	</style>
 </head>
 
 <body>
@@ -34,7 +33,7 @@
 	<section id="first">
 		<div class="row">
 			<div class="twelvecol work-detail">
-				<h1>Title</h1>
+				<h1>Tidal Project</h1>
 				<p>Sub title.</p>
 			</div>
 		</div>

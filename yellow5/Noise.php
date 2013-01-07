@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Title &middot; Yellowskyscraper</title>
+	<title>Noise App &middot; Yellowskyscraper</title>
 
 	<?php include 'data/includes/header.php'; ?>
 
@@ -34,7 +34,7 @@
 	<section id="first">
 		<div class="row">
 			<div class="twelvecol work-detail">
-				<h1>Title</h1>
+				<h1>Noise App</h1>
 				<p>Sub title.</p>
 			</div>
 		</div>
