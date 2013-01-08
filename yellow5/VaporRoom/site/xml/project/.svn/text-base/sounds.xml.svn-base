@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<soundeffects>					
+	<path><![CDATA[site/sounds/WalkingTransition_FadeOut.mp3]]></path>
+	<path><![CDATA[site/sounds/Clinking_1.mp3]]></path>
+	<path><![CDATA[site/sounds/Clinking_2.mp3]]></path>
+	<path><![CDATA[site/sounds/Clinking_3.mp3]]></path>
+	<path><![CDATA[site/sounds/RollOverChimes.mp3]]></path>
+	<path><![CDATA[site/sounds/RollOverOrSelect_quiet.mp3]]></path>
+	
+	<path><![CDATA[site/sounds/Cough.mp3]]></path>
+	<path><![CDATA[site/sounds/EatingChips.mp3]]></path>
+	<path><![CDATA[site/sounds/Bong.mp3]]></path>
+</soundeffects>

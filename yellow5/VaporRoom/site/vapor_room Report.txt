@@ -1,0 +1,150 @@
+vapor_room.swf Movie Report
+----------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1        2134671        2134671    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                 77539
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+next_button_whole                      0            52                     0
+prev_button_whole                      0            59                     0
+next_button                            0            54                     0
+prev_button                            0            52                     0
+goldenarrow                            0             0                     0
+Symbol 121                             0             0                     0
+services_key_cutout                    0             0                     0
+ImageElementMask                       0             0                     0
+BgInitClip                             0             0                     0
+six                                    0             0                     0
+five                                   0             0                     0
+four                                   0             0                     0
+three                                  0             0                     0
+two                                    0             0                     0
+one                                    0             0                     0
+zero                                   0             0                     0
+BackgroundTiles                        0             0                     0
+NewsNode                               0          1235                     0
+CalendarNode                           0           505                     0
+calendar_head                          0             0                     0
+ToggleSelectionIcon                    0             0                     0
+menu_selection_ico2                    0             0                     0
+menu_selection_ico                     0             0                     0
+FarRightBookBG                         0             0                     0
+BlotchMask1                            0             0                     0
+ImageSlideTextComponent                0           691                     0
+HorozontalFrameBG                      0             0                     0
+submit                                 0             0                     0
+VerticleFrameBG                        0             0                     0
+ContactNode                            0          2588                     0
+CenterFrameBG                          0             0                     0
+StopMotionBoxBG                        0             0                     0
+FarLeftFrameBG                         0             0                     0
+StopMotion                             0             0                     0
+MerchBTN                               0           291                     0
+CalendarBTN                            0           299                     0
+ServicesBTN                            0           300                     0
+MemberBTN                              0           295                     0
+LegalBTN                               0           306                     0
+AboutBTN                               0           292                     0
+LhccTab                                0             0                     0
+ContactTab                             0             0                     0
+MenuTab                                0             0                     0
+BottomNav                              0             0                     0
+Book                                   0             0                     0
+Vignette                               0             0                     0
+CornerRight                            0             0                     0
+CornerLeft                             0             0                     0
+LogoType                               0             0                     0
+divider                                0             0                     0
+TextNode                               0          1216                     0
+AddressNode                            0          1611                     0
+BlotchMask                            37             0                     0
+scrollband                             0             0                     0
+scrollhead                             0             0                     0
+scrollbar                              0             0                     0
+ScrollBase                             0           174                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+ACaslon-Italic Italic         21726     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Benguiat-Book                 16211     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Benguiat-Medium               17726     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+ACaslon-Bold                  23224     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+ACaslon-Semibold              23225     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+ACaslon-Regular               23592     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+
+ActionScript Bytes    Location
+------------------    --------
+             77539    Scene 1:Frame 1
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+scroll_band.png                  347        2704   JPEG Quality=20
+Layer 1                          769        1892   JPEG Quality=60
+calendar_header.jpg             2166       26676   JPEG Quality=80
+1.png                           2910      599076   JPEG Quality=20
+2.png                           3811      599076   JPEG Quality=20
+3.png                           9567      599076   JPEG Quality=20
+4.png                          11250      599076   JPEG Quality=20
+5.png                           7751      599076   JPEG Quality=20
+green_seperator.png              555         832   JPEG Quality=80
+directional_under.png            473        5600   Lossless
+directional_over.png             554        5600   Lossless
+prev_under.png                   714        9800   Lossless
+prev_over.png                    851        9800   Lossless
+next_under.png                   673        7200   Lossless
+next_over.png                    814        7200   Lossless
+logo_type.png                   9019       35412   JPEG Quality=80
+corner_left.png                 2684       11448   JPEG Quality=80
+corner_right.png                2757       11448   JPEG Quality=80
+vignette.png                  221588     5403600   JPEG Quality=20
+book.png                       13499     1212096   JPEG Quality=60
+selection_indicator.png         1076       10416   JPEG Quality=20
+book_shadow.png                46140     2493456   JPEG Quality=50
+bookmark_lhcc.png               6594      161820   JPEG Quality=100
+bookmark_contact.png           12537      158844   JPEG Quality=100
+bookmark_menu.png              14804      180184   JPEG Quality=100
+menu_selection_ico2.jpg          644       10416   JPEG Quality=80
+menu_selection_ico.jpg           785       10416   JPEG Quality=80
+2.jpg                          27494     3430800   JPEG Quality=30
+3.jpg                          27523     3430800   JPEG Quality=30
+4.jpg                          27436     3430800   JPEG Quality=30
+5.jpg                          27480     3430800   JPEG Quality=30
+6.jpg                          27480     3430800   JPEG Quality=30
+7.jpg                          26816     3430800   JPEG Quality=30
+8.jpg                          27613     3430800   JPEG Quality=30
+9.jpg                          27612     3430800   JPEG Quality=30
+10.jpg                         25623     3430800   JPEG Quality=30
+11.jpg                         24521     3430800   JPEG Quality=30
+12.jpg                         23992     3430800   JPEG Quality=30
+13.jpg                         23821     3430800   JPEG Quality=30
+14.jpg                         23307     3430800   JPEG Quality=30
+15.jpg                        124923     3430800   JPEG Quality=80
+about.jpg                      18327      530312   JPEG Quality=80
+legal_resources.jpg            28470     1084020   JPEG Quality=80
+member_info.jpg                17220      494160   JPEG Quality=80
+contact.png                    11504      673280   JPEG Quality=80
+contact_btn.png                 1137        6832   JPEG Quality=80
+services_medicine.jpg           9190      497448   JPEG Quality=80
+services_images.jpg             6495      507104   JPEG Quality=80
+services_img_key.png            1482       13328   JPEG Quality=80
+goldenarrow.png                  809        1716   Lossless
+art_merch.jpg                  11661      698944   JPEG Quality=80
+services_ico.jpg                 644        9520   JPEG Quality=80
+6.jpg                          19005      716400   JPEG Quality=80
+5.jpg                         150831     4309200   JPEG Quality=80
+4.jpg                         198209     4309200   JPEG Quality=80
+3.jpg                         198678     4309200   JPEG Quality=80
+2.jpg                         201419     4309200   JPEG Quality=80
+1.jpg                         178147     4309200   JPEG Quality=80
+0.jpg                          11800      663136   JPEG Quality=80
+mask_h.png                      8038      303800   JPEG Quality=20
+
+
+
+

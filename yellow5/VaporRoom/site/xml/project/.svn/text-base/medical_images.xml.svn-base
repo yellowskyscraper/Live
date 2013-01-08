@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<slide>	
+	<images>					
+		<img path="site/images/slideshow_images/horizontal_1.jpg"><![CDATA[ ]]></img>	
+		<img path="site/images/slideshow_images/horizontal_2.jpg"><![CDATA[ ]]></img>		
+		<img path="site/images/slideshow_images/horizontal_3.jpg"><![CDATA[ ]]></img>	
+		<img path="site/images/slideshow_images/horizontal_4.jpg"><![CDATA[ ]]></img>
+	</images>
+</slide>

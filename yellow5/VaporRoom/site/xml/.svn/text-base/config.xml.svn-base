@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config root='site/'>
+	<xml>				
+		<file><![CDATA[xml/project/about.xml]]></file>	
+		<file><![CDATA[xml/project/member.xml]]></file>
+		<file><![CDATA[xml/project/legalresources.xml]]></file>		
+		<file><![CDATA[xml/project/medical.xml]]></file>	
+		<file><![CDATA[xml/project/medical_images.xml]]></file>	
+		<file><![CDATA[xml/project/photoalbum_images.xml]]></file>
+		
+		<file><![CDATA[xml/project/calendar.xml]]></file>		
+		<file><![CDATA[xml/project/sounds.xml]]></file>																	
+	</xml>
+</config>
