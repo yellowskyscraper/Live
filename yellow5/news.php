@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Yellowskyscraper, under construction since 1986</title>
+	<title>Yellowskyscraper; conceived and established in 1986</title>
 
 	<meta name="description" content="..." /> 
 	
@@ -44,10 +44,16 @@
 	<section id="first">
 		<div class="row">
 			<div class="tencol landing-header">
-				<p>Nothing yet</p>
+				<p>Soon to come! Yellowskyscraper News Room; up to date observations and happenings, out of date ruminations and hindsight, future predictions and asperations. Why? It's simple, we're already doing it.</p>
 			</div>
 			<div class="twocol last">
 
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="twelvecol">
+				<img src="data/img/news.jpg">
 			</div>
 		</div>
 	</section>

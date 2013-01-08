@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Yellowskyscraper, under construction since 1986</title>
+	<title>Yellowskyscraper; new diggs.</title>
 
 	<meta name="description" content="..." /> 
 	

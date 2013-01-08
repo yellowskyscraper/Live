@@ -10,7 +10,7 @@
 
 	<a href="ReDistraction.php">
 		<div class="fourcol">
-			<img src="data/projects/template/thumbnail.png">
+			<img src="data/projects/ReDistraction/thumbnail.png">
 			<h3>ReDistraction (redis)</h3>
 			<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
 		</div>
@@ -30,7 +30,7 @@
 	<a href="Noise.php">
 		<div class="fourcol">
 			<img src="data/projects/Noise/thumbnail.png">
-			<h3>Noise App</h3>
+			<h3>Noise</h3>
 			<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
 		</div>
 	</a>	

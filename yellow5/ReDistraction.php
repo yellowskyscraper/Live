@@ -34,7 +34,7 @@
 		<div class="row">
 			<div class="twelvecol work-detail">
 				<h1>ReDistraction (redis)</h1>
-				<p>Sub title.</p>
+				<p>Technology saving us from technology.</p>
 			</div>
 		</div>
 	</section>
@@ -42,7 +42,7 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>Month Year | Type of media</p>
+				<p>April 2010 | Chrome Plug-In</p>
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>
@@ -53,35 +53,23 @@
 	<section>
 		<div class="row">
 			<div class="sixcol bodycopy">
-				<h2>Clever Thing</h2>
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
-
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
+				<h2>With time perhaps we wont need such things. We may be able to do them on our own.</h2>
+				<p>It all started, one day a little while ago, when I noticed that every time I would open a new tab in Chrome (command+T) my fingers would automatically begin typing out the letters f a c e b o o, followed by the return key, solidifying the action. My intent wasn't originally to check Facebook, it was perhaps something related to work, something productive! So in this, I realized, I had a problem. And that I should find help.</p>
 			</div>
 
 			<div class="sixcol bodycopy last">
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
+				<p>I tried will power to no avail. I thought that I might hire someone to watch over me, or find a sponsor to keep me on track. No luck. So the solution struck me one evening—when I was at my very lowest, sitting there facing five open tabs with Facebook on them—that I would use technology to condition myself from technology.</p><br>
 
-				<h2>Descriptive Thing</h2>
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
+				<p>And we have it, ReDistraction. A simple plug-in for Chrome that detects navigation to Facebook, then gently pushing you (redirecting) to something more fruitful. Something like TED, or Yale Open Courses, or The New York Times.</p>
+
 			</div>
 		</div>
 	</section>
 
 	<section>
 		<div class="row">
-			<div class="sevencol">
-				<a href="xxx"><div class="link-to-microsite link-a"><h3>Link &raquo;</h3></div></a>
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-			</div>
-			<div class="fivecol last">
-				<a href="xxx"><div class="link-to-microsite link-b"><h3>Link &raquo;</h3></div></a>
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
+			<div class="twelvecol">
+				<img src="data/projects/ReDistraction/image1.jpg">
 			</div>
 		</div>
 	</section>

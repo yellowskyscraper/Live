@@ -54,16 +54,27 @@
 	<section>
 		<div class="row">
 			<div class="sixcol bodycopy">
-				<h2>Single Art? Eligible Space?</h2>
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
+				<h2>Single Art? Eligible Space? This is the site for you.</h2>
+				<p>What brought this project about? Along Market Street in downtown San Francisco there is an overabundance of underutilized space, causing a loss of community and economic opportunity. We imagined these spaces being put to better use.</p><br>
 
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
+				<p>Now, imagine you’re a space owner or an artist that would like to see this done. Depending on the project, You would first have to go through a lengthy application process, followed by months of waiting, only to gain entry into additional hearings and permitting discussions. On top of this, we’re all dealing with: shrinking budgets, overworked staff, and often limited community participation. It could very well take a year to see any result at all.</p><br>
+
+				<p>So we asked, could an online platform streamline and make effective the decision making process, ease the exchange of information amongst those involved, and make a complicated matter accessible? Thus inviting more people to participate? Could we empower and transform a community by matching under-used public urban spaces with the placement of art and cultural projects? We believe that an application like this means economic development, cost savings, increased awareness, democratic </p><br>
+
 			</div>
 
 			<div class="sixcol bodycopy last">
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
 
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
+				<p>empowerment, and placemaking. Ultimately; it’s going to be faster, and it’s going to engage a broader community.</p>
+				<br>
+				<h2>What We Built</h2>
+				<p>An online platform that allows the community and organizations within them to post available Spaces and Proposals for what to do with those spaces. Once uploaded the community can then suggest matches and provide support.</p><br>
+
+				<p>Spaces are owned or found; they can be empty lots, store fronts, alleyways, community centers, or living rooms.</p><br>
+				 
+				<p>Proposals are murals, exhibitions, performances, or even, innovative experiments yet to be thought of. The idea is that these spaces are not only canvases to be drawn on, but micro platforms for community experimentation and innovation.</p><br>
+				 
+				<p>We believe open online platform can empower not only the general public but organizations, community groups, and property owners.</p>
 			</div>
 		</div>
 	</section>
@@ -72,10 +83,12 @@
 		<div class="row">
 			<div class="sevencol">
 				<a href="http://arthere.org/" target="_blank"><div class="link-to-microsite link-a"><h3>Check out ArtHERE &raquo;</h3></div></a>
-				<img src="data/projects/ArtHERE/image1.jpg">
+				<img src="data/projects/ArtHERE/image3.jpg">
+				<img src="data/projects/ArtHERE/image4.jpg">
 			</div>
 			<div class="fivecol last">
 				<a href="http://arthere.org/" target="_blank"><div class="link-to-microsite link-b"><h3>Check out ArtHERE  &raquo;</h3></div></a>
+				<img src="data/projects/ArtHERE/image1.jpg">
 				<img src="data/projects/ArtHERE/image2.jpg">
 			</div>
 		</div>

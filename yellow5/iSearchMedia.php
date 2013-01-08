@@ -34,7 +34,7 @@
 		<div class="row">
 			<div class="twelvecol work-detail">
 				<h1>iSearch Media</h1>
-				<p>Sub title.</p>
+				<p>ISM, they're a search agency.</p>
 			</div>
 		</div>
 	</section>
@@ -42,7 +42,7 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>Month Year | Type of media</p>
+				<p>January 2010 | Flash Web Site | Developed at OrdinaryKids.</p>
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>
@@ -52,36 +52,17 @@
 
 	<section>
 		<div class="row">
-			<div class="sixcol bodycopy">
-				<h2>Clever Thing</h2>
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
-
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
-			</div>
-
-			<div class="sixcol bodycopy last">
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
-
-				<h2>Descriptive Thing</h2>
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
-			</div>
-		</div>
-	</section>
-
-	<section>
-		<div class="row">
 			<div class="sevencol">
-				<a href="xxx" target="_blank"><div class="link-to-microsite link-a"><h3>Link &raquo;</h3></div></a>
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
+				<a href="ISM" target="_blank"><div class="link-to-microsite link-a"><h3>Launch ISM (Depreciated) &raquo;</h3></div></a>
+				<img src="data/projects/iSearchMedia/image1.jpg">
+				<img src="data/projects/iSearchMedia/image2.jpg">
+				<img src="data/projects/iSearchMedia/image3.jpg">
 			</div>
 			<div class="fivecol last">
-				<a href="xxx" target="_blank"><div class="link-to-microsite link-b"><h3>Link &raquo;</h3></div></a>
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
+				<a href="ISM" target="_blank"><div class="link-to-microsite link-b"><h3>Launch ISM (Depreciated) &raquo;</h3></div></a>
+				<img src="data/projects/iSearchMedia/image4.jpg">
+				<img src="data/projects/iSearchMedia/image5.jpg">
+				<img src="data/projects/iSearchMedia/image6.jpg">
 			</div>
 		</div>
 	</section>

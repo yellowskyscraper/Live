@@ -34,7 +34,7 @@
 		<div class="row">
 			<div class="twelvecol work-detail">
 				<h1>The Detroit Zoological Society</h1>
-				<p>Sub title.</p>
+				<p>The entire world at a glance.</p>
 			</div>
 		</div>
 	</section>
@@ -42,7 +42,7 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>Month Year | Type of media</p>
+				<p>November 2010 | Identity System</p>
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>
@@ -52,36 +52,29 @@
 
 	<section>
 		<div class="row">
-			<div class="sixcol bodycopy">
-				<h2>Clever Thing</h2>
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
+			<div class="sevencol bodycopy">
+				<h2>When we try to pick out anything by itself, we find it hitched to everything else in the Universe.</h2>
+				<p>The Detroit Zoo is a micro representation of the worlds five biogeographic regions, more commonly known as Biomes. Much like a map allows its participant to experience a large amount of geographic data at a glance, the Zoological Park allows for a similar interaction involving these five Biomes. The Detroit Zoological Park acts as a map to navigate the worlds regions at a glance, despite a vast physical separation.</p><br>
 
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
-			</div>
+				<p>It was in the nomenclature of maps used to describe the physical terrane and conditions of an area, where the Detroit Zoological Society's system emerged. With the inherit iconography of terrane, a method can be found to distill and represent the worlds five biogeographic realms. The five biomes represent the most basic division of the worlds surface, defined by four constants to a regions unique climate, fauna, flora and geography.</p><br>
 
-			<div class="sixcol bodycopy last">
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
+				<p>The system for the Detroit Zoological Society is comprised of five graphic marks symbolizing these biogeographic regions within Park's boundaries and a logotype embodying the members of the Detroit Zoological Society.</p>
 
-				<h2>Descriptive Thing</h2>
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
-			</div>
-		</div>
-	</section>
+				<br>
+				<br>
 
-	<section>
-		<div class="row">
-			<div class="sevencol">
-				<a href="xxx"><div class="link-to-microsite link-a"><h3>Link &raquo;</h3></div></a>
+				<img src="data/projects/DetroitZoo/image1.jpg">
 				<img src="data/projects/template/image1.jpg">
 				<img src="data/projects/template/image1.jpg">
 				<img src="data/projects/template/image1.jpg">
 			</div>
 			<div class="fivecol last">
-				<a href="xxx"><div class="link-to-microsite link-b"><h3>Link &raquo;</h3></div></a>
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
+				<img src="data/projects/DetroitZoo/image9.jpg">
+				<img src="data/projects/DetroitZoo/image5.jpg">
+				<img src="data/projects/DetroitZoo/image8.jpg">
+				<img src="data/projects/DetroitZoo/image7.jpg">
+				<img src="data/projects/DetroitZoo/image6.jpg">
+				<img src="data/projects/DetroitZoo/image10.jpg">
 			</div>
 		</div>
 	</section>

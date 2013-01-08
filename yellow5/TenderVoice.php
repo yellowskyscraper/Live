@@ -43,7 +43,7 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>BETA Launch | June 2010 | Interactive Resource & Game</p>
+				<p>BETA Launch | June 2010 | Interactive Resource &amp; Game</p>
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>
@@ -72,12 +72,15 @@
 		<div class="row">
 			<div class="sevencol">
 				<a href="http://tendervoice.org/" target="_blank"><div class="link-to-microsite link-a"><h3>Launch TenderVoice &raquo;</h3></div></a>
-				<img src="data/projects/TenderVoice/image1.jpg">
+				<img src="data/projects/TenderVoice/image4.jpg">
+				<img src="data/projects/TenderVoice/image2.jpg">
 				<img src="data/projects/TenderVoice/image3.jpg">
 			</div>
 			<div class="fivecol last">
 				<a href="http://tendervoice.org/" target="_blank"><div class="link-to-microsite link-b"><h3>Launch TenderVoice &raquo;</h3></div></a>
-				<img src="data/projects/TenderVoice/image2.jpg">
+				<img src="data/projects/TenderVoice/image1.jpg">
+				<img src="data/projects/TenderVoice/image7.jpg">
+				<img src="data/projects/TenderVoice/image5.jpg">
 			</div>
 		</div>
 	</section>

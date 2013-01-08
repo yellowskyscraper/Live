@@ -53,9 +53,10 @@
 	<section>
 		<div class="row">
 			<div class="sixcol bodycopy">
-				<h2>Prototyping Loneliness.</h2>
+				<h2>What if a little box could experience loneliness?</h2>
 				<p>Simple Needs is a part of a larger exploration of loneliness, one in a series of observations and experiments intended to better my understanding of this curious and age old conundrum.</p>
-
+				<br>
+				
 				<p>If one was so inclined, they might say that our conscious understanding of the world is limited to, or constrained to our perception of it. We perceive our surroundings, then rationalize our surroundings, and it is through this that we build an understanding of our environment and our relationship to it. And since we can never truly escape these bodies of ours, and transcend this perception, we are forever trapped in a universes governed by these ever so temperamental of senses.</p>
 			</div>
 

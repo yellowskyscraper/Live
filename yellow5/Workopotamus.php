@@ -34,7 +34,7 @@
 		<div class="row">
 			<div class="twelvecol work-detail">
 				<h1>Workopotamus</h1>
-				<p>Sub title.</p>
+				<p>One suit. One hundred dollars.</p>
 			</div>
 		</div>
 	</section>
@@ -42,7 +42,7 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>Month Year | Type of media</p>
+				<p>BETA Version | July 2010 | E-Commerce Flash Site | Made at OrdinaryKids</p>
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>
@@ -52,36 +52,26 @@
 
 	<section>
 		<div class="row">
-			<div class="sixcol bodycopy">
-				<h2>Clever Thing</h2>
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
+			<div class="sevencol bodycopy">
+				<h2>One simple suit for the working man.</h2>
+				<p>The Branding and Production of a full E-Commerce Flash site for a start up suit company specializing in one affordable suit for the working stiff. In short Workopotomus is a modern suit made for the newly employed, or anyone who has less than a million dollars to spend on work wear but still needs to look good. It's one reliable fit in two colors to keep costs down and to make the suit-buying process as easy as possible. Try one out, I promise, you wont be disappointed.</p>
 
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
-			</div>
-
-			<div class="sixcol bodycopy last">
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
-
-				<h2>Descriptive Thing</h2>
-				<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
-			</div>
-		</div>
-	</section>
-
-	<section>
-		<div class="row">
-			<div class="sevencol">
-				<a href="xxx" target="_blank"><div class="link-to-microsite link-a"><h3>Link &raquo;</h3></div></a>
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
+				<br>
+				<br>
+				
+				<a href="https://www.workopotamus.com/home.php" target="_blank"><div class="link-to-microsite link-a"><h3>Go get one of your own &raquo;</h3></div></a>
+				<img src="data/projects/Workopotamus/image1.jpg">
+				<img src="data/projects/Workopotamus/image2.jpg">
+				<img src="data/projects/Workopotamus/image3.jpg">
+				<img src="data/projects/Workopotamus/image4.jpg">
+				<img src="data/projects/Workopotamus/image5.jpg">
 			</div>
 			<div class="fivecol last">
-				<a href="xxx" target="_blank"><div class="link-to-microsite link-b"><h3>Link &raquo;</h3></div></a>
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
+				<a href="https://www.workopotamus.com/home.php" target="_blank"><div class="link-to-microsite link-b"><h3>Go get one of your own &raquo;</h3></div></a>
+				<img src="data/projects/Workopotamus/image6.jpg">
+				<img src="data/projects/Workopotamus/image7.jpg">
+				<img src="data/projects/Workopotamus/image8.jpg">
+				<img src="data/projects/Workopotamus/image9.jpg">
 			</div>
 		</div>
 	</section>

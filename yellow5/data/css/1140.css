@@ -155,7 +155,7 @@ img {
 		float: left;
 	} 
 
-	.thumbnails .fourcol p{
+	.thumbnails .fourcol p, .thumbnails .fourcol h3{
 		display:none;
 	}
 
