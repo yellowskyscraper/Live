@@ -53,12 +53,12 @@
 	<section>
 		<div class="row">
 			<div class="sevencol">
-				<a href="VaporRooom/" target="_blank"><div class="link-to-microsite link-a"><h3>Visit the Vapor Room (Depreciated) &raquo;</h3></div></a>
+				<a href="VaporRoom/" target="_blank"><div class="link-to-microsite link-a"><h3>Visit the Vapor Room (Depreciated) &raquo;</h3></div></a>
 				<img src="data/projects/VaporRoom/image1.jpg">
 				<img src="data/projects/VaporRoom/image2.jpg">
 			</div>
 			<div class="fivecol last" target="_blank">
-				<a href="VaporRooom/"><div class="link-to-microsite link-b"><h3>Visit the Vapor Room (Depreciated) &raquo;</h3></div></a>
+				<a href="VaporRoom/" target="_blank"><div class="link-to-microsite link-b"><h3>Visit the Vapor Room (Depreciated) &raquo;</h3></div></a>
 				<img src="data/projects/VaporRoom/image3.jpg">
 				<img src="data/projects/VaporRoom/image4.jpg">
 			</div>

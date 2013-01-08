@@ -64,9 +64,11 @@
 				<br>
 
 				<img src="data/projects/DetroitZoo/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
-				<img src="data/projects/template/image1.jpg">
+				<img src="data/projects/DetroitZoo/image2.jpg">
+				<img src="data/projects/DetroitZoo/image3.jpg">
+				<img src="data/projects/DetroitZoo/image4.jpg">
+				<img src="data/projects/DetroitZoo/image11.jpg">
+				<img src="data/projects/DetroitZoo/image12.jpg">
 			</div>
 			<div class="fivecol last">
 				<img src="data/projects/DetroitZoo/image9.jpg">
@@ -75,6 +77,8 @@
 				<img src="data/projects/DetroitZoo/image7.jpg">
 				<img src="data/projects/DetroitZoo/image6.jpg">
 				<img src="data/projects/DetroitZoo/image10.jpg">
+				<img src="data/projects/DetroitZoo/image13.jpg">
+				<img src="data/projects/DetroitZoo/image14.jpg">
 			</div>
 		</div>
 	</section>
