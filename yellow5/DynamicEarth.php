@@ -109,14 +109,13 @@
 	<section>
 		<div class="row">
 			<div class="sevencol bodycopy">
-				<img src="data/projects/BayAreaModel/DynamicEarth/image1.jpg">
-				<img src="data/projects/BayAreaModel/DynamicEarth/image1.jpg">
-				<img src="data/projects/BayAreaModel/DynamicEarth/image1.jpg">
+				<img src="data/projects/BayAreaModel/DynamicEarth/image2.jpg">
+				<img src="data/projects/BayAreaModel/DynamicEarth/image3.jpg">
 			</div>
 			<div class="fivecol last">
+				<img src="data/projects/BayAreaModel/DynamicEarth/image5.jpg">
 				<img src="data/projects/BayAreaModel/DynamicEarth/image1.jpg">
-				<img src="data/projects/BayAreaModel/DynamicEarth/image1.jpg">
-				<img src="data/projects/BayAreaModel/DynamicEarth/image1.jpg">
+				<img src="data/projects/BayAreaModel/DynamicEarth/image4.jpg">
 			</div>
 		</div>
 	</section>

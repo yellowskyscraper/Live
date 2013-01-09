@@ -108,14 +108,17 @@
 
 	<section>
 		<div class="row">
-			<div class="sevencol bodycopy">
+			<div class="sevencol">
+				<img src="data/projects/BayAreaModel/image2.jpg">
+				<img src="data/projects/BayAreaModel/image11.jpg">
 				<img src="data/projects/BayAreaModel/image1.jpg">
-				<img src="data/projects/BayAreaModel/image7.jpg">
+				<img src="data/projects/BayAreaModel/image3.jpg">
 			</div>
 			<div class="fivecol last">
-				<img src="data/projects/BayAreaModel/image2.jpg">
+				<img src="data/projects/BayAreaModel/image9.jpg">
 				<img src="data/projects/BayAreaModel/image10.jpg">
 				<img src="data/projects/BayAreaModel/image8.jpg">
+				<img src="data/projects/BayAreaModel/image12.jpg">
 			</div>
 		</div>
 	</section>

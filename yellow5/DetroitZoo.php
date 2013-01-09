@@ -54,6 +54,7 @@
 		<div class="row">
 			<div class="sevencol bodycopy">
 				<h2>When we try to pick out anything by itself, we find it hitched to everything else in the Universe.</h2>
+
 				<p>The Detroit Zoo is a micro representation of the worlds five biogeographic regions, more commonly known as Biomes. Much like a map allows its participant to experience a large amount of geographic data at a glance, the Zoological Park allows for a similar interaction involving these five Biomes. The Detroit Zoological Park acts as a map to navigate the worlds regions at a glance, despite a vast physical separation.</p><br>
 
 				<p>It was in the nomenclature of maps used to describe the physical terrane and conditions of an area, where the Detroit Zoological Society's system emerged. With the inherit iconography of terrane, a method can be found to distill and represent the worlds five biogeographic realms. The five biomes represent the most basic division of the worlds surface, defined by four constants to a regions unique climate, fauna, flora and geography.</p><br>

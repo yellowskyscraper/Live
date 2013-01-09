@@ -12,7 +12,7 @@
 
 	a {
 		text-decoration:none;
-		color: #000;
+		color: #333;
 	}
 	
 	p {
@@ -148,22 +148,37 @@
 		border-top: 1px dotted #ccc;
 	}
 
-	.share-me {
-		float:right;
-		width:102px;
-		height:26px;
+	.bodycopy p{
+		font-size: 16px;
+		line-height: 19px;
+		max-width:540px;
 	}
 
-	.share-me img{
-		margin-left: 6px;
-		margin-top: 0;
+	.bodycopy h2{
+		max-width:540px;
 	}
 
-	.share-me img:hover{
-		-moz-opacity:.80;
-		filter:alpha(opacity=80);
-		opacity:.80;
+	footer .row {
+		font-size: 12px;
+		margin: 5px auto;
+		padding: 5px 0 7px 0;
 	}
+
+	.fixed {
+		top: 0;
+		padding: 0;
+		width: 100%;
+		margin: 0px auto;
+		overflow: hidden;
+        position:fixed;
+	}
+
+	.firstup {
+		margin-top: 100px;
+	}
+
+/*///////////////////////////////////////////////////////////|
+/////////////////////////////////////////////////////////////|*/
 
 	.link-to-microsite {
 		width:100%;
@@ -194,34 +209,27 @@
 		display:block;
 	}
 
-	.bodycopy p{
-		font-size: 16px;
-		line-height: 19px;
-		max-width:540px;
+/*///////////////////////////////////////////////////////////|
+/////////////////////////////////////////////////////////////|*/
+
+	.share-me {
+		background-color: #FFF;
+		float:right;
+		width:99px;
+		height:26px;
 	}
 
-	.bodycopy h2{
-		max-width:540px;
+	.share-me img {
+		margin-left: 6px;
+		margin-top: 0;
 	}
 
-	footer .row {
-		font-size: 12px;
-		margin: 5px auto;
-		padding: 5px 0 7px 0;
+	.share-me img:hover {
+		-moz-opacity:.80;
+		filter:alpha(opacity=80);
+		opacity:.80;
 	}
 
-	.fixed {
-		top: 0;
-		padding: 0;
-		width: 100%;
-		margin: 0px auto;
-		overflow: hidden;
-        position:fixed;
-	}
-
-	.firstup {
-		margin-top: 100px;
-	}
 /*///////////////////////////////////////////////////////////|
 /////////////////////////////////////////////////////////////|*/
 
@@ -230,10 +238,12 @@
 	}
 
 	.tab_images .threecol h3 {
+		color: #333;
 		margin: 2px 0 0 0;
 	}
 
 	.tab_images .threecol p {
+		color: #333;
 		margin: 0 0 0 0;
 		padding: 0 5px 8px 10px;
 	}
@@ -243,7 +253,7 @@
 		background-color:#eee;
 	}
 
-	.tab_images .threecol:hover h3, .tab_images .current_tab {
+	.tab_images .threecol:hover h3, .tab_images .current_tab h3 {
 		color:#000;
 	}
 
@@ -263,33 +273,24 @@
 		padding: 0 5px 8px 10px;
 	}
 
-	.thumbnails .fourcol img{
-/*		-moz-opacity:1.0; 
-		filter:alpha(opacity=800); 
-		opacity:1.0;*/
-	}
-
-	.thumbnails .fourcol:hover{
+	.thumbnails .fourcol:hover {
 		cursor:pointer;
 		background-color: #eee;
-		color:#000;
 	}
 
-	.thumbnails .fourcol:hover img{
-/*		-moz-opacity:.80;
-		filter:alpha(opacity=80);
-		opacity:.80;*/
+	.thumbnails .fourcol:hover h3,
+	.thumbnails .fourcol:hover p {
+		color:#000;
 	}
 
 /*///////////////////////////////////////////////////////////|
 /////////////////////////////////////////////////////////////|*/
-/* Responsive iFrame */
 
 	#mapcontainer { 
 		background-color: #000;
-		position: relative;   
+		position: relative;
 	    width: 100%;
-		height: 300px;       
+		height: 300px;
 	}   
 
 	#mapplet {   
@@ -297,20 +298,20 @@
 		height: 300px;  
 		margin:0px; 
 		z-index: 0;
-	}  
+	}
 
-	#mapplet:hover h3, #mapplet:hover p{   
+	#mapplet:hover h3, #mapplet:hover p {   
 		cursor:default;
 	}  
 
-	#mapplet h3{   
+	#mapplet h3 {   
 		margin:7px 0 0 0;
 	}  
 
-	#mapplet p{   
+	#mapplet p {   
 		font-size: 12px;
 		line-height: 15px;
-	}      
+	}
 
 /* ============================= */
 /* ! Layout for mobile version   */
