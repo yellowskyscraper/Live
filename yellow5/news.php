@@ -53,7 +53,6 @@
 
 		<div class="row">
 			<div class="twelvecol">
-				<img src="data/img/news.jpg">
 			</div>
 		</div>
 	</section>

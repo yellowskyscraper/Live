@@ -34,7 +34,7 @@
 		<div class="row">
 			<div class="twelvecol work-detail">
 				<h1>ReDistraction (redis)</h1>
-				<p>Technology saving us from technology.</p>
+				<p>Technology! Save us from technology.</p>
 			</div>
 		</div>
 	</section>
@@ -53,7 +53,7 @@
 	<section>
 		<div class="row">
 			<div class="sixcol bodycopy">
-				<h2>With time perhaps we wont need such things. We may be able to do them on our own.</h2>
+				<h2>With time perhaps we wont need such things as these. We may be able to do them on our own.</h2>
 				<p>It all started, one day a little while ago, when I noticed that every time I would open a new tab in Chrome (command+T) my fingers would automatically begin typing out the letters f a c e b o o, followed by the return key, solidifying the action. My intent wasn't originally to check Facebook, it was perhaps something related to work, something productive! So in this, I realized, I had a problem. And that I should find help.</p>
 			</div>
 

@@ -23,11 +23,11 @@
 		InfoOverlay.prototype = new google.maps.OverlayView();
 	
 		function initialize() {      
-			var markLatLng = new google.maps.LatLng(37.78469, -122.41392);   
-			var mapLatLng = new google.maps.LatLng(37.79069, -122.39800);  
+			var markLatLng = new google.maps.LatLng(37.7938016, -122.2198948);  
+			var mapLatLng = new google.maps.LatLng(37.7808016, -122.1758948);  
 			
 			var mapOptions = {
-				zoom: 13,
+				zoom: 12,
 				center: mapLatLng,  
 				draggable:false,
 				scrollwheel:false,   
@@ -38,8 +38,8 @@
 
 			var map = new google.maps.Map(document.getElementById("mapplet"), mapOptions);  
 			
-		    var swBound = new google.maps.LatLng(37.79969, -122.41392);
-		    var neBound = new google.maps.LatLng(37.78469, -122.41392);
+		    var swBound = new google.maps.LatLng(37.7938016, -122.2198948);  
+		    var neBound = new google.maps.LatLng(37.7678016, -122.2138948);  
 		    var bounds = new google.maps.LatLngBounds(swBound, neBound);  
 		      
 		    var srcImage = 'data/img/InfoWindow.png';                    
@@ -68,12 +68,10 @@
 			                              
 			var content = document.createElement("content");  
 			content.style.position = "absolute";   
-			content.style.margin = "10px"; 
+			content.style.margin = "0px"; 
 			content.style.width = "370px";
 			content.style.height = "119px";
-		  	content.innerHTML = '<h1>Yellowskyscraper HQ</h1>'+ 
-								'<h2>CEO James S. Hovell</h2>'+
-						    	'<p>office@yellowskyscraper.com</p>';
+		  	content.innerHTML = "<h3>Headquarters</h3><p>Swing on by and we'll share some of our coffee <br>with you. Or, <a href='mailto:office@yellowskyscraper.com?subject=Salutations'>office@yellowskyscraper.com</a></p>";
 						                       
 			div.appendChild(img);
 			div.appendChild(content);                       
@@ -149,12 +147,12 @@
 		</div>
 
 		<div class="row">
-			<!-- <div class="twelvecol">
+			<div class="twelvecol">
 				<div class="mapcontainer">
 					<div id="mapoverlay"></div>
 					<div id="mapplet"></div>
 				</div>  
-			</div> -->
+			</div>
 		</div>
 	</section>
 

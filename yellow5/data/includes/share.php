@@ -11,6 +11,5 @@
                                                                                                                              
 	echo "<a href='http://www.facebook.com/sharer.php?u=$url &t=$title' target='_blank'><img src='data/img/ico_facebook.jpg' /></a>";
 	echo "<a href='http://twitter.com/home?status=$title $url' target='_blank'><img src='data/img/ico_twitter.jpg' /></a>";
-	echo "<a href='http://digg.com/submit?url=$url' target='_blank'><img src='data/img/ico_digg.jpg' /></a>";
-	echo "<a href='http://www.stumbleupon.com/submit?url=$url' target='_blank'><img src='data/img/ico_stumbleupon.jpg' /></a> ";	 
+	echo "<a href='http://digg.com/submit?url=$url' target='_blank'><img src='data/img/ico_digg.jpg' /></a>";	 
 ?>

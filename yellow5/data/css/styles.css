@@ -12,7 +12,7 @@
 
 	a {
 		text-decoration:none;
-		color: #333;
+		color: #000;
 	}
 	
 	p {
@@ -150,14 +150,19 @@
 
 	.share-me {
 		float:right;
-		background-color: #ddd;
-		border-left: 1px solid #ccc;
-		width:96px;
+		width:102px;
 		height:26px;
 	}
+
 	.share-me img{
-		margin-left: 3px;
-		margin-top: 3px;
+		margin-left: 6px;
+		margin-top: 0;
+	}
+
+	.share-me img:hover{
+		-moz-opacity:.80;
+		filter:alpha(opacity=80);
+		opacity:.80;
 	}
 
 	.link-to-microsite {
@@ -217,6 +222,37 @@
 	.firstup {
 		margin-top: 100px;
 	}
+/*///////////////////////////////////////////////////////////|
+/////////////////////////////////////////////////////////////|*/
+
+	.tab_images .threecol img {
+
+	}
+
+	.tab_images .threecol h3 {
+		margin: 2px 0 0 0;
+	}
+
+	.tab_images .threecol p {
+		margin: 0 0 0 0;
+		padding: 0 5px 8px 10px;
+	}
+
+	.tab_images .threecol:hover, .tab_images .current_tab {
+		cursor:pointer;
+		background-color:#eee;
+	}
+
+	.tab_images .threecol:hover h3, .tab_images .current_tab {
+		color:#000;
+	}
+
+	 .tab_images .current_tab:hover {
+		cursor:default;
+	}
+
+/*///////////////////////////////////////////////////////////|
+/////////////////////////////////////////////////////////////|*/
 
 	.thumbnails .fourcol h3 {
 		margin: 4px 0 0 0;
@@ -228,9 +264,9 @@
 	}
 
 	.thumbnails .fourcol img{
-		-moz-opacity:1.0; 
+/*		-moz-opacity:1.0; 
 		filter:alpha(opacity=800); 
-		opacity:1.0;
+		opacity:1.0;*/
 	}
 
 	.thumbnails .fourcol:hover{
@@ -240,62 +276,41 @@
 	}
 
 	.thumbnails .fourcol:hover img{
-		-moz-opacity:.80;
+/*		-moz-opacity:.80;
 		filter:alpha(opacity=80);
-		opacity:.80;
+		opacity:.80;*/
 	}
+
+/*///////////////////////////////////////////////////////////|
+/////////////////////////////////////////////////////////////|*/
+/* Responsive iFrame */
 
 	#mapcontainer { 
 		background-color: #000;
 		position: relative;   
-		width: 926px;
-		height: 400px;       
+	    width: 100%;
+		height: 300px;       
 	}   
 
-	#mapplet { 
-		border: 1px solid #000000;           
-		width: 926px;
-		height: 400px;  
-		margin-left: 1px;  
-		margin-bottom: 10px; 
+	#mapplet {   
+	    width: 100%;
+		height: 300px;  
+		margin:0px; 
 		z-index: 0;
-	}   
-
-	#mapplet h1{ 
-   		font-family: GeorgiaBoldItalic;  
-		font-size: 14px;    
-		width:auto;     
-		height:auto;  
-	    margin-left: 2px;
 	}  
 
-	#mapplet h2{ 
-		font-family: GeorgiaBold;   
-		font-size: 10px;  	    
-		width:auto;     
-		height:auto;   
-	    margin-top: 6px;
-	    margin-left: 3px; 
-	}
+	#mapplet:hover h3, #mapplet:hover p{   
+		cursor:default;
+	}  
 
-	#mapplet p{ 
-		font-size: 10px;       
-		width:auto;     
-		height:auto;  
-	    margin-left: 3px;
-	}     
+	#mapplet h3{   
+		margin:7px 0 0 0;
+	}  
 
-	#mapoverlay { 
-		background-color: #FFF;  
-		position: absolute;   
-		opacity:0.0;
-		filter:alpha(opacity=0);  
-		margin-top: 1px;  
-		margin-left: 2px;      
-		width: 926px;
-		height: 400px;    
-		z-index: 1;
-	}	
+	#mapplet p{   
+		font-size: 12px;
+		line-height: 15px;
+	}      
 
 /* ============================= */
 /* ! Layout for mobile version   */

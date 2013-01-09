@@ -53,29 +53,72 @@
 
 	<section>
 		<div class="row">
-			<div class="sevencol bodycopy">
+			<div class="sixcol bodycopy">
 				<h2>Thousands of years ago in the future.</h2>
 				<p>Lending the Bay Model—a large topographic relief of San Francisco and the Bay Area—to a Geological study exploring the tectonic boundary that San Francisco is so intimately acquainted. The simple idea is to provide an entry point into the complex forces at work beneath our feet, the very forces that have governed the shaping of our seas and continents. This entry point is made through a glimpse into our local geological foundation and the currents that are constantly forming it. An exploration of the very foundation we build upon, and the timescales unconcerned of us.</p>
-				<br>
-				<br>
-
-				<img src="data/projects/BayAreaModel/image1.jpg">
-				<img src="data/projects/BayAreaModel/image4.jpg">
-				<img src="data/projects/BayAreaModel/image6.jpg">
-				<img src="data/projects/BayAreaModel/image3.jpg">
-				<img src="data/projects/BayAreaModel/image5.jpg">
 			</div>
-			<div class="fivecol last">
-				<img src="data/projects/BayAreaModel/image7.jpg">
-				<img src="data/projects/BayAreaModel/image2.jpg">
-				<img src="data/projects/BayAreaModel/image10.jpg">
-				<img src="data/projects/BayAreaModel/image8.jpg">
-				<img src="data/projects/BayAreaModel/image9.jpg">
+			<div class="sixcol last">
 			</div>
 		</div>
 	</section>
 
+	<section>
+		<div class="row">
+			<div class="twelvecol divider-line">
+			</div>
+		</div>
 
+		<div class="row tab_images">
+			<div class="threecol current_tab">
+				<img src="data/projects/BayAreaModel/tab1.jpg">
+				<h3>The Bay Area Model</h3>
+				<p>A line or two of text</p>
+			</div>
+
+			<a href="DynamicEarth.php">
+				<div class="threecol">
+					<img src="data/projects/BayAreaModel/tab2.jpg">
+					<h3>Dynamic Earth</h3>
+					<p>A line or two of text</p>
+				</div>
+			</a>
+
+			<a href="AnOrientation.php">
+				<div class="threecol">
+					<img src="data/projects/BayAreaModel/tab3.jpg">
+					<h3>An Orientation</h3>
+					<p>A line or two of text</p>
+				</div>
+			</a>
+
+			<a href="TheGroundBeneathUs.php">
+				<div class="threecol last">
+					<img src="data/projects/BayAreaModel/tab4.jpg">
+					<h3>The Ground Beneath Us</h3>
+					<p>A line or two of text</p>
+				</div>
+			</a>
+		</div>
+
+		<div class="row">
+			<div class="twelvecol divider-line">
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<div class="row">
+			<div class="sevencol bodycopy">
+				<img src="data/projects/BayAreaModel/image1.jpg">
+				<img src="data/projects/BayAreaModel/image7.jpg">
+			</div>
+			<div class="fivecol last">
+				<img src="data/projects/BayAreaModel/image2.jpg">
+				<img src="data/projects/BayAreaModel/image10.jpg">
+				<img src="data/projects/BayAreaModel/image8.jpg">
+			</div>
+		</div>
+	</section>
 
 	<section>
 		<div class="row">
