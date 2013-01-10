@@ -34,7 +34,7 @@
 	<section id="first">
 		<div class="row">
 			<div class="twelvecol work-detail">
-				<h1>Bay Area Model</h1>
+				<h1>TheBay Area Model</h1>
 				<p>Alas; Time stays, we go!</p>
 			</div>
 		</div>
