@@ -35,7 +35,7 @@
 		<div class="row">
 			<div class="twelvecol work-detail">
 				<h1>ArtHERE</h1>
-				<p>Connecting Spaces and Art, for crowd-sourced urban revitalization.</p>
+				<p>Connecting Spaces and Art</p>
 			</div>
 		</div>
 	</section>
@@ -43,7 +43,7 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>November 2010 | Online Utility</p>
+				<p>November 2010 | On-line Utility</p>
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>
@@ -55,26 +55,32 @@
 		<div class="row">
 			<div class="sixcol bodycopy">
 				<h2>Single Art? Eligible Space? This is the site for you.</h2>
-				<p>What brought this project about? Along Market Street in downtown San Francisco there is an overabundance of underutilized space, causing a loss of community and economic opportunity. We imagined these spaces being put to better use.</p><br>
 
-				<p>Now, imagine you’re a space owner or an artist that would like to see this done. Depending on the project, You would first have to go through a lengthy application process, followed by months of waiting, only to gain entry into additional hearings and permitting discussions. On top of this, we’re all dealing with: shrinking budgets, overworked staff, and often limited community participation. It could very well take a year to see any result at all.</p><br>
-
-				<p>So we asked, could an online platform streamline and make effective the decision making process, ease the exchange of information amongst those involved, and make a complicated matter accessible? Thus inviting more people to participate? Could we empower and transform a community by matching under-used public urban spaces with the placement of art and cultural projects? We believe that an application like this means economic development, cost savings, increased awareness, democratic </p><br>
-
+				<p>What brought this project about? Well, you see all along Market Street in downtown San Francisco there's an overabundance of underutilized space, causing a loss of community and economic opportunity. This is an endemic not only of San Francisco but many other urban areas around the country. And with those involved in the good fight; we have shrinking budgets, overworked staff, limited community participation, and inefficient communications between agencies, stakeholders, and constituents. Could we empower and transform a community by matching under-used public urban spaces with the placement of art and cultural projects?</p>
+				
+				<br>
+				
+				<p>So we simply set out to make these spaces more available for better use. We imagined something that would cut through the lengthy application processes, hearings, and permitting discussions. We envisioned a tool that could utilize modern capabilities, an on-line platform that could streamline and make effective the decision making process, ease the exchange of information amongst those involved, and make a complicated matter accessible. Thus inviting more people to participate.Ultimately; it's going to be faster, and it's going to engage a broader community.</p>
+				
+				<br>
 			</div>
 
 			<div class="sixcol bodycopy last">
-
-				<p>empowerment, and placemaking. Ultimately; it’s going to be faster, and it’s going to engage a broader community.</p>
-				<br>
 				<h2>What We Built</h2>
-				<p>An online platform that allows the community and organizations within them to post available Spaces and Proposals for what to do with those spaces. Once uploaded the community can then suggest matches and provide support.</p><br>
 
-				<p>Spaces are owned or found; they can be empty lots, store fronts, alleyways, community centers, or living rooms.</p><br>
-				 
-				<p>Proposals are murals, exhibitions, performances, or even, innovative experiments yet to be thought of. The idea is that these spaces are not only canvases to be drawn on, but micro platforms for community experimentation and innovation.</p><br>
-				 
-				<p>We believe open online platform can empower not only the general public but organizations, community groups, and property owners.</p>
+				<p>An on-line platform that allows the community and organizations within them to post available Spaces and Proposals for what to do with those spaces. Once uploaded the community can then suggest matches and provide support.</p>
+
+				<br>
+
+				<p><strong>Spaces</strong> are owned or found; they can be empty lots, store fronts, alleyways, community centers, or living rooms.</p>
+				
+				<br>
+
+				<p><strong>Proposals</strong> are murals, exhibitions, performances, or even, innovative experiments that have yet to be thought of. The idea is that these spaces are not only canvases to be drawn on, but micro platforms for community experimentation and innovation.</p>
+				
+				<br>
+
+				<p>We believe an open on-line platform can empower not only the general public but organizations, community groups, and property owners.</p>
 			</div>
 		</div>
 	</section>

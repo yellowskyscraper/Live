@@ -35,7 +35,7 @@
 		<div class="row">
 			<div class="twelvecol work-detail">
 				<h1>The Ground Beneath Us</h1>
-				<p>Sub Title.</p>
+				<p>Earthquake Hazards</p>
 			</div>
 		</div>
 	</section>
@@ -43,7 +43,7 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>November 2010 | Data Visualization | Made at the Exploratorium</p>
+				<p>November 2010 | Cartography | Made at the <a href="http://www.exploratorium.edu/" target="_blank">Exploratorium</a></p>
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>
@@ -54,10 +54,20 @@
 	<section>
 		<div class="row">
 			<div class="sixcol bodycopy">
-				<h2>Clever Thing</h2>
-				<p>Lending The Bay Area Model—a large topographic relief of San Francisco and the Bay Area—to a Geological study exploring the tectonic boundary that San Francisco is so intimately acquainted. The simple idea is to provide an entry point into the complex forces at work beneath our feet, the very forces that have governed the shaping of our seas and continents. This entry point is made through a glimpse into our local geological foundation and the currents that are constantly forming it. An exploration of the very foundation we build upon, and the timescales unconcerned of us.</p>
+				<h2>Civilization exists by geological consent, subject to change without notice.</h2>
+
+				<p>The Bay Area Model is a large topographic impression of the Greater San Francisco Bay Area. The routed maple surface is coated in a white semi-translucent polyurethane, transforming the features of the landscape into a projection surface. A blank slate to view a variety of subjects. In this visualization we explore the stability of the ground we've settled and call home.</p>
+
+				<br>
+
+				<p>The Ground Beneath Us, or what was later to be called Earthquake Hazards, is a sequence that describes the nature of the ground under us. Geologically the area is a Delta, the product of running water, anything that isn't a mountain or hill is sedimentary in birth. Naturally we've settled these flat areas, we've also filled much waterfront with sand, or land-fill, to provide us with more land to settle. All of which is subject to <a href="http://geomaps.wr.usgs.gov/sfgeo/liquefaction/aboutliq.html">liquefaction</a> in a major seismic event.</p>
+
+				<br>
 			</div>
-			<div class="sixcol last">
+			<div class="sixcol bodycopy last">
+				<h2>The Sequence:</h2>
+
+				<p>This visualization walks the view through what different zones of risk are in areas that are susceptible to liquefaction, then displaying the areas we have to readily settled, concluding on infrastructural phenomena in relation to the fault lines and direction of crustal deformation.</p>
 			</div>
 		</div>
 	</section>
@@ -73,7 +83,7 @@
 				<div class="threecol">
 					<img src="data/projects/BayAreaModel/tab1.jpg">
 					<h3>The Bay Area Model</h3>
-					<p>A line or two of text</p>
+					<p>Measuring the shadows of the earth.</p>
 				</div>
 			</a>
 
@@ -81,7 +91,7 @@
 				<div class="threecol">
 					<img src="data/projects/BayAreaModel/tab2.jpg">
 					<h3>Dynamic Earth</h3>
-					<p>A line or two of text</p>
+					<p>Thousands of years ago in the future.</p>
 				</div>
 			</a>
 
@@ -89,14 +99,14 @@
 				<div class="threecol">
 					<img src="data/projects/BayAreaModel/tab3.jpg">
 					<h3>An Orientation</h3>
-					<p>A line or two of text</p>
+					<p>For it is never only about the thing itself.</p>
 				</div>
 			</a>
 
 			<div class="threecol current_tab last">
 				<img src="data/projects/BayAreaModel/tab4.jpg">
 				<h3>The Ground Beneath Us</h3>
-				<p>A line or two of text</p>
+				<p>Civilization exists by geological consent.</p>
 			</div>
 		</div>
 

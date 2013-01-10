@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Bay Area Model &middot; Yellowskyscraper</title>
+	<title>Dynamic Earth on the Bay Area Model &middot; Yellowskyscraper</title>
 
 	<?php include 'data/includes/header.php'; ?>
 
@@ -43,7 +43,7 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>November 2010 | Data Visualization | Made at the Exploratorium</p>
+				<p>November 2010 | Cartography | Made at the <a href="http://www.exploratorium.edu/" target="_blank">Exploratorium</a></p>
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>
@@ -54,10 +54,18 @@
 	<section>
 		<div class="row">
 			<div class="sixcol bodycopy">
-				<h2>Tiny readjustments</h2>
-				<p>Lending The Bay Area Model—a large topographic relief of San Francisco and the Bay Area—to a Geological study exploring the tectonic boundary that San Francisco is so intimately acquainted. The simple idea is to provide an entry point into the complex forces at work beneath our feet, the very forces that have governed the shaping of our seas and continents. This entry point is made through a glimpse into our local geological foundation and the currents that are constantly forming it. An exploration of the very foundation we build upon, and the timescales unconcerned of us.</p>
+				<h2>The Earth's fixed surface flee</h2>
+
+				<p>The Bay Area Model is a large topographic impression of the Greater San Francisco Bay Area. The routed maple surface is coated in a white semi-translucent polyurethane, transforming the features of the landscape into a projection surface. A blank slate to view a variety of subjects. In this piece, we lent the Model to a Geological study exploring the tectonic boundary that San Francisco is so intimately acquainted. The San Andreas.</p>
+
+				<br>
+
+				<p>Dynamic Earth is an entry point into the complex forces at work beneath our feet, the very forces that have governed the shaping of our seas and continents. This is made through a glimpse into our local fault system, the geological foundation, and the currents that are constantly forming its beauty. Now, San Francisco is no new comer to earthquakes, in fact we've been ravaged by several. And though we hear about large quakes, most above a magnitude 4, we seldom hear of all of the tiny, comparably silent readjustments that happen every hour, all around us. It's a wondrous thought that the stone beneath us&mdash;in timescales unfathomable&mdash;was formed and shaped like a pliable dough.</p>
+
+				<br>
 			</div>
-			<div class="sixcol last">
+			<div class="sixcol bodycopy last">
+				<p>Dynamic Earth is accompanied by a sister piece called Finding Fault Lines. Where Dynamic Earth is a live representation of <a href="http://earthquake.usgs.gov/earthquakes/map/">earthquakes around the world</a> up to the hour, displaying the shear activity of our earths surface, that a seemingly static landscape was wrought over time and continues to be formed. Finding Fault Lines is an interactive archive (Geo-located seismic data collected by <a href="http://www.usgs.gov/">USGS</a>) that spans from 1973 to the present. The Archive illuminates how early Seismologists were able to deduce the locations fault lines, by measuring and recording earthquake epicenters over a long period of time, they we able define the areas that corresponded to the faults.</p>
 			</div>
 		</div>
 	</section>
@@ -73,21 +81,21 @@
 				<div class="threecol">
 					<img src="data/projects/BayAreaModel/tab1.jpg">
 					<h3>The Bay Area Model</h3>
-					<p>A line or two of text</p>
+					<p>Measuring the shadows of the earth.</p>
 				</div>
 			</a>
 
 			<div class="threecol current_tab">
 				<img src="data/projects/BayAreaModel/tab2.jpg">
 				<h3>Dynamic Earth</h3>
-				<p>A line or two of text</p>
+				<p>Thousands of years ago in the future.</p>
 			</div>
 
 			<a href="AnOrientation.php">
 				<div class="threecol">
 					<img src="data/projects/BayAreaModel/tab3.jpg">
 					<h3>An Orientation</h3>
-					<p>A line or two of text</p>
+					<p>For it is never only about the thing itself.</p>
 				</div>
 			</a>
 
@@ -95,7 +103,7 @@
 				<div class="threecol last">
 					<img src="data/projects/BayAreaModel/tab4.jpg">
 					<h3>The Ground Beneath Us</h3>
-					<p>A line or two of text</p>
+					<p>Civilization exists by geological consent.</p>
 				</div>
 			</a>
 		</div>
