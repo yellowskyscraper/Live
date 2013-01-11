@@ -16,6 +16,20 @@
 	
 	<?php include 'data/includes/header.php'; ?>
 
+	<link rel="stylesheet" href="data/js/jquery-flickr-gallery/jquery-flickr.css" type="text/css" charset="utf-8">
+	<script src="http://www.google.com/jsapi"></script>
+	<script>google.load("jquery", "1");</script>
+	<script src="data/js/jquery-flickr-gallery/jquery-flickr-gallery.js" type="text/javascript" charset="utf-8"></script>
+	
+	<script>
+		$(document).ready(function() {
+		    $('#flickr_div').flickrGallery({
+				"flickrId" : "7296286@N03",
+				"flickrKey" : "9487eab6d4e67ec44054bf55ec692929"
+			});
+		});
+	</script>
+	
 	<!--Deleted or special cases embedded styles-->
 	<style type="text/css">
 	
@@ -45,6 +59,8 @@
 		<div class="row">
 			<div class="tencol landing-header">
 				<p>Soon to come! Yellowskyscraper News Room; up to date observations and happenings, out of date ruminations and hindsight, future predictions and asperations. Why? It's simple, we're already doing it.</p>
+
+				<p>Until we get this News Room up and running please enjoy a selection of recent photos. We're always out there, always observing things.</p>
 			</div>
 			<div class="twocol last">
 
@@ -53,6 +69,7 @@
 
 		<div class="row">
 			<div class="twelvecol">
+				<div id="flickr_div"></div> 
 			</div>
 		</div>
 	</section>
