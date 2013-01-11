@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Bay Area Model &middot; Yellowskyscraper</title>
+	<title>An Orientation on the Bay Area Model &middot; Yellowskyscraper</title>
 
 	<?php include 'data/includes/header.php'; ?>
 
@@ -35,7 +35,7 @@
 		<div class="row">
 			<div class="twelvecol work-detail">
 				<h1>An Orientation</h1>
-				<p>Sub Title.</p>
+				<p>Welcome to the Bay Area Model</p>
 			</div>
 		</div>
 	</section>
@@ -43,7 +43,7 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>November 2010 | Data Visualization | Made at the Exploratorium</p>
+				<p>November 2010 | Cartography | Made at the <a href="http://www.exploratorium.edu/" target="_blank">Exploratorium</a></p>
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>
@@ -54,10 +54,20 @@
 	<section>
 		<div class="row">
 			<div class="sixcol bodycopy">
-				<h2>Clever Thing</h2>
-				<p>Lending The Bay Area Model—a large topographic relief of San Francisco and the Bay Area—to a Geological study exploring the tectonic boundary that San Francisco is so intimately acquainted. The simple idea is to provide an entry point into the complex forces at work beneath our feet, the very forces that have governed the shaping of our seas and continents. This entry point is made through a glimpse into our local geological foundation and the currents that are constantly forming it. An exploration of the very foundation we build upon, and the timescales unconcerned of us.</p>
+				<h2>For it is never only about the thing itself; it is also about the image one obtains of a thing.</h2>
+				
+				<p>The Bay Area Model is a large topographic impression of the Greater San Francisco Bay Area. The routed maple surface is coated in a white semi-translucent polyurethane, transforming the features of the landscape into a projection surface. A blank slate to view a variety of subjects. In this piece, we were concerned with simply orienting yourself to an area.</p>
+
+				<br>
+
+				<h2>Now, to Finding Yourself</h2>
+
+				<p>How much is necessary to find yourself on a map or in the wilderness jungle itself? What does orienting yourself entail? What's visible plays an important role, how well you might know the area helps, and the cardinal of all orientation, finding North. <em>An Orientation</em> explores a variety landmarks, from the physical to the imaginary, in varying degrees of detail, to aid in the viewers comfortable acclimation to the area.</p>
+
+				<br>
 			</div>
-			<div class="sixcol last">
+			<div class="sixcol bodycopy last">
+				<p>In the literal sense of orienting the visualization starts with our surroundings, with significant markers of the landscape. Beginning with the bodies of water from small to large, from brook, to river, to ocean. Then terrestrial bodies come, from valley, to range, to continent. After these we have our concrete ways across the landscape, influenced by natural or animal paths we have our circuits of trade and settlement. This sequence of introduction is punctuated with all mighty cardinal point to North. Once concluded the visualization cycles through a sampling of content, other visualizations such as maps, videos, or artistic works. All for the Bay Area Model itself.</p>
 			</div>
 		</div>
 	</section>
@@ -95,7 +105,7 @@
 				<div class="threecol last">
 					<img src="data/projects/BayAreaModel/tab4.jpg">
 					<h3>The Ground Beneath Us</h3>
-					<p>Subject to change without notice.</p>
+					<p>Civilization exists by geological consent.</p>
 				</div>
 			</a>
 		</div>

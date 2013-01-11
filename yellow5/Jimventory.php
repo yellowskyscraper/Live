@@ -53,20 +53,21 @@
 	<section>
 		<div class="row">
 			<div class="sixcol bodycopy">
-				<h2>My Desk at 6:00pm on 9.21.2008</h2>
-				<p>Have you ever stopped and thought about how many things you own, I mean really every single thing in your everyday space and why you've got it? I found that within the clutter many of my things go predominantly unused, even forgotten. But why then do I keep so much that I don't really use or need, what compeled me to hang on to all this clutter? Perhaps it's more about the emotional relationship we have with our objects, than it is with their physical attributes. These relationships can be as simple as a utility or a fascination, or as complex as a memory or a deep sentiment. Either large or small, utilitarian or sentimental, this relationship seems to prevail over the tangible object itself.</p>
+				<h2>My Desk at 6:00 pm on 9.21.2008</h2>
+
+				<p>Have you ever stopped and thought about how many things you own, I mean really every single thing in your everyday space and why you've got it there? I found that within the clutter, many of my things went predominantly unused, even forgotten. But why then do I keep so much that I don't really use or need, what compels me to hang on to all my clutter? Perhaps it's more about the emotional relationship we have with our objects, than it is with their physical attributes. Relationships as simple as a utility or a fascination, or as complex as a memory or a deep sentiment. Either large or small, utilitarian or sentimental, this relationship seems to prevail over the tangible object itself. It is these attachments we have with our surroundings that I have become interested. Realizing that I had all these things for more than just there material value, I asked, could these things have the capacity to define me if I looked at them collectively?</p>
+
 				<br>
 
-				<p>It is these attachments we have with our surroundings that I have become interested. It was realizing that I had all these things for more than just there material value, that inspired something. I asked, could these things have the capacity to define me if looked at collectively?</p>
+				<p>Perhaps while looking into the very reasons we keep our clutter, one could possibly glean something about a person. Through the process of inventory I used to catalog the very things in my work space, I ask the user to participate in my inventory to learn a little something more about me. This is the documentation of the relationships I have with the things I own, this is my Jimventory.</p>
+
+				<br>
 			</div>
 
 			<div class="sixcol bodycopy last">
-				<p> Perhaps while looking into the very reasons we keep our clutter, one could possibly glean something about any person. Through the process of inventory I used to catalogue the very things in my work space, I ask the user to participate in my inventory to learn a little something more about me. This is the documentation of the relationships I have with the things I own, this is my Jimventory.</p>
+				<h2>The Experience:</h2>
 
-				<br>
-				
-				<h2>Interaction:</h2>
-				<p>Simple wooden blocks, 60 in total, each representing a single item that happened to be sitting on my desk on a random Saturday afternoon at 6:00pm. Each block is accompanied by unique bar code, associating the block (the representational object) with the reason I have it. A barcode scanner is set up nearby, so the user can grab and scan my blocks to reveal the relationships I have with each thing.</p>
+				<p>Simple wooden blocks, 60 in total, each representing a single item that happened to be sitting on my desk on a random Saturday afternoon at 6:00 pm. Each block is accompanied by unique bar code, associating the block (the representational object) with the reason I have it. A bar code scanner is set up nearby, so the user can grab and scan my blocks to reveal the relationships I have with each thing.</p>
 			</div>
 		</div>
 	</section>

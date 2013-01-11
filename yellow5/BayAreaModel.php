@@ -35,7 +35,7 @@
 		<div class="row">
 			<div class="twelvecol work-detail">
 				<h1>TheBay Area Model</h1>
-				<p>Alas; Time stays, we go!</p>
+				<p>Measuring the shadows of the earth.</p>
 			</div>
 		</div>
 	</section>
@@ -43,7 +43,7 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>November 2010 | Data Visualization | Made at the Exploratorium</p>
+				<p>November 2010 | Exhibit &amp; Content Development | Made at the <a href="http://www.exploratorium.edu/" target="_blank">Exploratorium</a></p>
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>
@@ -54,8 +54,9 @@
 	<section>
 		<div class="row">
 			<div class="sixcol bodycopy">
-				<h2>Thousands of years ago in the future.</h2>
-				<p>Lending the Bay Model—a large topographic relief of San Francisco and the Bay Area—to a Geological study exploring the tectonic boundary that San Francisco is so intimately acquainted. The simple idea is to provide an entry point into the complex forces at work beneath our feet, the very forces that have governed the shaping of our seas and continents. This entry point is made through a glimpse into our local geological foundation and the currents that are constantly forming it. An exploration of the very foundation we build upon, and the timescales unconcerned of us.</p>
+				<h2>A Blank Slate</h2>
+
+				<p>The Bay Area Model is a large topographic impression of the Greater San Francisco Bay Area. The routed maple surface is coated in a white semi-translucent polyurethane, transforming the features of the landscape into a projection surface. A blank slate to view a variety of subjects. e.g. the ebb and flow of our ocean, the currents and patterns of our atmosphere, the geological makeup of the ground beneath our feet and those very forces that pushed it into being.</p>
 			</div>
 			<div class="sixcol last">
 			</div>
@@ -95,7 +96,7 @@
 				<div class="threecol last">
 					<img src="data/projects/BayAreaModel/tab4.jpg">
 					<h3>The Ground Beneath Us</h3>
-					<p>Subject to change without notice.</p>
+					<p>Civilization exists by geological consent.</p>
 				</div>
 			</a>
 		</div>

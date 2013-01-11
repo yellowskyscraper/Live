@@ -42,7 +42,7 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>January 2010 | Flash Web Site | Developed at OrdinaryKids.</p>
+				<p>January 2010 | Actionscript 3.0 Web Site | Developed at <a href="http://www.ordinarykids.com/" target="_blank">OrdinaryKids</a></p>
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>

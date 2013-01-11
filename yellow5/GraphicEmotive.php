@@ -34,7 +34,7 @@
 		<div class="row">
 			<div class="twelvecol work-detail">
 				<h1>Graphic Emotive</h1>
-				<p>Everyone has them & everyone uses them.</p>
+				<p>Everyone has them &amp; everyone uses them.</p>
 			</div>
 		</div>
 	</section>
@@ -54,8 +54,10 @@
 		<div class="row">
 			<div class="sevencol bodycopy">
 				<h2>The Story of Jonathan Barnbrook.</h2>
-				<p>A simple questioning of convention, an alteration or consideration of ones individual perception within his environment. Jonathan Barnbrook, Damien Hurst and Adbusters alike, consider  the conventional in new and interesting ways. Allowing for us to reflect upon the way in which we perceive information. With these cards I questioned the potential of a linear and complete read of a 'book'. I also considered the relationships between content and images. Abstracting their individual rolls away from the usual understanding of a book.</p>
 
+				<p>A simple questioning of convention, an alteration or consideration of ones individual perception within his environment. Jonathan Barnbrook, Damien Hurst and Adbusters alike, consider the conventional in new and interesting ways. Allowing for us to reflect upon the way in which we perceive information. With these cards I questioned the potential of a linear and complete read of a 'book'. I also considered the relationships between content and images. Abstracting their individual rolls away from the usual understanding of a book.</p>
+				
+				<br>
 				<br>
 
 				<img src="data/projects/GraphicEmotive/image6.jpg">

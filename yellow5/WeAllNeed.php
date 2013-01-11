@@ -43,7 +43,7 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>In Progress | November 2010 | Online Archive</p>
+				<p>November 2010 | Prototype | On-line Archive</p>
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>
@@ -55,9 +55,12 @@
 		<div class="row">
 			<div class="sevencol bodycopy">
 				<h2>Thoughts &amp; Needs</h2>
-				<p>What do you need? What do you think? These simple questions remind us that no matter how complex it gets, it's still about people, talking with people, and living with people. Because no matter how far we may find ourselves apart from one another, our similarities will always outweigh our differences. The aim of this project is to celebrate the shared human experiences of those that find themselves in the Tenderloin and those that don't. The neighborhood itself is unfortunately susceptible to one-sided reporting and dire data sets that only perpetuate these negative stereotypes. To balance this, We All Need is a data set that aims to remind us that there are people living in the Tenderloin, a simple fact that is easily overlooked. With this we hope a vivid portrait of the Tenderloin composed of the thoughts and needs of people interviewed on its streets will transcend neighborhood boundaries and inspire a meaningful conversation.</p>
+
+				<p>What do you <em>need</em>? What do you <em>think</em>? These simple questions remind us that no matter how complex it gets, it's still about people, talking with people, and living with people. Because no matter how far we may find ourselves apart from one another, our similarities will always outweigh our differences. The aim of this project is to celebrate the shared human experiences of those that find themselves in the Tenderloin and those that don't. The neighborhood itself is unfortunately susceptible to one-sided reporting and dire data sets that only perpetuate these negative stereotypes. To balance this, We <em>All</em> Need is a data set that aims to remind us that there are people living in the Tenderloin, a simple fact that is easily overlooked. With this we hope a vivid portrait of the Tenderloin composed of the thoughts and needs of people interviewed on its streets will transcend neighborhood boundaries and inspire a meaningful conversation.</p>
+
 				<br>
 				<br>
+				
 				<a href="http://tenderneeds.appspot.com/#intro" target="_blank"><div class="link-to-microsite link-a"><h3>Launch Prototype &raquo;</h3></div></a>
 				<img src="data/projects/WeAllNeed/image1.jpg">
 			</div>

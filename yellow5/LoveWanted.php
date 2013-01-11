@@ -54,12 +54,15 @@
 	<section>
 		<div class="row">
 			<div class="sixcol bodycopy">
-				<h2>Looking At Desires Underbelly</h2>
-				<p>An observation of a single form that our tireless search for companionship, physical gratification, and love can sometimes take. We all experience and understand longing and love subjectively, developing our own notions deeply rooted in collective expectation and secondly personal experience. Where, if you were to peek through the personals section of your local paper, you might find a different means to such satisfaction, such ends.</p> 
+				<h2>Is this Desires Underbelly?</h2>
+
+				<p>An observation of a single form that our tireless search for companionship, physical gratification, and love can sometimes take. We all experience and understand longing and love subjectively, developing our own notions deeply rooted in collective expectation and secondly personal experience. Where, if you were to peek through the personals section of your local paper, you might find a different means to such satisfaction, such ends.</p>
+
+				<br>
 			</div>
 
 			<div class="sixcol bodycopy last">
-				<p>Borrowing from the Metro Times of Detroit I wished to express this idea, that to a point, no matter how tall you build mans accomplishments and sophistication, no matter how "civilized" he becomes, he still is animal no less. So what is this kind of love, perhaps nothing, perhaps it's only a window through to the underbelly of our sexual desires, or maybe it's a window into a facet of ourselves, a facet that we rather keep hidden.</p>
+				<p>Borrowing from the Metro Times of Detroit I wished to express this idea, that to a point, no matter how tall you build mans accomplishments and sophistication, no matter how &ldquo;civilized&rdquo; he becomes, he still is animal no less. So what is this kind of love, perhaps nothing, perhaps it's only a window through to the underbelly of our sexual desires, or maybe it's a window into a facet of ourselves, a facet that we rather keep hidden.</p> 
 			</div>
 		</div>
 	</section>

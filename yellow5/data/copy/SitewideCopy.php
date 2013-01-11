@@ -54,10 +54,10 @@ Ordered Alphabetically.</p>
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
 <h1>An Orientation</h1>
-<p>For it is never only about the thing itself; it is also about the image one obtains of a thing.</p>
+<p>Welcome to the Bay Area Model</p>
 <p>November 2010 | Cartography | Made at the <a href="http://www.exploratorium.edu/" target="_blank">Exploratorium</a></p>
 
-<h2>Welcome to the Bay Area Model</h2>
+<h2>For it is never only about the thing itself; it is also about the image one obtains of a thing.</h2>
 
 <p>The Bay Area Model is a large topographic impression of the Greater San Francisco Bay Area. The routed maple surface is coated in a white semi-translucent polyurethane, transforming the features of the landscape into a projection surface. A blank slate to view a variety of subjects. In this piece, we were concerned with simply orienting yourself to an area.</p>
 
@@ -66,20 +66,19 @@ Ordered Alphabetically.</p>
 <p>How much is necessary to find yourself on a map or in the wilderness jungle itself? What does orienting yourself entail? What's visible plays an important role, how well you might know the area helps, and the cardinal of all orientation, finding North. <em>An Orientation</em> explores a variety landmarks, from the physical to the imaginary, in varying degrees of detail, to aid in the viewers comfortable acclimation to the area.</p>
 
 <p>In the literal sense of orienting the visualization starts with our surroundings, with significant markers of the landscape. Beginning with the bodies of water from small to large, from brook, to river, to ocean. Then terrestrial bodies come, from valley, to range, to continent. After these we have our concrete ways across the landscape, influenced by natural or animal paths we have our circuits of trade and settlement. This sequence of introduction is punctuated with all mighty cardinal point to North. Once concluded the visualization cycles through a sampling of content, other visualizations such as maps, videos, or artistic works. All for the Bay Area Model itself.</p>
-
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
 <h1>ArtHERE</h1>
-<p>Connecting Spaces and Art, for crowd-sourced urban revitalization.</p>
+<p>Connecting Spaces and Art.</p>
 <p>November 2010 | On-line Utility</p>
 
-<h2>Single Art? Eligible Space? This is the site for you.</h2>
+<h2>Single Art? Eligible Space? Then this is the site for you.</h2>
 
 <p>What brought this project about? Well, you see all along Market Street in downtown San Francisco there's an overabundance of underutilized space, causing a loss of community and economic opportunity. This is an endemic not only of San Francisco but many other urban areas around the country. And with those involved in the good fight; we have shrinking budgets, overworked staff, limited community participation, and inefficient communications between agencies, stakeholders, and constituents. Could we empower and transform a community by matching under-used public urban spaces with the placement of art and cultural projects?</p>
 
-<p>So we simply set out to make these spaces more available for better use. We imagined something that would cut through the lengthy application processes, hearings, and permitting discussions. We envisioned a tool that could utilize modern capabilities, an on-line platform that could streamline and make effective the decision making process, ease the exchange of information amongst those involved, and make a complicated matter accessible. Thus inviting more people to participate. Ultimately; it's going to be faster, and it's going to engage a broader community.</p>
+<p>So we simply set out to make these spaces more available for better use. We imagined something that would cut through the lengthy application processes, hearings, and permitting discussions. We envisioned a tool that could utilize modern capabilities, an on-line platform that could streamline and make effective the decision making process, ease the exchange of information amongst those involved, and make a complicated matter accessible. Thus inviting more people to participate.Ultimately; it's going to be faster, and it's going to engage a broader community.</p>
 
 <h2>What We Built</h2>
 
@@ -92,23 +91,21 @@ Ordered Alphabetically.</p>
 <p>We believe an open on-line platform can empower not only the general public but organizations, community groups, and property owners.</p>
 
 <!--Thumbnail copy-->
-<p>An on-line platform that allows the community and the organizations within them to post available Spaces and Proposals for what to do with those spaces.</p>
-
+<p>Connecting Spaces and Art, for crowd-sourced urban revitalization. An on-line platform that allows the community and organizations within them to post available Spaces and Proposals for what to do with those spaces. Faster, stronger.</p>
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
 <h1>Arts &amp; Scraps</h1>
 <p>Please, give us your scrap.</p>
-<p>February 2008 | Promotional Mail Outs</p>
+<p>February 2008 | Promotional Ephemera</p>
 
 <h2>Art from Scraps</h2>
 
 <p>Arts &amp; Scraps provides children with creative experiences using recycled industrial scraps to actively involve them in learning, increase their confidence and encourage independent thinking. This in mind these promotional solutions are meant to align with the non-wast, second life ideals of the Arts &amp; Scraps organization. The designs are minimal in form and printed on recycled industrial papers. Either processed recycled paper or straight up found materials, such as graphs, schematics, blue prints and so on. The three themes represented throughout the series are a 'Call for Donation', a 'Fabric Sale', and a 'Self Awareness' promotional. The series consists of six deluxe post cards, a 18x24 in poster, a mailer with premium and a micro site.</p>
 
 <!--Thumbnail copy-->
-<p>Arts &amp; Scraps provides children with creative experiences using recycled industrial scraps to actively engage them in learning and to develop creativity. </p>
-
+<p>Promotional ephemera designed for Arts &amp; Scraps, an organization that provides creative learning experiences for children using recycled industrial scraps. Teaching that we <em>can</em> use what others deem no longer useful.</p>
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
@@ -122,8 +119,7 @@ Ordered Alphabetically.</p>
 <p>The Bay Area Model is a large topographic impression of the Greater San Francisco Bay Area. The routed maple surface is coated in a white semi-translucent polyurethane, transforming the features of the landscape into a projection surface. A blank slate to view a variety of subjects. e.g. the ebb and flow of our ocean, the currents and patterns of our atmosphere, the geological makeup of the ground beneath our feet and those very forces that pushed it into being.</p>
 
 <!--Thumbnail copy-->
-<p>The Bay Area Model is a large topographic impression of the Greater San Francisco Bay Area. The routed maple surface is coated in a white semi-translucent polyurethane, transforming the features of the landscape into a projection surface.</p>
-
+<p>Content development for a a large topographic model of the Greater San Francisco Bay Area. A beautiful blank slate to witness the ebb and flow of our oceans, the currents in the air, the geological makeup of the ground beneath our feet, &amp;c.</p>
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
@@ -141,6 +137,7 @@ Ordered Alphabetically.</p>
 <p>The system for the Detroit Zoological Society is comprised of five graphic marks symbolizing the regions within the Park's boundaries and a logotype embodying the members of the Detroit Zoological Society; the Belle Island Aquarium, and the Zoological Park.</p>
 
 <!--Thumbnail copy-->
+<p>Identity system that describes the function of a Zoo as a sort of map with which we can navigate the world's biogeographical regions. The entire world at a glance; the tundra, forests, grasslands, deserts, and oceans!</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -157,9 +154,6 @@ Ordered Alphabetically.</p>
 <p>Dynamic Earth is an entry point into the complex forces at work beneath our feet, the very forces that have governed the shaping of our seas and continents. This is made through a glimpse into our local fault system, the geological foundation, and the currents that are constantly forming its beauty. Now, San Francisco is no new comer to earthquakes, in fact we've been ravaged by several. And though we hear about large quakes, most above a magnitude 4, we seldom hear of all of the tiny, comparably silent readjustments that happen every hour, all around us. It's a wondrous thought that the stone beneath us&mdash;in timescales unfathomable&mdash;was formed and shaped like a pliable dough.</p>
 
 <p>Dynamic Earth is accompanied by a sister piece called Finding Fault Lines. Where Dynamic Earth is a live representation of <a href="http://earthquake.usgs.gov/earthquakes/map/">earthquakes around the world</a> up to the hour, displaying the shear activity of our earths surface, that a seemingly static landscape was wrought over time and continues to be formed. Finding Fault Lines is an interactive archive (Geo-located seismic data collected by <a href="http://www.usgs.gov/">USGS</a>) that spans from 1973 to the present. The Archive illuminates how early Seismologists were able to deduce the locations fault lines, by measuring and recording earthquake epicenters over a long period of time, they we able define the areas that corresponded to the faults.</p>
-
-<!--Thumbnail copy-->
-
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
@@ -173,6 +167,7 @@ Ordered Alphabetically.</p>
 <p>A simple questioning of convention, an alteration or consideration of ones individual perception within his environment. Jonathan Barnbrook, Damien Hurst and Adbusters alike, consider the conventional in new and interesting ways. Allowing for us to reflect upon the way in which we perceive information. With these cards I questioned the potential of a linear and complete read of a 'book'. I also considered the relationships between content and images. Abstracting their individual rolls away from the usual understanding of a book.</p>
 
 <!--Thumbnail copy-->
+<p>What is a book anyhow? Linear? Bah! With these cards I explored the potential of a non-linear and complete read of a &ldquo;book&rdquo;. Graphic Emotive is the re-considering of a story of Jonathan Barnbrook, Damien Hurst, and Adbusters.</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -183,6 +178,7 @@ Ordered Alphabetically.</p>
 <p>January 2010 | Actionscript 3.0 Web Site | Developed at <a href="http://www.ordinarykids.com/" target="_blank">OrdinaryKids</a></p>
 
 <!--Thumbnail copy-->
+<p></p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -196,13 +192,14 @@ Ordered Alphabetically.</p>
 
 <p>Have you ever stopped and thought about how many things you own, I mean really every single thing in your everyday space and why you've got it there? I found that within the clutter, many of my things went predominantly unused, even forgotten. But why then do I keep so much that I don't really use or need, what compels me to hang on to all my clutter? Perhaps it's more about the emotional relationship we have with our objects, than it is with their physical attributes. Relationships as simple as a utility or a fascination, or as complex as a memory or a deep sentiment. Either large or small, utilitarian or sentimental, this relationship seems to prevail over the tangible object itself. It is these attachments we have with our surroundings that I have become interested. Realizing that I had all these things for more than just there material value, I asked, could these things have the capacity to define me if I looked at them collectively?</p>
 
-<p> Perhaps while looking into the very reasons we keep our clutter, one could possibly glean something about a person. Through the process of inventory I used to catalog the very things in my work space, I ask the user to participate in my inventory to learn a little something more about me. This is the documentation of the relationships I have with the things I own, this is my Jimventory.</p>
+<p>Perhaps while looking into the very reasons we keep our clutter, one could possibly glean something about a person. Through the process of inventory I used to catalog the very things in my work space, I ask the user to participate in my inventory to learn a little something more about me. This is the documentation of the relationships I have with the things I own, this is my Jimventory.</p>
 
 <h2>The Experience:</h2>
 
 <p>Simple wooden blocks, 60 in total, each representing a single item that happened to be sitting on my desk on a random Saturday afternoon at 6:00 pm. Each block is accompanied by unique bar code, associating the block (the representational object) with the reason I have it. A bar code scanner is set up nearby, so the user can grab and scan my blocks to reveal the relationships I have with each thing.</p>
 
 <!--Thumbnail copy-->
+<p>60 simple wooden blocks of ceder, each representing a single item that happened to be sitting on my desk on a random Saturday afternoon at 6:00 pm. Come play in my inventory and see if you can learn a little something about me.</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -226,6 +223,7 @@ Ordered Alphabetically.</p>
 <p>Each 'Little Blank Book' in the collection is a short examination, and together they form a collection of where I landed as an undergraduate, as a person. Specifically each Little Book is blank inside, with only a code and title on the cover indicating it's contents. In order to reveal the contents of the book, the user must first place it on the a nearby reader, where the contents are then displayed on the adjoining monitors. It is through this that the user must step in order to glean anything from my experiences, it is through my own relationship with digital and physical interactions that the user must brave in order to use.</p>
 
 <!--Thumbnail copy-->
+<p>Standing there at the end of an undergraduate I found that I was no longer in the things I created throughout my studies&#151;they seemed but strange relics in hindsight. So, in stead we have a showcase of reflection, over a showcase of production.</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -248,6 +246,7 @@ Ordered Alphabetically.</p>
 <p>For this a simple algorithm was written to detect changes in the environment sent in from a Dual-Axis Accelerometer, triggering the ebb and flow of the simulated emotional reaction of a heart beat.</p>
 
 <!--Thumbnail copy-->
+<p>What if things could feel? And then if they could what feelings would they have? I gave this little box one mode to perceive, movement and orientation. And one mean with which to express itself, a heartbeat of light and vibration.</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -264,6 +263,7 @@ Ordered Alphabetically.</p>
 <p>Borrowing from the Metro Times of Detroit I wished to express this idea, that to a point, no matter how tall you build mans accomplishments and sophistication, no matter how &ldquo;civilized&rdquo; he becomes, he still is animal no less. So what is this kind of love, perhaps nothing, perhaps it's only a window through to the underbelly of our sexual desires, or maybe it's a window into a facet of ourselves, a facet that we rather keep hidden.</p>
 
 <!--Thumbnail copy-->
+<p>Oh, the strange things we desire! Witness a single form that our tireless search for companionship, physical gratification, and love can sometimes take. This large scale print was designed with Love in mind.</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -280,6 +280,7 @@ Ordered Alphabetically.</p>
 <p>Noise is a simple utility application for the iPhone that generates noise to combat noise. Everyone knows of White Noise, but why stop there, it's certainly not my favorite variety of noise, so along come Pink and Brown to suit any mood or environment. More colors to come!</p>
 
 <!--Thumbnail copy-->
+<p>It was never knowing when I'd need to concentrate, always being stuck just too far from the peace and quiet of my wood trimmed study. It was the a constant need to focus through the noise of public commotion, it's from this that Noise came.</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -302,6 +303,7 @@ Ordered Alphabetically.</p>
 <p>Extracting from the essence of collaboration and the relationships formed from such cooperation, the Reactive Floor intends to engage users in a simple collaborative interaction. This will generate an experience that allows for the user to participate and build with others. The floor visualization will grow and form around its participants, making connections between users that otherwise might not have been made. Applying the idea of multiple parts in a whole metaphorically to the users experience, reinforcing idea of collaboration. This small scale prototype would eventually be considered for installation spaces in galleries or innovation showrooms.</p>
 
 <!--Thumbnail copy-->
+<p>With collaboration in mind a series of interactive and conceptual promotions were developed so that Bayer Material Sciences could reach out into the creative sector and invite collaboration and partnership.</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -309,7 +311,7 @@ Ordered Alphabetically.</p>
 
 <h1>ReDistraction (redis)</h1>
 <p>Technology! Save us from technology!</p>
-<p>April 2010 | Chrome Plug-In</p>
+<p>April 2010 | Chrome Plug-in</p>
 
 <h2>With time perhaps we wont need such things as these. We may be able to do them on our own someday.</h2>
 
@@ -320,6 +322,7 @@ Ordered Alphabetically.</p>
 <p>And we have it, ReDistraction was born. A simple plug-in for Chrome that detects a users navigation to Facebook, gently pushing (redirecting) the user on to something more fruitful. Something like TED, or Yale's Open Courses, or The New York Times. Anything other than Facebook.</p>
 
 <!--Thumbnail copy-->
+<p>Oh, the mountain of distraction the fathomless Internet can be. With Facebook on the very top of the mound, I sought to recover from an unhealthy addiction to this King of procrastination. This is as methadone is for heroin.</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -338,16 +341,17 @@ Ordered Alphabetically.</p>
 <p>The TenderVoice site is currently being used by the Tenderloin Tech Lab as a tool for introducing interactive web-based applications to new computer users. The project was developed as part of the <a href="http://citycentered.org/">City Centered Festival</a>, sponsored by the <a href="http://www.gaffta.org/">Gray Area Foundation for the Arts</a> and <a href="http://www.kqed.org/">KQED</a> in San Francisco. And Please view our sister project <a href="http://tendernoise.movity.com/">TenderNoise</a>, a companion site in our discussion about a neighborhood, while rich with resource and community, is rather the noisiest in the Bay Area.</p>
 
 <!--Thumbnail copy-->
+<p>A simple and easy to use website that indexes local organizations found throughout San Francisco's Tenderloin, not only highlighting the organizations themselves but the people that are responsible for their very being.</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
 <h1>The Ground Beneath Us</h1>
-<p>Civilization exists by geological consent, subject to change without notice.</p>
+<p>Earthquake Hazards</p>
 <p>November 2010 | Cartography | Made at the <a href="http://www.exploratorium.edu/" target="_blank">Exploratorium</a></p>
 
-<h2>Earthquake Hazards</h2>
+<h2>Civilization exists by geological consent, subject to change without notice.</h2>
 
 <p>The Bay Area Model is a large topographic impression of the Greater San Francisco Bay Area. The routed maple surface is coated in a white semi-translucent polyurethane, transforming the features of the landscape into a projection surface. A blank slate to view a variety of subjects. In this visualization we explore the stability of the ground we've settled and call home.</p>
 
@@ -356,9 +360,6 @@ Ordered Alphabetically.</p>
 <h2>The Sequence:</h2>
 
 <p>This visualization walks the view through what different zones of risk are in areas that are susceptible to liquefaction, then displaying the areas we have to readily settled, concluding on infrastructural phenomena in relation to the fault lines and direction of crustal deformation.</p>
-
-<!--Thumbnail copy-->
-
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
@@ -374,6 +375,7 @@ Ordered Alphabetically.</p>
 <p>Tidal is the rising awareness in the very regions these issues affect. An awareness through a traveling Message, a Message with no intended recipient only the hope it will find an interested hand. A sort of modern message in a bottle, released, left for someone to find. Inspired from the tiny and gratifying discovery of a message inside of something, left from someone else, set into the world, eventually crossing your path. Set out into naturally occurring systems of circulation, the message would travel until interrupted by a passer by. Set out into centers where masses of people move through everyday or systems that circulate masses of people everyday in hopes of sharing a local story.</p>
 
 <!--Thumbnail copy-->
+<p>Awareness through traveling stories, stories with no intended recipient only the hope it will find an interested hand. A sort of modern message in a bottle, set out into naturally occurring systems of circulation occasionally caught by passers by.</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -384,6 +386,7 @@ Ordered Alphabetically.</p>
 <p>September 2009 | Actionscript 3.0 Web Site | Developed at <a href="http://www.ordinarykids.com/" target="_blank">OrdinaryKids</a></p>
 
 <!--Thumbnail copy-->
+<p></p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -395,9 +398,10 @@ Ordered Alphabetically.</p>
 
 <h2>Thoughts &amp; Needs</h2>
 
-<p>What do you need? What do you think? These simple questions remind us that no matter how complex it gets, it's still about people, talking with people, and living with people. Because no matter how far we may find ourselves apart from one another, our similarities will always outweigh our differences. The aim of this project is to celebrate the shared human experiences of those that find themselves in the Tenderloin and those that don't. The neighborhood itself is unfortunately susceptible to one-sided reporting and dire data sets that only perpetuate these negative stereotypes. To balance this, We <em>All</em> Need is a data set that aims to remind us that there are people living in the Tenderloin, a simple fact that is easily overlooked. With this we hope a vivid portrait of the Tenderloin composed of the thoughts and needs of people interviewed on its streets will transcend neighborhood boundaries and inspire a meaningful conversation.</p>
+<p>What do you <em>need</em>? What do you <em>think</em>? These simple questions remind us that no matter how complex it gets, it's still about people, talking with people, and living with people. Because no matter how far we may find ourselves apart from one another, our similarities will always outweigh our differences. The aim of this project is to celebrate the shared human experiences of those that find themselves in the Tenderloin and those that don't. The neighborhood itself is unfortunately susceptible to one-sided reporting and dire data sets that only perpetuate these negative stereotypes. To balance this, We <em>All</em> Need is a data set that aims to remind us that there are people living in the Tenderloin, a simple fact that is easily overlooked. With this we hope a vivid portrait of the Tenderloin composed of the thoughts and needs of people interviewed on its streets will transcend neighborhood boundaries and inspire a meaningful conversation.</p>
 
 <!--Thumbnail copy-->
+<p>What do you <em>need</em>? What do you <em>think</em>? These simple questions remind us that no matter how complex it gets, it's still about people, talking with people, and living with people. That our similarities outweigh the differences.</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -412,6 +416,7 @@ Ordered Alphabetically.</p>
 <p>The Branding and Production of a full E-Commerce Flash site for a start up suit company specializing in one affordable suit for the working stiff. In short Workopotomus is a modern suit made for the newly employed, or anyone who has less than a million dollars to spend on work wear but still needs to look good. It's one reliable fit in two colors to keep costs down and to make the suit-buying process as easy as possible. Try one out, I promise, you wont be disappointed.</p>
 
 <!--Thumbnail copy-->
+<p>One suit. One hundred dollars. Branding and Production of a full E-Commerce Flash site for a start up suit company specializing in one affordable suit for the working stiff. This ain't your Daddies monkey suit.</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||

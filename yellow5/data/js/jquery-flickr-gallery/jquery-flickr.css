@@ -1,0 +1,40 @@
+#flickr_next {
+	background: url('nxt.jpg') no-repeat;
+	position: absolute;
+	top: -50px;
+	left: -50px;
+	display: none;
+	width: 45px;
+	height: 15px;
+	padding: 0px;
+	cursor: pointer;
+}
+
+#flickr_prev {
+	background: url('prv.jpg') no-repeat;
+	position: absolute;
+	top: -50px;
+	left: -50px;
+	display: none;
+	width: 45px;
+	height: 15px;
+	padding: 0px;
+	cursor: pointer;
+}
+
+#flickr_loader {
+	background:url('loader.gif') no-repeat center center;
+	position: absolute;
+	background-color: #000;
+	top: 1px;
+	left: 1px;
+	display: none;
+}
+
+#flickr_thumbs {
+	position: absolute;
+	padding: 0px;
+	margin: 0px;
+	text-align: left;
+}
+

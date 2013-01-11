@@ -35,7 +35,7 @@
 		<div class="row">
 			<div class="twelvecol work-detail">
 				<h1>Arts &amp; Scraps</h1>
-				<p>Give us your scrap.</p>
+				<p>Please, give us your scrap.</p>
 			</div>
 		</div>
 	</section>
@@ -43,7 +43,7 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>February 2008 | Promotional Mail Outs</p>
+				<p>February 2008 | Promotional Ephemera</p>
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>
@@ -55,9 +55,12 @@
 		<div class="row">
 			<div class="sevencol bodycopy">
 				<h2>Art from Scraps</h2>
+
 				<p>Arts &amp; Scraps provides children with creative experiences using recycled industrial scraps to actively involve them in learning, increase their confidence and encourage independent thinking. This in mind these promotional solutions are meant to align with the non-wast, second life ideals of the Arts &amp; Scraps organization. The designs are minimal in form and printed on recycled industrial papers. Either processed recycled paper or straight up found materials, such as graphs, schematics, blue prints and so on. The three themes represented throughout the series are a 'Call for Donation', a 'Fabric Sale', and a 'Self Awareness' promotional. The series consists of six deluxe post cards, a 18x24 in poster, a mailer with premium and a micro site.</p>
+
 				<br>
 				<br>
+				
 				<img src="data/projects/ArtsScraps/image1.jpg">
 				<img src="data/projects/ArtsScraps/image3.jpg">
 				<img src="data/projects/ArtsScraps/image5.jpg">
