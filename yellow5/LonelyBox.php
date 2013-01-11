@@ -3,6 +3,12 @@
 
 <head>
 	<title>A Lonely Box &middot; Yellowskyscraper</title>
+	<meta name="description" content="What if things could feel? And then if they could what feelings would they have? I gave this little box one mode to perceive, movement and orientation. And one mean with which to express itself, a heartbeat of light and vibration." /> 
+	
+	<meta property="og:title" content="A Lonely Box &middot; Yellowskyscraper" />
+	<meta property="og:description" content="What if things could feel? And then if they could what feelings would they have? I gave this little box one mode to perceive, movement and orientation. And one mean with which to express itself, a heartbeat of light and vibration." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/LonelyBox.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 

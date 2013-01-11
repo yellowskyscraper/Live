@@ -3,6 +3,12 @@
 
 <head>
 	<title>Reactive Floor &middot; Yellowskyscraper</title>
+	<meta name="description" content="With collaboration in mind a series of interactive and conceptual promotions were developed so that Bayer Material Sciences could reach out into the creative sector and invite collaboration and partnership." /> 
+	
+	<meta property="og:title" content="Reactive Floor &middot; Yellowskyscraper" />
+	<meta property="og:description" content="With collaboration in mind a series of interactive and conceptual promotions were developed so that Bayer Material Sciences could reach out into the creative sector and invite collaboration and partnership." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/ReactiveFloor.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 

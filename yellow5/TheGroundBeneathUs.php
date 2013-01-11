@@ -2,7 +2,13 @@
 <html lang="en">
 
 <head>
-	<title>Bay Area Model &middot; Yellowskyscraper</title>
+	<title>The Ground Beneath Us on the Bay Area Model &middot; Yellowskyscraper</title>
+	<meta name="description" content="Content development for a a large topographic model of the Greater San Francisco Bay Area. A beautiful blank slate to witness the ebb and flow of our oceans, the currents in the air, the geological makeup of the ground beneath our feet, &amp;c." /> 
+	
+	<meta property="og:title" content="The Ground Beneath Us on the Bay Area Model &middot; Yellowskyscraper" />
+	<meta property="og:description" content="Content development for a a large topographic model of the Greater San Francisco Bay Area. A beautiful blank slate to witness the ebb and flow of our oceans, the currents in the air, the geological makeup of the ground beneath our feet, &amp;c." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/TheGroundBeneathUs.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 
@@ -118,19 +124,19 @@
 
 	<section>
 		<div class="row">
-			<div class="sevencol bodycopy">
+			<div class="sevencol">
+				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image12.jpg">
+				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image5.jpg">
 				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image10.jpg">
 				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image11.jpg">
-				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image1.jpg">
-				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image2.jpg">
-				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image8.jpg">
 			</div>
 			<div class="fivecol last">
+				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image2.jpg">
+				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image1.jpg">
 				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image4.jpg">
 				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image6.jpg">
 				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image7.jpg">
 				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image3.jpg">
-				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image5.jpg">
 			</div>
 		</div>
 	</section>

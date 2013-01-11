@@ -3,16 +3,12 @@
 
 <head>
 	<title>Yellowskyscraper; every single day, one brick at a time.</title>
-
-	<meta name="description" content="..." /> 
+	<meta name="description" content="Why do we do what we do? Well, the best we can offer as an explanation is that we're simply people and this is just what me must do, even if we don't understand entirely, and even if the process ultimately kills us." /> 
 	
-	<meta property="og:title" content="Yellowskyscraper, under construction since 1986" />
-	<meta property="og:type" content="other" />
+	<meta property="og:title" content="Yellowskyscraper; every single day, one brick at a time." />
+	<meta property="og:description" content="Why do we do what we do? Well, the best we can offer as an explanation is that we're simply people and this is just what me must do, even if we don't understand entirely, and even if the process ultimately kills us." />
 	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
-	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/index.php" />
-	<meta property="og:site_name" content="Yellowskyscraper, under construction since 1986" />
-	<meta property="fb:app_id" content="..." />
-	<meta property="og:description" content="..." />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/work.php" />
 	
 	<?php include 'data/includes/header.php'; ?>
 

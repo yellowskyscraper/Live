@@ -3,6 +3,12 @@
 
 <head>
 	<title>Jimventory &middot; Yellowskyscraper</title>
+	<meta name="description" content="60 simple wooden blocks of ceder, each representing a single item that happened to be sitting on my desk on a random Saturday afternoon at 6:00 pm. Come play in my inventory and see if you can learn a little something about me." /> 
+	
+	<meta property="og:title" content="Jimventory &middot; Yellowskyscraper" />
+	<meta property="og:description" content="60 simple wooden blocks of ceder, each representing a single item that happened to be sitting on my desk on a random Saturday afternoon at 6:00 pm. Come play in my inventory and see if you can learn a little something about me." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/Jimventory.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 

@@ -3,6 +3,12 @@
 
 <head>
 	<title>The Detroit Zoological Society &middot; Yellowskyscraper</title>
+	<meta name="description" content="Identity system that describes the function of a Zoo as a sort of map with which we can navigate the world's biogeographical regions. The entire world at a glance; the tundra, forests, grasslands, deserts, and oceans!" /> 
+	
+	<meta property="og:title" content="The Detroit Zoological Society &middot; Yellowskyscraper" />
+	<meta property="og:description" content="Identity system that describes the function of a Zoo as a sort of map with which we can navigate the world's biogeographical regions. The entire world at a glance; the tundra, forests, grasslands, deserts, and oceans!" />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/DetroitZoo.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 

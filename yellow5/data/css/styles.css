@@ -137,10 +137,14 @@
 	.information-bar {
 		background-color: #eee;
 	}
+
+	.information-bar a{
+		font-weight: bold;
+	}
 	
 	.information-bar p {
 		float:left;
-		padding-top: 4px;
+		padding: 4px 5px 4px 13px;
 	}
 
 	.divider-line {
@@ -152,6 +156,10 @@
 		font-size: 16px;
 		line-height: 19px;
 		max-width:540px;
+	}
+
+	.bodycopy a{
+		font-weight: bold;
 	}
 
 	.bodycopy h2{
@@ -318,10 +326,15 @@
 	}  
 
 	#mapplet h3 {   
+		width:240px;
+		background-color: #FFF;
 		margin:7px 0 0 0;
 	}  
 
 	#mapplet p {   
+		width:240px;
+		padding-bottom: 5px;
+		background-color: #FFF;
 		font-size: 12px;
 		line-height: 15px;
 	}
@@ -341,6 +354,14 @@
 	}
 
 	.link-b {
+		display:none;
+	}
+
+	.share-me {
+		display:none;
+	}
+
+	.tab_images .threecol p {
 		display:none;
 	}
 

@@ -3,6 +3,12 @@
 
 <head>
 	<title>ReDistraction (redis) &middot; Yellowskyscraper</title>
+	<meta name="description" content="Oh, the mountain of distraction the fathomless Internet can be. With Facebook on the very top of the mound, I sought to recover from an unhealthy addiction to this King of procrastination. This is as methadone is for heroin." /> 
+	
+	<meta property="og:title" content="ReDistraction (redis) &middot; Yellowskyscraper" />
+	<meta property="og:description" content="Oh, the mountain of distraction the fathomless Internet can be. With Facebook on the very top of the mound, I sought to recover from an unhealthy addiction to this King of procrastination. This is as methadone is for heroin." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/ReDistraction.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 

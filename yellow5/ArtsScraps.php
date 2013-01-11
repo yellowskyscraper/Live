@@ -3,6 +3,12 @@
 
 <head>
 	<title>Arts &amp; Scrpas &middot; Yellowskyscraper</title>
+	<meta name="description" content="Promotional ephemera designed for Arts &amp; Scraps, an organization that provides creative learning experiences for children using recycled industrial scraps. Teaching that we can use what others deem no longer useful." /> 
+	
+	<meta property="og:title" content="Arts &amp; Scrpas &middot; Yellowskyscraper" />
+	<meta property="og:description" content="Promotional ephemera designed for Arts &amp; Scraps, an organization that provides creative learning experiences for children using recycled industrial scraps. Teaching that we can use what others deem no longer useful." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/ArtsScraps.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 

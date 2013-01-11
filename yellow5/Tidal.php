@@ -3,6 +3,12 @@
 
 <head>
 	<title>Tidal Project &middot; Yellowskyscraper</title>
+	<meta name="description" content="Awareness through traveling stories, stories with no intended recipient only the hope it will find an interested hand. A sort of modern message in a bottle, set out into naturally occurring systems of circulation occasionally caught by passers by." /> 
+	
+	<meta property="og:title" content="Tidal Project &middot; Yellowskyscraper" />
+	<meta property="og:description" content="Awareness through traveling stories, stories with no intended recipient only the hope it will find an interested hand. A sort of modern message in a bottle, set out into naturally occurring systems of circulation occasionally caught by passers by." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/Tidal.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 

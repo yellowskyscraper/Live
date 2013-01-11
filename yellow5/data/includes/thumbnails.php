@@ -4,8 +4,6 @@
 		<div class="fourcol">
 			<img src="data/projects/ArtHERE/thumbnail.png">
 			<h3>ArtHERE</h3>
-
-			<p>Could we empower and transform a community by matching under-used public urban spaces with the placement of art and cultural projects? We thought so.</p>
 			<p>Connecting Spaces and Art, for crowd-sourced urban revitalization. An on-line platform that allows the community and organizations within them to post available Spaces and Proposals for what to do with those spaces. Faster, stronger.</p>
 		</div>
 	</a>
@@ -145,19 +143,19 @@
 		</div>
 	</a>	
 
-	<a href="ArtsScraps.php">
-		<div class="fourcol">
-			<img src="data/projects/ArtsScraps/thumbnail.png">
-			<h3>Arts &amp; Scraps</h3>
-			<p>Promotional ephemera designed for Arts &amp; Scraps, an organization that provides creative learning experiences for children using recycled industrial scraps. Teaching that we <em>can</em> use what others deem no longer useful.</p>
-		</div>
-	</a>	
-
 	<a href="GraphicEmotive.php">
-		<div class="fourcol last">
+		<div class="fourcol">
 			<img src="data/projects/GraphicEmotive/thumbnail.png">
 			<h3>Graphic Emotive</h3>
 			<p>What is a book anyhow? Linear? Bah! With these cards I explored the potential of a non-linear and complete read of a &ldquo;book&rdquo;. Graphic Emotive is the re-considering of a story of Jonathan Barnbrook, Damien Hurst, and Adbusters.</p>
+		</div>
+	</a>	
+
+	<a href="ArtsScraps.php">
+		<div class="fourcol last">
+			<img src="data/projects/ArtsScraps/thumbnail.png">
+			<h3>Arts &amp; Scraps</h3>
+			<p>Promotional ephemera designed for Arts &amp; Scraps, an organization that provides creative learning experiences for children using recycled industrial scraps. Teaching that we <em>can</em> use what others deem no longer useful.</p>
 		</div>
 	</a>		
 

@@ -2,7 +2,13 @@
 <html lang="en">
 
 <head>
-	<title>Bay Area Model &middot; Yellowskyscraper</title>
+	<title>The Bay Area Model &middot; Yellowskyscraper</title>
+	<meta name="description" content="Content development for a a large topographic model of the Greater San Francisco Bay Area. A beautiful blank slate to witness the ebb and flow of our oceans, the currents in the air, the geological makeup of the ground beneath our feet, &amp;c." /> 
+	
+	<meta property="og:title" content="The Bay Area Model &middot; Yellowskyscraper" />
+	<meta property="og:description" content="Content development for a a large topographic model of the Greater San Francisco Bay Area. A beautiful blank slate to witness the ebb and flow of our oceans, the currents in the air, the geological makeup of the ground beneath our feet, &amp;c." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/BayAreaModel.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 
@@ -34,7 +40,7 @@
 	<section id="first">
 		<div class="row">
 			<div class="twelvecol work-detail">
-				<h1>TheBay Area Model</h1>
+				<h1>The Bay Area Model</h1>
 				<p>Measuring the shadows of the earth.</p>
 			</div>
 		</div>
@@ -119,7 +125,8 @@
 				<img src="data/projects/BayAreaModel/image9.jpg">
 				<img src="data/projects/BayAreaModel/image10.jpg">
 				<img src="data/projects/BayAreaModel/image8.jpg">
-				<img src="data/projects/BayAreaModel/image12.jpg">
+				<img src="data/projects/BayAreaModel/DynamicEarth/image1.jpg">
+				<img src="data/projects/BayAreaModel/AnOrientation/image4.jpg">
 			</div>
 		</div>
 	</section>

@@ -3,6 +3,12 @@
 
 <head>
 	<title>LOVE WANTED &middot; Yellowskyscraper</title>
+	<meta name="description" content="Oh, the strange things we desire! Witness a single form that our tireless search for companionship, physical gratification, and love can sometimes take. This large scale print was designed with Love in mind." /> 
+	
+	<meta property="og:title" content="LOVE WANTED &middot; Yellowskyscraper" />
+	<meta property="og:description" content="Oh, the strange things we desire! Witness a single form that our tireless search for companionship, physical gratification, and love can sometimes take. This large scale print was designed with Love in mind." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/LoveWanted.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 

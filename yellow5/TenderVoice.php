@@ -3,6 +3,12 @@
 
 <head>
 	<title>TenderVoice &middot; Yellowskyscraper</title>
+	<meta name="description" content="A simple and easy to use website that indexes local organizations found throughout San Francisco's Tenderloin, not only highlighting the organizations themselves but the people that are responsible for their very being." /> 
+	
+	<meta property="og:title" content="TenderVoice &middot; Yellowskyscraper" />
+	<meta property="og:description" content="A simple and easy to use website that indexes local organizations found throughout San Francisco's Tenderloin, not only highlighting the organizations themselves but the people that are responsible for their very being." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/TenderVoice.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 
@@ -73,18 +79,20 @@
 
 	<section>
 		<div class="row">
-			<div class="sevencol">
+			<div class="twelvecol">
 				<a href="http://tendervoice.org/" target="_blank"><div class="link-to-microsite link-a"><h3>Launch TenderVoice &raquo;</h3></div></a>
-				<img src="data/projects/TenderVoice/image4.jpg">
+				<a href="http://tendervoice.org/" target="_blank"><div class="link-to-microsite link-b"><h3>Launch TenderVoice &raquo;</h3></div></a>
+				<img src="data/projects/TenderVoice/image1.jpg">
 				<img src="data/projects/TenderVoice/image2.jpg">
 				<img src="data/projects/TenderVoice/image3.jpg">
+				<img src="data/projects/TenderVoice/image4.jpg">
 			</div>
-			<div class="fivecol last">
+<!-- 		<div class="fivecol last">
 				<a href="http://tendervoice.org/" target="_blank"><div class="link-to-microsite link-b"><h3>Launch TenderVoice &raquo;</h3></div></a>
 				<img src="data/projects/TenderVoice/image1.jpg">
 				<img src="data/projects/TenderVoice/image7.jpg">
 				<img src="data/projects/TenderVoice/image5.jpg">
-			</div>
+			</div> -->
 		</div>
 	</section>
 

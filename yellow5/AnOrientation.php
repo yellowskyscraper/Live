@@ -3,6 +3,12 @@
 
 <head>
 	<title>An Orientation on the Bay Area Model &middot; Yellowskyscraper</title>
+	<meta name="description" content="Content development for a a large topographic model of the Greater San Francisco Bay Area. A beautiful blank slate to witness the ebb and flow of our oceans, the currents in the air, the geological makeup of the ground beneath our feet, &amp;c." /> 
+	
+	<meta property="og:title" content="An Orientation on the Bay Area Model &middot; Yellowskyscraper" />
+	<meta property="og:description" content="Content development for a a large topographic model of the Greater San Francisco Bay Area. A beautiful blank slate to witness the ebb and flow of our oceans, the currents in the air, the geological makeup of the ground beneath our feet, &amp;c." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/AnOrientation.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 
@@ -120,13 +126,11 @@
 		<div class="row">
 			<div class="sevencol bodycopy">
 				<img src="data/projects/BayAreaModel/AnOrientation/image1.jpg">
-				<img src="data/projects/BayAreaModel/AnOrientation/image1.jpg">
-				<img src="data/projects/BayAreaModel/AnOrientation/image1.jpg">
+				<img src="data/projects/BayAreaModel/AnOrientation/image4.jpg">
 			</div>
 			<div class="fivecol last">
-				<img src="data/projects/BayAreaModel/AnOrientation/image1.jpg">
-				<img src="data/projects/BayAreaModel/AnOrientation/image1.jpg">
-				<img src="data/projects/BayAreaModel/AnOrientation/image1.jpg">
+				<img src="data/projects/BayAreaModel/AnOrientation/image3.jpg">
+				<img src="data/projects/BayAreaModel/AnOrientation/image2.jpg">
 			</div>
 		</div>
 	</section>

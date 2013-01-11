@@ -3,6 +3,12 @@
 
 <head>
 	<title>Workopotamus &middot; Yellowskyscraper</title>
+	<meta name="description" content="One suit. One hundred dollars. Branding and Production of a full E-Commerce Flash site for a start up suit company specializing in one affordable suit for the working stiff. This ain't your Daddies monkey suit." /> 
+	
+	<meta property="og:title" content="Workopotamus &middot; Yellowskyscraper" />
+	<meta property="og:description" content="One suit. One hundred dollars. Branding and Production of a full E-Commerce Flash site for a start up suit company specializing in one affordable suit for the working stiff. This ain't your Daddies monkey suit." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/Workopotamus.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 

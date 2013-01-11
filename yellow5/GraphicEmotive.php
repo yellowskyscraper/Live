@@ -3,6 +3,12 @@
 
 <head>
 	<title>Graphic Emotive &middot; Yellowskyscraper</title>
+	<meta name="description" content="What is a book anyhow? Linear? Bah! With these cards I explored the potential of a non-linear and complete read of a &ldquo;book&rdquo;. Graphic Emotive is the re-considering of a story of Jonathan Barnbrook, Damien Hurst, and Adbusters." /> 
+	
+	<meta property="og:title" content="Graphic Emotive &middot; Yellowskyscraper" />
+	<meta property="og:description" content="What is a book anyhow? Linear? Bah! With these cards I explored the potential of a non-linear and complete read of a &ldquo;book&rdquo;. Graphic Emotive is the re-considering of a story of Jonathan Barnbrook, Damien Hurst, and Adbusters." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/GraphicEmotive.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 

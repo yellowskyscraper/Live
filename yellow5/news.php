@@ -2,17 +2,13 @@
 <html lang="en">
 
 <head>
-	<title>Yellowskyscraper; conceived and established in 1986</title>
-
-	<meta name="description" content="..." /> 
+	<title>Yellowskyscraper; watching things happen since 1986.</title>
+	<meta name="description" content="Yellowskyscraper News Room; up to date observations and happenings, out of date ruminations and hindsight, future predictions and asperations. Why? It's simple, we're already doing it." /> 
 	
-	<meta property="og:title" content="Yellowskyscraper, under construction since 1986" />
-	<meta property="og:type" content="other" />
+	<meta property="og:title" content="Yellowskyscraper; watching things happen since 1986." />
+	<meta property="og:description" content="Yellowskyscraper News Room; up to date observations and happenings, out of date ruminations and hindsight, future predictions and asperations. Why? It's simple, we're already doing it." />
 	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
-	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/index.php" />
-	<meta property="og:site_name" content="Yellowskyscraper, under construction since 1986" />
-	<meta property="fb:app_id" content="..." />
-	<meta property="og:description" content="..." />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/news.php" />
 	
 	<?php include 'data/includes/header.php'; ?>
 
@@ -59,19 +55,21 @@
 		<div class="row">
 			<div class="tencol landing-header">
 				<p>Soon to come! Yellowskyscraper News Room; up to date observations and happenings, out of date ruminations and hindsight, future predictions and asperations. Why? It's simple, we're already doing it.</p>
-
+				<!--  
 				<p>Until we get this News Room up and running please enjoy a selection of recent photos. We're always out there, always observing things.</p>
+				-->
 			</div>
 			<div class="twocol last">
 
 			</div>
 		</div>
-
+		<!--  
 		<div class="row">
 			<div class="twelvecol">
 				<div id="flickr_div"></div> 
 			</div>
 		</div>
+		-->
 	</section>
 
 	<section>

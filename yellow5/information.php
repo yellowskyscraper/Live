@@ -3,16 +3,12 @@
 
 <head>
 	<title>Yellowskyscraper; new diggs.</title>
-
-	<meta name="description" content="..." /> 
+	<meta name="description" content="So please contact us, despite all the scary scaffolding out front, we're still very much in business and would love to hear from you." /> 
 	
-	<meta property="og:title" content="Yellowskyscraper, under construction since 1986" />
-	<meta property="og:type" content="other" />
+	<meta property="og:title" content="Yellowskyscraper; new diggs." />
+	<meta property="og:description" content="So please contact us, despite all the scary scaffolding out front, we're still very much in business and would love to hear from you." />
 	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
-	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/index.php" />
-	<meta property="og:site_name" content="Yellowskyscraper, under construction since 1986" />
-	<meta property="fb:app_id" content="..." />
-	<meta property="og:description" content="..." />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/information.php" />
 	
 	<?php include 'data/includes/header.php'; ?>
 

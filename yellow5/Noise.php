@@ -3,6 +3,12 @@
 
 <head>
 	<title>Noise &middot; Yellowskyscraper</title>
+	<meta name="description" content="It was never knowing when I'd need to concentrate, always being stuck just too far from the peace and quiet of my wood trimmed study. It was the a constant need to focus through the noise of public commotion, it's from this that Noise came." /> 
+	
+	<meta property="og:title" content="Noise &middot; Yellowskyscraper" />
+	<meta property="og:description" content="It was never knowing when I'd need to concentrate, always being stuck just too far from the peace and quiet of my wood trimmed study. It was the a constant need to focus through the noise of public commotion, it's from this that Noise came." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/Noise.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 

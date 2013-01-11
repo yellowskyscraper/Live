@@ -3,6 +3,12 @@
 
 <head>
 	<title>Little Blank Books &middot; Yellowskyscraper</title>
+	<meta name="description" content="Standing there at the end of an undergraduate I found that I was no longer in the things I created throughout my studies&#151;they seemed but strange relics in hindsight. So, in stead we have a showcase of reflection, over a showcase of production." /> 
+	
+	<meta property="og:title" content="Little Blank Books &middot; Yellowskyscraper" />
+	<meta property="og:description" content="Standing there at the end of an undergraduate I found that I was no longer in the things I created throughout my studies&#151;they seemed but strange relics in hindsight. So, in stead we have a showcase of reflection, over a showcase of production." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/LittleBlankBooks.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 

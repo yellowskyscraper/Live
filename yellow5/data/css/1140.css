@@ -125,6 +125,11 @@ img {
 	body {
 		-webkit-text-size-adjust: none;
 	}
+
+	section {
+		padding-left: 5px;
+		padding-right: 5px;
+	}
 	
 	.row, body, .container {
 		width: 100%;
@@ -149,9 +154,19 @@ img {
 		float: left;
 	}
 
+	.row .landing-header p {
+		font-size: 20px;
+		line-height: 24px;
+	}
+
+	.row .work-detail h1{
+		font-size: 40px;
+		line-height: 45px;
+	}
+
 	.tab_images .threecol{
 		width: 22.05%;
-		margin-right: 4.05%;
+		margin-right: 3.90%;
 		float: left;
 	}
 
@@ -166,8 +181,16 @@ img {
 		float: left;
 	} 
 
-	.thumbnails .fourcol p, .thumbnails .fourcol h3{
-		display:none;
+	.thumbnails .fourcol h3,
+	.tab_images .threecol h3 {
+		margin:0 0 0 0;
+		padding:0 0 5px 3px;
+		font-size: 10px;
+		line-height: 13px;
+	}
+
+	.thumbnails .fourcol p {
+		display: none;
 	}
 
 	.thumbnails .last{

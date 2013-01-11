@@ -3,6 +3,12 @@
 
 <head>
 	<title>The Vapor Room &middot; Yellowskyscraper</title>
+	<meta name="description" content="A website for a local neighborhood dispensary." /> 
+	
+	<meta property="og:title" content="The Vapor Room &middot; Yellowskyscraper" />
+	<meta property="og:description" content="A website for a local neighborhood dispensary." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/VaporRoom.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 

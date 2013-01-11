@@ -3,6 +3,12 @@
 
 <head>
 	<title>ArtHERE &middot; Yellowskyscraper</title>
+	<meta name="description" content="Connecting Spaces and Art, for crowd-sourced urban revitalization. An on-line platform that allows the community and organizations within them to post available Spaces and Proposals for what to do with those spaces. Faster, stronger." /> 
+	
+	<meta property="og:title" content="ArtHERE &middot; Yellowskyscraper" />
+	<meta property="og:description" content="Connecting Spaces and Art, for crowd-sourced urban revitalization. An on-line platform that allows the community and organizations within them to post available Spaces and Proposals for what to do with those spaces. Faster, stronger." />
+	<meta property="og:image" content="http://www.yellowskyscraper.com/yellow5/data/img/og.jpg" />
+	<meta property="og:url" content="http://www.yellowskyscraper.com/yellow5/ArtHERE.php" />
 
 	<?php include 'data/includes/header.php'; ?>
 
