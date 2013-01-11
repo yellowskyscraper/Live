@@ -288,7 +288,8 @@
 	
 	#flickr_div { 
 		background-color: #000;
-		overflow: hidden;
+		width:900px;
+		width:700px;
 	}
 	
 	#flickr_div img{ 
