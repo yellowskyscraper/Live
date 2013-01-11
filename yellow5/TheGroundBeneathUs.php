@@ -73,7 +73,7 @@
 				<div class="threecol">
 					<img src="data/projects/BayAreaModel/tab1.jpg">
 					<h3>The Bay Area Model</h3>
-					<p>A line or two of text</p>
+					<p>Measuring the shadows of the earth.</p>
 				</div>
 			</a>
 
@@ -81,7 +81,7 @@
 				<div class="threecol">
 					<img src="data/projects/BayAreaModel/tab2.jpg">
 					<h3>Dynamic Earth</h3>
-					<p>A line or two of text</p>
+					<p>Thousands of years ago in the future.</p>
 				</div>
 			</a>
 
@@ -89,14 +89,14 @@
 				<div class="threecol">
 					<img src="data/projects/BayAreaModel/tab3.jpg">
 					<h3>An Orientation</h3>
-					<p>A line or two of text</p>
+					<p>For it is never only about the thing itself.</p>
 				</div>
 			</a>
 
 			<div class="threecol current_tab last">
 				<img src="data/projects/BayAreaModel/tab4.jpg">
 				<h3>The Ground Beneath Us</h3>
-				<p>A line or two of text</p>
+				<p>Subject to change without notice.</p>
 			</div>
 		</div>
 

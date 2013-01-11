@@ -47,8 +47,8 @@
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
 <h1>Site Copy as of January 2013</h1>
-An attempt to unify under one leading glory.
-Ordered Alphabetically. 
+<p>An attempt to unify under one leading glory.
+Ordered Alphabetically.</p>
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
@@ -67,10 +67,6 @@ Ordered Alphabetically.
 
 <p>In the literal sense of orienting the visualization starts with our surroundings, with significant markers of the landscape. Beginning with the bodies of water from small to large, from brook, to river, to ocean. Then terrestrial bodies come, from valley, to range, to continent. After these we have our concrete ways across the landscape, influenced by natural or animal paths we have our circuits of trade and settlement. This sequence of introduction is punctuated with all mighty cardinal point to North. Once concluded the visualization cycles through a sampling of content, other visualizations such as maps, videos, or artistic works. All for the Bay Area Model itself.</p>
 
-<!--Thumbnail copy-->
-
-<!--Tab copy-->
-
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
@@ -83,7 +79,7 @@ Ordered Alphabetically.
 
 <p>What brought this project about? Well, you see all along Market Street in downtown San Francisco there's an overabundance of underutilized space, causing a loss of community and economic opportunity. This is an endemic not only of San Francisco but many other urban areas around the country. And with those involved in the good fight; we have shrinking budgets, overworked staff, limited community participation, and inefficient communications between agencies, stakeholders, and constituents. Could we empower and transform a community by matching under-used public urban spaces with the placement of art and cultural projects?</p>
 
-<p>So we simply set out to make these spaces more available for better use. We imagined something that would cut through the lengthy application processes, hearings, and permitting discussions. We envisioned a tool that could utilize modern capabilities, an on-line platform that could streamline and make effective the decision making process, ease the exchange of information amongst those involved, and make a complicated matter accessible. Thus inviting more people to participate.Ultimately; it’s going to be faster, and it’s going to engage a broader community.</p>
+<p>So we simply set out to make these spaces more available for better use. We imagined something that would cut through the lengthy application processes, hearings, and permitting discussions. We envisioned a tool that could utilize modern capabilities, an on-line platform that could streamline and make effective the decision making process, ease the exchange of information amongst those involved, and make a complicated matter accessible. Thus inviting more people to participate. Ultimately; it's going to be faster, and it's going to engage a broader community.</p>
 
 <h2>What We Built</h2>
 
@@ -96,6 +92,7 @@ Ordered Alphabetically.
 <p>We believe an open on-line platform can empower not only the general public but organizations, community groups, and property owners.</p>
 
 <!--Thumbnail copy-->
+<p>An on-line platform that allows the community and the organizations within them to post available Spaces and Proposals for what to do with those spaces.</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -110,6 +107,7 @@ Ordered Alphabetically.
 <p>Arts &amp; Scraps provides children with creative experiences using recycled industrial scraps to actively involve them in learning, increase their confidence and encourage independent thinking. This in mind these promotional solutions are meant to align with the non-wast, second life ideals of the Arts &amp; Scraps organization. The designs are minimal in form and printed on recycled industrial papers. Either processed recycled paper or straight up found materials, such as graphs, schematics, blue prints and so on. The three themes represented throughout the series are a 'Call for Donation', a 'Fabric Sale', and a 'Self Awareness' promotional. The series consists of six deluxe post cards, a 18x24 in poster, a mailer with premium and a micro site.</p>
 
 <!--Thumbnail copy-->
+<p>Arts &amp; Scraps provides children with creative experiences using recycled industrial scraps to actively engage them in learning and to develop creativity. </p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -124,8 +122,7 @@ Ordered Alphabetically.
 <p>The Bay Area Model is a large topographic impression of the Greater San Francisco Bay Area. The routed maple surface is coated in a white semi-translucent polyurethane, transforming the features of the landscape into a projection surface. A blank slate to view a variety of subjects. e.g. the ebb and flow of our ocean, the currents and patterns of our atmosphere, the geological makeup of the ground beneath our feet and those very forces that pushed it into being.</p>
 
 <!--Thumbnail copy-->
-
-<!--Tab copy-->
+<p>The Bay Area Model is a large topographic impression of the Greater San Francisco Bay Area. The routed maple surface is coated in a white semi-translucent polyurethane, transforming the features of the landscape into a projection surface.</p>
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -162,8 +159,6 @@ Ordered Alphabetically.
 <p>Dynamic Earth is accompanied by a sister piece called Finding Fault Lines. Where Dynamic Earth is a live representation of <a href="http://earthquake.usgs.gov/earthquakes/map/">earthquakes around the world</a> up to the hour, displaying the shear activity of our earths surface, that a seemingly static landscape was wrought over time and continues to be formed. Finding Fault Lines is an interactive archive (Geo-located seismic data collected by <a href="http://www.usgs.gov/">USGS</a>) that spans from 1973 to the present. The Archive illuminates how early Seismologists were able to deduce the locations fault lines, by measuring and recording earthquake epicenters over a long period of time, they we able define the areas that corresponded to the faults.</p>
 
 <!--Thumbnail copy-->
-
-<!--Tab copy-->
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -363,8 +358,6 @@ Ordered Alphabetically.
 <p>This visualization walks the view through what different zones of risk are in areas that are susceptible to liquefaction, then displaying the areas we have to readily settled, concluding on infrastructural phenomena in relation to the fault lines and direction of crustal deformation.</p>
 
 <!--Thumbnail copy-->
-
-<!--Tab copy-->
 
 <!--|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||

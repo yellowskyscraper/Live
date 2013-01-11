@@ -4,7 +4,7 @@
 		<div class="fourcol">
 			<img src="data/projects/ArtHERE/thumbnail.png">
 			<h3>ArtHERE</h3>
-			<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
+			<p>Could we empower and transform a community by matching under-used public urban spaces with the placement of art and cultural projects? We thought so.</p>
 		</div>
 	</a>
 
@@ -20,7 +20,7 @@
 		<div class="fourcol last">
 			<img src="data/projects/BayAreaModel/thumbnail.png">
 			<h3>The Bay Area Model</h3>
-			<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
+			<p>The Bay Area Model is a large topographic impression of the Greater San Francisco Bay Area. The routed maple surface is coated in a white semi-translucent polyurethane, transforming the features of the landscape into a projection surface.</p>
 		</div>
 	</a>	
 </div>
@@ -147,7 +147,7 @@
 		<div class="fourcol">
 			<img src="data/projects/ArtsScraps/thumbnail.png">
 			<h3>Arts &amp; Scraps</h3>
-			<p>Vestibulum ut metus nec justo ornare fringilla. Curabitur tortor nulla, aliquam bibendum porta faucibus, porta non purus. Curabitur eu justo erat. Duis odio lacus, convallis vitae venenatis at, suscipit id nibh. Duis odio lacus, convallis vitae.</p>
+			<p>Arts &amp; Scraps provides children with creative experiences using recycled industrial scraps to actively engage them in learning and to develop creativity.</p>
 		</div>
 	</a>	
 

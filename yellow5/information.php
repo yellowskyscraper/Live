@@ -71,7 +71,7 @@
 			content.style.margin = "0px"; 
 			content.style.width = "370px";
 			content.style.height = "119px";
-		  	content.innerHTML = "<h3>Headquarters</h3><p>Swing on by and we'll share some of our coffee <br>with you. Or, <a href='mailto:office@yellowskyscraper.com?subject=Salutations'>office@yellowskyscraper.com</a></p>";
+		  	content.innerHTML = "<h3>Headquarters</h3><p class='map-link'>Swing on by and we'll share some of our coffee <br>with you. Or, <a href='mailto:office@yellowskyscraper.com?subject=Salutations'>office@yellowskyscraper.com</a></p>";
 						                       
 			div.appendChild(img);
 			div.appendChild(content);                       
@@ -101,8 +101,11 @@
 
 	<!--Deleted or special cases embedded styles-->
 	<style type="text/css">
-	
-
+		.map-link a {
+			text-decoration:none;
+			color: #000;
+			font-weight: bold;
+		}
 	</style>
 
 </head>
