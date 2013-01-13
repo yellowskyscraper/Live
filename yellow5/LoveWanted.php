@@ -75,12 +75,7 @@
 
 	<section>
 		<div class="row">
-			<div class="sevencol">
-				<img src="data/projects/LoveWanted/image1.jpg">
-				<img src="data/projects/LoveWanted/image1.jpg">
-			</div>
-			<div class="fivecol last">
-				<img src="data/projects/LoveWanted/image1.jpg">
+			<div class="twelvecol">
 				<img src="data/projects/LoveWanted/image1.jpg">
 			</div>
 		</div>

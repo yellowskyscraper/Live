@@ -91,7 +91,7 @@
 
 	<a href="LoveWanted.php">
 		<div class="fourcol">
-			<img src="data/projects/template/thumbnail.png">
+			<img src="data/projects/LoveWanted/thumbnail.png">
 			<h3>LOVE WANTED</h3>
 			<p>Oh, the strange things we desire! Witness a single form that our tireless search for companionship, physical gratification, and love can sometimes take. This large scale print was designed with Love in mind.</p>
 		</div>
