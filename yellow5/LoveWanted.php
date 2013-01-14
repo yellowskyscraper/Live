@@ -28,9 +28,9 @@
 				<h1><a href="index.php">Yellowskyscraper</a></h1>
 				<nav>
 					<ul>
-						<li class="current-section"><a href="work.php">Work</a></li>
-						<li><a href="news.php">News</a></li>
-						<li><a href="information.php">Information</a></li>
+						<a href="work.php"><li class="current-section">Work</li></a>
+						<a href="news.php"><li>News</li></a>
+						<a href="information.php"><li>Information</li></a>
 					</ul>
 				</nav>
 			</div>
@@ -75,12 +75,7 @@
 
 	<section>
 		<div class="row">
-			<div class="sevencol">
-				<img src="data/projects/LoveWanted/image1.jpg">
-				<img src="data/projects/LoveWanted/image1.jpg">
-			</div>
-			<div class="fivecol last">
-				<img src="data/projects/LoveWanted/image1.jpg">
+			<div class="twelvecol">
 				<img src="data/projects/LoveWanted/image1.jpg">
 			</div>
 		</div>
