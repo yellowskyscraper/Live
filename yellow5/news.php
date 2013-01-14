@@ -44,9 +44,9 @@
 				<h1><a href="index.php">Yellowskyscraper</a></h1>
 				<nav>
 					<ul>
-						<li><a href="work.php">Work</a></li>
-						<li class="current-section"><a href="news.php">News</a></li>
-						<li><a href="information.php">Information</a></li>
+						<a href="work.php"><li>Work</li></a>
+						<a href="news.php"><li class="current-section">News</li></a>
+						<a href="information.php"><li>Information</li></a>
 					</ul>
 				</nav>
 			</div>
