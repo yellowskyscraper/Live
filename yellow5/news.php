@@ -16,6 +16,9 @@
 	<script src="http://www.google.com/jsapi"></script>
 	<script>google.load("jquery", "1");</script>
 	<script src="data/js/jquery-flickr-gallery/jquery-flickr-gallery.js" type="text/javascript" charset="utf-8"></script>
+
+	<script src="data/js/galleria/galleria-1.2.9.min.js"></script>
+	<script src="data/js/galleria/plugins/flickr/galleria.flickr.min.js"></script>
 	
 	<script>
 		$(document).ready(function() {
@@ -25,13 +28,12 @@
 			});
 		});
 	</script>
-	
+
 	<!--Deleted or special cases embedded styles-->
 	<style type="text/css">
 	
 
 	</style>
-
 </head>
 
 <body>
@@ -55,21 +57,35 @@
 		<div class="row">
 			<div class="tencol landing-header">
 				<p>Soon to come! Yellowskyscraper News Room; up to date observations and happenings, out of date ruminations and hindsight, future predictions and asperations. Why? It's simple, we're already doing it.</p>
-				<!--  
+				  
 				<p>Until we get this News Room up and running please enjoy a selection of recent photos. We're always out there, always observing things.</p>
-				-->
+				
 			</div>
 			<div class="twocol last">
 
 			</div>
 		</div>
-		<!--  
+		  
 		<div class="row">
 			<div class="twelvecol">
-				<div id="flickr_div"></div> 
+				<div id="galleria"></div>
+
+		        <script>
+		            Galleria.loadTheme('data/js/galleria/themes/classic/galleria.classic.min.js');
+		     
+		           	var flickr = new Galleria.Flickr();
+					flickr.setOptions({
+						max: 100,
+						thumbSize: 'big'
+					}).user('yellowskyscraper', function(data) {
+						Galleria.run('#galleria', {
+							dataSource: data
+						});
+					});
+		        </script>
 			</div>
 		</div>
-		-->
+		
 	</section>
 
 	<section>

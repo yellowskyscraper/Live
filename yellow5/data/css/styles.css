@@ -298,12 +298,17 @@
 	
 	#flickr_div { 
 		background-color: #000;
-		width:900px;
-		width:700px;
 	}
 	
 	#flickr_div img{ 
-		margin:0px;
+		max-width: 100%;
+	}
+
+
+	#galleria { 
+		width:100%; 
+		height:600px; 
+		background:#000; 
 	}
 
 /*///////////////////////////////////////////////////////////|
@@ -345,7 +350,7 @@
 /* ! Layout for mobile version   */
 /* ============================= */
 
-@media handheld, only screen and (max-width: 767px) {
+@media handheld, only screen and (max-width: 780px) {
 
 	body {
 		
@@ -365,6 +370,10 @@
 
 	.tab_images .threecol p {
 		display:none;
+	}
+
+	#galleria { 
+		height:350px; 
 	}
 
 }

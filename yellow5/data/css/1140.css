@@ -120,7 +120,7 @@ img {
 
 /* Mobile */
 
-@media handheld, only screen and (max-width: 767px) {
+@media handheld, only screen and (max-width: 780px) {
 
 	body {
 		-webkit-text-size-adjust: none;
