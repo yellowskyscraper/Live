@@ -38,7 +38,7 @@
 	<a href="WeAllNeed.php">
 		<div class="fourcol">
 			<img src="data/projects/WeAllNeed/thumbnail.png">
-			<h3>Wa <em>All</em> Need</h3>
+			<h3>We <em>All</em> Need</h3>
 			<p>What do you <em>need</em>? What do you <em>think</em>? These simple questions remind us that no matter how complex it gets, it's still about people, talking with people, and living with people. That our similarities outweigh the differences.</p>
 		</div>
 	</a>	
