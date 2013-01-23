@@ -54,8 +54,9 @@
 		  
 		<div class="row">
 			<div class="twelvecol">
+				<a href="http://www.flickr.com/photos/yellowskyscraper" target="_blank"><div class="link-to-microsite link-a"><h3>Browse the entire archive on Flickr &raquo;</h3></div></a>
+				<a href="http://www.flickr.com/photos/yellowskyscraper" target="_blank"><div class="link-to-microsite link-b"><h3>Browse the entire archive on Flickr &raquo;</h3></div></a>
 				<div id="galleria"></div>
-
 		        <script>
 		            Galleria.loadTheme('data/js/galleria/themes/classic/galleria.classic.min.js');
 		     
