@@ -42,9 +42,9 @@
 	<section id="first">
 		<div class="row">
 			<div class="tencol landing-header">
-				<p>Soon to come! Yellowskyscraper News Room; up to date observations and happenings, out of date ruminations and hindsight, future predictions and asperations. Why? It's simple, we're already doing it.</p>
+				<p>Soon to come! Yellowskyscraper News Room; up to date observations and happenings, out of date ruminations and hindsight, future predictions and aspirations. Why? It's simple, we're already doing it.</p>
 				  
-				<p>Until we get this News Room up and running please enjoy a selection of recent photos. We're always out there, always observing things.</p>
+				<p>Until we get this News Room up and running please enjoy a selection of recent photos. We're always out there, always looking at stuff.</p>
 				
 			</div>
 			<div class="twocol last">
