@@ -42,7 +42,7 @@
 	<section id="first">
 		<div class="row">
 			<div class="tencol landing-header">
-				<p>Soon to come! Yellowskyscraper News Room; up to date observations and happenings, out of date ruminations and hindsight, future predictions and asperations. Why? It's simple, we're already doing it.</p>
+				<p>Soon to come! Yellowskyscraper News Room; up to date observations and happenings, out of date ruminations and hindsight, future predictions and aspirations. Why? It's simple, we're already doing it.</p>
 				  
 				<p>Until we get this News Room up and running please enjoy a selection of recent photos. We're always out there, always observing things.</p>
 				
@@ -54,6 +54,9 @@
 		  
 		<div class="row">
 			<div class="twelvecol">
+				<a href="http://www.flickr.com/photos/yellowskyscraper/" target="_blank"><div class="link-to-microsite link-a"><h3>Browse the complete Archive on Flickr &raquo;</h3></div></a>
+				<a href="http://www.flickr.com/photos/yellowskyscraper/" target="_blank"><div class="link-to-microsite link-b"><h3>Browse the complete Archive on Flickr &raquo;</h3></div></a>
+
 				<div id="galleria"></div>
 
 		        <script>
