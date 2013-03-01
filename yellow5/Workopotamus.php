@@ -59,7 +59,7 @@
 	<section>
 		<div class="row">
 			<div class="sevencol bodycopy">
-				<h2>One simple suit for the working man.</h2
+				<h2>One simple suit for the working man.</h2>
 
 				<p>The Branding and Production of a full E-Commerce Flash site for a start up suit company specializing in one affordable suit for the working stiff. In short Workopotomus is a modern suit made for the newly employed, or anyone who has less than a million dollars to spend on work wear but still needs to look good. It's one reliable fit in two colors to keep costs down and to make the suit-buying process as easy as possible. Try one out, I promise, you wont be disappointed.</p>
 

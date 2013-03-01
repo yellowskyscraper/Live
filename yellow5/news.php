@@ -44,7 +44,7 @@
 			<div class="tencol landing-header">
 				<p>Soon to come! Yellowskyscraper News Room; up to date observations and happenings, out of date ruminations and hindsight, future predictions and aspirations. Why? It's simple, we're already doing it.</p>
 				  
-				<p>Until we get this News Room up and running please enjoy a selection of recent photos. We're always out there, always observing things.</p>
+				<p>Until we get this News Room up and running please enjoy a selection of recent photos. We're always out there, always looking at stuff.</p>
 				
 			</div>
 			<div class="twocol last">
@@ -54,11 +54,15 @@
 		  
 		<div class="row">
 			<div class="twelvecol">
+<<<<<<< HEAD
 				<a href="http://www.flickr.com/photos/yellowskyscraper/" target="_blank"><div class="link-to-microsite link-a"><h3>Browse the complete Archive on Flickr &raquo;</h3></div></a>
 				<a href="http://www.flickr.com/photos/yellowskyscraper/" target="_blank"><div class="link-to-microsite link-b"><h3>Browse the complete Archive on Flickr &raquo;</h3></div></a>
 
+=======
+				<a href="http://www.flickr.com/photos/yellowskyscraper" target="_blank"><div class="link-to-microsite link-a"><h3>Browse the entire archive on Flickr &raquo;</h3></div></a>
+				<a href="http://www.flickr.com/photos/yellowskyscraper" target="_blank"><div class="link-to-microsite link-b"><h3>Browse the entire archive on Flickr &raquo;</h3></div></a>
+>>>>>>> 0f3c66cb39858b7934ab8ecf0ea9925662da5394
 				<div id="galleria"></div>
-
 		        <script>
 		            Galleria.loadTheme('data/js/galleria/themes/classic/galleria.classic.min.js');
 		     

@@ -6,6 +6,10 @@
     <title>Yellowskyscraper - Currently Rebuilding Stuff</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
+    <script type="text/javascript">			
+		window.location = "../yellow5/index.php";
+	</script>
+
     <?php include 'data/elements/headerlinks.php'; ?>   
 </head>
 
@@ -14,8 +18,8 @@
 
     <header id="headercontainer">
 		<div class="topbar"></div>
-			
-		<nav>	                                                  
+		
+		<nav>
 			<a href="Contact.php">contact</a>  
 			<a href="About.php">about</a>   
 			<a href="" class="active">work</a>
@@ -32,7 +36,7 @@
                 
 			    So, in the mean time please enjoy this temporary showcase of recent works.</p>
 				
-				<h2>Wish you the best, <br> 
+				<h2>Wish you the best,<br> 
 				CEO James S. Hovell</h2>
 			</div>                                                                          
 			
