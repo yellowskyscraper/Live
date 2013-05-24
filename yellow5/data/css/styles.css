@@ -244,18 +244,18 @@
 /////////////////////////////////////////////////////////////|*/
 
 	.tab_images .threecol img {
-		-moz-opacity:.90;
-		filter:alpha(opacity=90);
-		opacity:.90;
+		-moz-opacity:.80;
+		filter:alpha(opacity=80);
+		opacity:.80;
 	}
 
 	.tab_images .threecol h3 {
-		color: #333;
+		color: #555;
 		margin: 2px 0 0 0;
 	}
 
 	.tab_images .threecol p {
-		color: #333;
+		color: #555;
 		margin: 0 0 0 0;
 		padding: 0 5px 8px 10px;
 	}
@@ -270,10 +270,10 @@
 
 	.tab_images .threecol:hover, .tab_images .current_tab {
 		cursor:pointer;
-		background-color:#eee;
+		/*background-color:#eee;*/
 	}
 
-	.tab_images .threecol:hover h3, .tab_images .current_tab h3 {
+	.tab_images .threecol:hover h3, .tab_images .current_tab h3, .tab_images .threecol:hover p, .tab_images .current_tab p {
 		color:#000;
 	}
 
@@ -286,16 +286,18 @@
 
 	.thumbnails .fourcol h3 {
 		margin: 4px 0 0 0;
+		color:#555;
 	}
 
 	.thumbnails .fourcol p {
 		margin: 0 0 0 0;
 		padding: 0 5px 8px 10px;
+		color:#555;
 	}
 
 	.thumbnails .fourcol:hover {
 		cursor:pointer;
-		background-color: #eee;
+		/*background-color: #eee;*/
 	}
 
 	.thumbnails .fourcol:hover h3,
@@ -304,9 +306,9 @@
 	}
 
 	.thumbnails .fourcol img {
-		-moz-opacity:.90;
-		filter:alpha(opacity=90);
-		opacity:.90;
+		-moz-opacity:.80;
+		filter:alpha(opacity=80);
+		opacity:.80;
 	}
 
 	.thumbnails .fourcol:hover img {
