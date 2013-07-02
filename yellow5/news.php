@@ -54,14 +54,9 @@
 		  
 		<div class="row">
 			<div class="twelvecol">
-<<<<<<< HEAD
 				<a href="http://www.flickr.com/photos/yellowskyscraper/" target="_blank"><div class="link-to-microsite link-a"><h3>Browse the complete Archive on Flickr &raquo;</h3></div></a>
 				<a href="http://www.flickr.com/photos/yellowskyscraper/" target="_blank"><div class="link-to-microsite link-b"><h3>Browse the complete Archive on Flickr &raquo;</h3></div></a>
 
-=======
-				<a href="http://www.flickr.com/photos/yellowskyscraper" target="_blank"><div class="link-to-microsite link-a"><h3>Browse the entire archive on Flickr &raquo;</h3></div></a>
-				<a href="http://www.flickr.com/photos/yellowskyscraper" target="_blank"><div class="link-to-microsite link-b"><h3>Browse the entire archive on Flickr &raquo;</h3></div></a>
->>>>>>> 0f3c66cb39858b7934ab8ecf0ea9925662da5394
 				<div id="galleria"></div>
 		        <script>
 		            Galleria.loadTheme('data/js/galleria/themes/classic/galleria.classic.min.js');
