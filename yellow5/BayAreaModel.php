@@ -116,7 +116,7 @@
 	<section>
 		<div class="row">
 			<div class="sevencol">
-				<img src="data/projects/BayAreaModel/image17.jpg">
+				<img src="data/projects/BayAreaModel/image-amy1.jpg">
 				<img src="data/projects/BayAreaModel/image13.jpg">
 				<img src="data/projects/BayAreaModel/image14.jpg">
 				<img src="data/projects/BayAreaModel/image1.jpg">
