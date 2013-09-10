@@ -3,7 +3,6 @@
 /* ============================== */
 
 	body {
-
 		font-family: 'Tinos', serif;
 		font-size: 13px;
 		line-height: 18px;
@@ -348,7 +347,7 @@
 		cursor:default;
 	}  
 
-	#mapplet h3 {   
+	#mapplet h3 {
 		width:240px;
 		background-color: #FFF;
 		margin:7px 0 0 0;
@@ -358,8 +357,18 @@
 		width:240px;
 		padding-bottom: 5px;
 		background-color: #FFF;
+	}
+
+	#mapplet p,
+	#mapplet a {   
 		font-size: 12px;
 		line-height: 15px;
+	}
+
+	#mapplet p, 
+	#mapplet h3,
+	#mapplet a {   
+		font-family: 'Tinos', serif;
 	}
 
 /* ============================= */
