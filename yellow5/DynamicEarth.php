@@ -128,10 +128,10 @@
 				<img src="data/projects/BayAreaModel/DynamicEarth/image6.jpg">
 			</div>
 			<div class="fivecol last">
+				<img src="data/projects/BayAreaModel/image-amy2.jpg">
 				<img src="data/projects/BayAreaModel/DynamicEarth/image5.jpg">
 				<img src="data/projects/BayAreaModel/DynamicEarth/image1.jpg">
 				<img src="data/projects/BayAreaModel/DynamicEarth/image4.jpg">
-				<img src="data/projects/BayAreaModel/DynamicEarth/image7.jpg">
 			</div>
 		</div>
 	</section>

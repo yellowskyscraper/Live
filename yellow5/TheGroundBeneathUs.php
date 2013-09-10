@@ -127,8 +127,8 @@
 			<div class="sevencol">
 				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image12.jpg">
 				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image5.jpg">
-				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image10.jpg">
-				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image11.jpg">
+				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image13.jpg">
+				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image14.jpg">
 			</div>
 			<div class="fivecol last">
 				<img src="data/projects/BayAreaModel/TheGroundBeneathUs/image2.jpg">

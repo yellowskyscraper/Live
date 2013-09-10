@@ -125,6 +125,7 @@
 	<section>
 		<div class="row">
 			<div class="sevencol bodycopy">
+				<img src="data/projects/BayAreaModel/AnOrientation/image7.jpg">
 				<img src="data/projects/BayAreaModel/AnOrientation/image1.jpg">
 				<img src="data/projects/BayAreaModel/AnOrientation/image4.jpg">
 			</div>
