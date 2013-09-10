@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<faq>
+			
+<!-- 	<questions title="FAQs"><![CDATA[Where are you guys? <br>San Francisco. All orders ship direct from our small but tidy warehouse.<br><br><b>Where else can I buy a Workoptomus suit?</b><br>Workopotomus suits are only available online through workopotomus.com. There’s no physical store to visit. It’s how we keep costs down. <br><br>Can I come try one on at your warehouse? <br>No. If we have to staff up it’ll start jacking up costs and defeat the purpose of the whole affordable suit thing. If you’re worried about fit though, remember that you can do simple alterations at most any dry cleaners for next to nothing. <br><br>How do I contact a live person? <br>If you have a question the site doesn’t answer, email us at <br><a href='mailto:question@workopotomus.com'>info@workopotomus.com</a> <br><br>What’s your privacy policy?<br>Death to spammers. We’ll never share any of your information with anyone anywhere.]]></questions> -->
+
+	<questions title="FAQs">
+		<question q="Where are you guys?"><![CDATA[San Francisco. All orders ship direct from our small but tidy warehouse.]]></question>
+		<question q="Where else can I buy a Workoptomus suit?"><![CDATA[Workopotomus suits are only available online through workopotomus.com. There’s no physical store to visit. It’s how we keep costs down.]]></question>
+		<question q="Can I come try one on at your warehouse?"><![CDATA[No. If we have to staff up it’ll start jacking up costs and defeat the purpose of the whole affordable suit thing. If you’re worried about fit though, remember that you can do simple alterations at most any dry cleaners for next to nothing.]]></question>
+		<question q="How do I contact a live person?"><![CDATA[If you have a question the site doesn’t answer, email us at <br><a href='mailto:question@workopotomus.com'>info@workopotomus.com</a>]]></question>
+		<question q="What’s your privacy policy?"><![CDATA[Death to spammers. We’ll never share any of your information with anyone anywhere.]]></question>
+	</questions>
+</faq>

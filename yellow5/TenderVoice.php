@@ -79,9 +79,12 @@
 
 	<section>
 		<div class="row">
-			<div class="twelvecol">
-				<a href="http://tendervoice.org/" target="_blank"><div class="link-to-microsite link-a"><h3>Launch TenderVoice &raquo;</h3></div></a>
-				<a href="http://tendervoice.org/" target="_blank"><div class="link-to-microsite link-b"><h3>Launch TenderVoice &raquo;</h3></div></a>
+			<div class="twelvecol">				
+				<a href="TenderVoice/" target="_blank"><div class="link-to-microsite link-a"><h3>Launch TenderVoice &raquo;</h3></div></a>
+				<a href="TenderVoice/" target="_blank"><div class="link-to-microsite link-b"><h3>Launch TenderVoice &raquo;</h3></div></a>
+
+				<!-- <a href="http://tendervoice.org/" target="_blank"><div class="link-to-microsite link-a"><h3>Launch TenderVoice &raquo;</h3></div></a>
+				<a href="http://tendervoice.org/" target="_blank"><div class="link-to-microsite link-b"><h3>Launch TenderVoice &raquo;</h3></div></a> -->
 				<img src="data/projects/TenderVoice/image1.jpg">
 				<img src="data/projects/TenderVoice/image2.jpg">
 				<img src="data/projects/TenderVoice/image3.jpg">

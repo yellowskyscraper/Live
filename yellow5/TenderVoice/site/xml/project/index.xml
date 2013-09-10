@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index root="">
+
+	<resource>
+		<info type="name"><![CDATA[Bay Area Women's and Children's Center]]></info>	
+		<info type="description"><![CDATA[BAWCC offers a variety of direct services that address immediate needs and assists with achieving long-term stability. BAWCC's advocacy, planning and policy work on issues of low-income children and families has had a positive impact on the lives of thousands since we opened in 1981. BAWCC's long-term projects have resulted in the creation of playgrounds, a recreation center, a school, and a family center.]]></info>		
+		<info type="phone"><![CDATA[415.474.2400]]></info>
+		<info type="address"><![CDATA[318 Leavenworth Street]]></info>
+		<info type="website"><![CDATA[www.bawcc.org]]></info>
+
+		<tag><![CDATA[Children]]></tag>
+		<tag><![CDATA[Education]]></tag>
+		<tag><![CDATA[Clothing]]></tag>
+		<tag><![CDATA[Job Services]]></tag>
+		<tag><![CDATA[Advocacy]]></tag>
+
+		<coordinate><![CDATA[37.783884253346095, -122.41427063941956]]></coordinate>
+
+		<image><![CDATA[site/resources/Bay_Area_Womens_and_Childrens_Center/image1.jpg]]></image>
+		<image><![CDATA[site/resources/Bay_Area_Womens_and_Childrens_Center/image2.jpg]]></image>
+
+		<audio type="game" path="site/resources/Bay_Area_Womens_and_Childrens_Center/Audio/MissionShort.mp3"><![CDATA[Mission Short]]></audio>
+		<audio type="full" path="site/resources/Bay_Area_Womens_and_Childrens_Center/Audio/FULL.mp3"><![CDATA[Full Interview]]></audio>
+		<audio type="clip" path="site/resources/Bay_Area_Womens_and_Childrens_Center/Audio/Mission.mp3"><![CDATA[Mission Statement]]></audio>
+		<audio type="clip" path="site/resources/Bay_Area_Womens_and_Childrens_Center/Audio/History.mp3"><![CDATA[History]]></audio>
+		<audio type="clip" path="site/resources/Bay_Area_Womens_and_Childrens_Center/Audio/Services.mp3"><![CDATA[Services]]></audio>
+		<audio type="clip" path="site/resources/Bay_Area_Womens_and_Childrens_Center/Audio/Context.mp3"><![CDATA[Context]]></audio>
+		<audio type="clip" path="site/resources/Bay_Area_Womens_and_Childrens_Center/Audio/SuccessStory.mp3"><![CDATA[Success Story]]></audio>
+	</resource>
+	
+	<resource>
+		<info type="name"><![CDATA[Boys & Girls Club]]></info>	
+		<info type="description"><![CDATA[The Boys & Girls Club inspires and enables all young people to realize their full potential as productive, responsible and caring citizens.]]></info>		
+		<info type="phone"><![CDATA[415.351.3125]]></info>
+		<info type="address"><![CDATA[201 Turk Street]]></info>
+		<info type="website"><![CDATA[ ]]></info>
+
+		<tag><![CDATA[Children]]></tag>
+		<tag><![CDATA[Youth]]></tag>
+		<tag><![CDATA[Education]]></tag>
+		<tag><![CDATA[Art]]></tag>
+
+		<coordinate><![CDATA[37.78298, -122.41244]]></coordinate>
+
+		<image><![CDATA[site/resources/Boys_Girls_Club/image1.jpg]]></image>
+	</resource>
+	
+	<resource>
+		<info type="name"><![CDATA[City Team Ministries]]></info>	
+		<info type="description"><![CDATA[City Team pledges to help as many people as possible by providing food, shelter, clothing, education, recreation, and many other programs -- wrapped in dignity, respect, compassion, and Christian love.]]></info>	
+		<info type="phone"><![CDATA[415.861.8688]]></info>
+		<info type="address"><![CDATA[164 6th Street]]></info>
+		<info type="website"><![CDATA[www.cityteam.org]]></info>
+
+		<tag><![CDATA[Poverty]]></tag>
+		<tag><![CDATA[Food]]></tag>
+		<tag><![CDATA[Housing]]></tag>
+		<tag><![CDATA[Clothing]]></tag>
+		<tag><![CDATA[Spirituality]]></tag>
+
+		<coordinate><![CDATA[37.77995, -122.40781]]></coordinate>
+
+		<image><![CDATA[site/resources/City_Team_Ministries/image1.jpg]]></image>
+		<image><![CDATA[site/resources/City_Team_Ministries/image2.jpg]]></image>
+
+		<audio type="game" path="site/resources/City_Team_Ministries/Audio/MissionShort.mp3"><![CDATA[Mission Short]]></audio>
+		<audio type="full" path="site/resources/City_Team_Ministries/Audio/FULL.mp3"><![CDATA[Full Interview]]></audio>
+		<audio type="clip" path="site/resources/City_Team_Ministries/Audio/Mission.mp3"><![CDATA[Mission Statement]]></audio>
+		<audio type="clip" path="site/resources/City_Team_Ministries/Audio/History.mp3"><![CDATA[History]]></audio>
+		<audio type="clip" path="site/resources/City_Team_Ministries/Audio/Services.mp3"><![CDATA[Services]]></audio>
+		<audio type="clip" path="site/resources/City_Team_Ministries/Audio/Partnerships.mp3"><![CDATA[Partnerships]]></audio>
+		<audio type="clip" path="site/resources/City_Team_Ministries/Audio/Context.mp3"><![CDATA[Context]]></audio>
+		<audio type="clip" path="site/resources/City_Team_Ministries/Audio/SuccessStory.mp3"><![CDATA[Success Story]]></audio>
+	</resource>
+
+	<resource>
+		<info type="name"><![CDATA[Coalition on Homelessness]]></info>	
+		<info type="description"><![CDATA[The COH unites homeless people and service providers with concerned community members in outreach, advocacy, and community organizing activities to ensure that low-income communities are in a leadership position in the work to promote social justice in San Francisco.]]></info>		
+		<info type="phone"><![CDATA[415.346.3740]]></info>
+		<info type="address"><![CDATA[468 Turk Street]]></info>
+		<info type="website"><![CDATA[www.cohsf.org]]></info>
+
+		<tag><![CDATA[Poverty]]></tag>
+		<tag><![CDATA[Legal]]></tag>
+		<tag><![CDATA[Advocacy]]></tag>
+
+		<!-- <coordinate><![CDATA[37.78264, -122.41689]]></coordinate> -->
+		<coordinate><![CDATA[37.78268, -122.41659]]></coordinate>
+
+		<image><![CDATA[site/resources/Coalition_on_Homelessness/image1.jpg]]></image>
+		<image><![CDATA[site/resources/Coalition_on_Homelessness/image1.jpg]]></image>
+
+		<audio type="game" path="site/resources/Coalition_on_Homelessness/Audio/MissionShort.mp3"><![CDATA[Mission Short]]></audio>
+		<audio type="full" path="site/resources/Coalition_on_Homelessness/Audio/FULL.mp3"><![CDATA[Full Interview]]></audio>
+		<audio type="clip" path="site/resources/Coalition_on_Homelessness/Audio/Mission.mp3"><![CDATA[Mission Statement]]></audio>
+		<audio type="clip" path="site/resources/Coalition_on_Homelessness/Audio/History.mp3"><![CDATA[History]]></audio>
+		<audio type="clip" path="site/resources/Coalition_on_Homelessness/Audio/Services.mp3"><![CDATA[Services]]></audio>
+		<audio type="clip" path="site/resources/Coalition_on_Homelessness/Audio/Partnerships.mp3"><![CDATA[Partnerships]]></audio>
+		<audio type="clip" path="site/resources/Coalition_on_Homelessness/Audio/Context.mp3"><![CDATA[Context]]></audio>
+		<audio type="clip" path="site/resources/Coalition_on_Homelessness/Audio/SuccessStory.mp3"><![CDATA[Success Story]]></audio>
+	</resource>
+
+	<resource>
+		<info type="name"><![CDATA[Community Housing Partnership]]></info>	
+		<info type="description"><![CDATA[Community Housing Partnership (CHP) is a San Francisco-based nonprofit organization that develops and operates permanent housing for formerly homeless people with on-site support services, job training, leadership development and employment opportunities. CHP's model was created to help people overcome homelessness, permanently, and its success is nationally and internationally recognized.]]></info>		
+		<info type="phone"><![CDATA[415.929.2470]]></info>
+		<info type="address"><![CDATA[280 Turk Street]]></info>
+		<info type="website"><![CDATA[www.chp-sf.org]]></info>
+
+		<tag><![CDATA[Housing]]></tag>
+
+		<coordinate><![CDATA[37.78305, -122.41376]]></coordinate>
+
+		<image><![CDATA[site/resources/Community_Housing_Partnership/image1.jpg]]></image>
+		<image><![CDATA[site/resources/Community_Housing_Partnership/image2.jpg]]></image>
+		<image><![CDATA[site/resources/Community_Housing_Partnership/image3.jpg]]></image>
+
+		<audio type="game" path="site/resources/Community_Housing_Partnership/Audio/MissionShort.mp3"><![CDATA[Mission Short]]></audio>
+		<audio type="full" path="site/resources/Community_Housing_Partnership/Audio/FULL.mp3"><![CDATA[Full Interview]]></audio>
+		<audio type="clip" path="site/resources/Community_Housing_Partnership/Audio/Mission.mp3"><![CDATA[Mission Statement]]></audio>
+		<audio type="clip" path="site/resources/Community_Housing_Partnership/Audio/History.mp3"><![CDATA[History]]></audio>
+		<audio type="clip" path="site/resources/Community_Housing_Partnership/Audio/Services.mp3"><![CDATA[Services]]></audio>
+		<audio type="clip" path="site/resources/Community_Housing_Partnership/Audio/Partnerships.mp3"><![CDATA[Partnerships]]></audio>
+		<audio type="clip" path="site/resources/Community_Housing_Partnership/Audio/SuccessStory.mp3"><![CDATA[Success Story]]></audio>
+	</resource>
+	
+	<resource>
+		<info type="name"><![CDATA[Compass Childrenis Center]]></info>	
+		<info type="description"><![CDATA[Compass Childrenís Center is an award-winning, enriched early childhood education center with a curriculum tailored to meet the specific needs of children living in extreme poverty and homelessness.]]></info>		
+		<info type="phone"><![CDATA[415.776.4010]]></info>
+		<info type="address"><![CDATA[144 Leavenworth Street]]></info>
+		<info type="website"><![CDATA[www.compass-sf.org/programs/childrens-center]]></info>
+
+		<tag><![CDATA[Children]]></tag>
+		<tag><![CDATA[Education]]></tag>
+		<tag><![CDATA[Food]]></tag>
+
+		<coordinate><![CDATA[37.78243, -122.41372]]></coordinate>
+
+		<image><![CDATA[site/resources/Compass_Childrens_Center/image1.jpg]]></image>
+		<image><![CDATA[site/resources/Compass_Childrens_Center/image2.jpg]]></image>
+		<image><![CDATA[site/resources/Compass_Childrens_Center/image3.jpg]]></image>
+		<image><![CDATA[site/resources/Compass_Childrens_Center/image4.jpg]]></image>
+
+		<audio type="game" path="site/resources/Compass_Childrens_Center/Audio/MissionShort.mp3"><![CDATA[Mission Short]]></audio>
+		<audio type="full" path="site/resources/Compass_Childrens_Center/Audio/FULL.mp3"><![CDATA[Full Interview]]></audio>
+		<audio type="clip" path="site/resources/Compass_Childrens_Center/Audio/Mission.mp3"><![CDATA[Mission Statement]]></audio>
+		<audio type="clip" path="site/resources/Compass_Childrens_Center/Audio/Services.mp3"><![CDATA[Services]]></audio>
+		<audio type="clip" path="site/resources/Compass_Childrens_Center/Audio/Partnerships.mp3"><![CDATA[Partnerships]]></audio>
+		<audio type="clip" path="site/resources/Compass_Childrens_Center/Audio/Context.mp3"><![CDATA[Context]]></audio>
+	</resource>
+
+	<resource>
+		<info type="name"><![CDATA[Glide Memorial]]></info>	
+		<info type="description"><![CDATA[Glide's mission is to create a radically inclusive, just and loving community mobilized to alleviate suffering and break the cycles of poverty and marginalization. Services include meals, health, housing, emergency, and family services.]]></info>		
+		<info type="phone"><![CDATA[415.674.6000]]></info>
+		<info type="address"><![CDATA[300 Ellis Street]]></info>
+		<info type="website"><![CDATA[www.glide.org]]></info>
+
+		<tag><![CDATA[Food]]></tag>
+		<tag><![CDATA[Housing]]></tag>
+		<tag><![CDATA[Health]]></tag>
+		<tag><![CDATA[Emergency]]></tag>
+		<tag><![CDATA[Education]]></tag>
+		<tag><![CDATA[Youth]]></tag>
+		<tag><![CDATA[Spirituality]]></tag>
+
+		<coordinate><![CDATA[37.78509, -122.41115]]></coordinate>
+
+		<image><![CDATA[site/resources/Glide_Memorial/image1.jpg]]></image>
+	</resource>
+	
+	<resource>
+		<info type="name"><![CDATA[Hamilton Family Residence]]></info>	
+		<info type="description"><![CDATA[HFC is the largest provider of shelter, eviction prevention assistance, rapid re-housing, youth programming, and support services for homeless families in San Francisco.]]></info>		
+		<info type="phone"><![CDATA[415.292.9930]]></info>
+		<info type="address"><![CDATA[260 Golden Gate Avenue]]></info>
+		<info type="website"><![CDATA[www.hamiltonfamilycenter.org]]></info>
+
+		<tag><![CDATA[Housing]]></tag>
+		<tag><![CDATA[Food]]></tag>
+		<tag><![CDATA[Youth]]></tag>
+
+		<coordinate><![CDATA[37.78201, -122.41497]]></coordinate>
+
+		<image><![CDATA[site/resources/Hamilton_Family_Residence/image1.jpg]]></image>
+	</resource>
+
+	<resource>
+		<info type="name"><![CDATA[Kindness Kitchen]]></info>	
+		<info type="description"><![CDATA[Kindness Kitchen is run by kind and compassionate volunteers. The vegetarian and vegan dishes are served with love, kindness and offered as unconditional gift.]]></info>		
+		<info type="phone"><![CDATA[415.775.1988]]></info>
+		<info type="address"><![CDATA[1122 Post]]></info>
+		<info type="website"><![CDATA[blog.kindnesskitchen.com]]></info>
+
+		<tag><![CDATA[Food]]></tag>
+
+		<coordinate><![CDATA[37.78680, -122.42028]]></coordinate>
+
+		<image><![CDATA[site/resources/Kindness_Kitchen/image1.jpg]]></image>
+		<image><![CDATA[site/resources/Kindness_Kitchen/image2.jpg]]></image>
+	</resource>
+		
+	<resource>
+		<info type="name"><![CDATA[Larkin Street Youth]]></info>	
+		<info type="description"><![CDATA[Organization helping kids and young adults get off of the Tenderloin streets by fostering community and access to resources.]]></info>		
+		<info type="phone"><![CDATA[415.673.0911]]></info>
+		<info type="address"><![CDATA[869 Ellis Street]]></info>
+		<info type="website"><![CDATA[www.larkinStreetYouth.org]]></info>
+
+		<tag><![CDATA[Youth]]></tag>
+		<tag><![CDATA[Job Services]]></tag>
+		<tag><![CDATA[Education]]></tag>
+
+		<coordinate><![CDATA[37.78388, -122.42046]]></coordinate>
+
+		<image><![CDATA[site/resources/Larkin_Street_Youth/image1.jpg]]></image>
+		<image><![CDATA[site/resources/Larkin_Street_Youth/image2.jpg]]></image>
+
+		<audio type="game" path="site/resources/Larkin_Street_Youth/Audio/MissionShort.mp3"><![CDATA[Mission Short]]></audio>
+		<audio type="full" path="site/resources/Larkin_Street_Youth/Audio/FULL.mp3"><![CDATA[Full Interview]]></audio>
+		<audio type="clip" path="site/resources/Larkin_Street_Youth/Audio/Mission.mp3"><![CDATA[Mission Statement]]></audio>
+		<audio type="clip" path="site/resources/Larkin_Street_Youth/Audio/History.mp3"><![CDATA[History]]></audio>
+		<audio type="clip" path="site/resources/Larkin_Street_Youth/Audio/Services.mp3"><![CDATA[Services]]></audio>
+		<audio type="clip" path="site/resources/Larkin_Street_Youth/Audio/Context.mp3"><![CDATA[Context]]></audio>
+		<audio type="clip" path="site/resources/Larkin_Street_Youth/Audio/SuccessStory.mp3"><![CDATA[Success Story]]></audio>
+	</resource>
+
+	<resource>
+		<info type="name"><![CDATA[Luggage Store Gallery]]></info>	
+		<info type="description"><![CDATA[Offers exhibitions, performances and internships, as well as a weekly electronic, improvisational and experimental music series. In collaboration with Youth Speaks, sponsors an open-mic for youths age 21 and under on the last Fri. of the month.]]></info>		
+		<info type="phone"><![CDATA[415.255.5971]]></info>
+		<info type="address"><![CDATA[1007 Market Street]]></info>
+		<info type="website"><![CDATA[www.luggagestoregallery.org]]></info>
+
+		<tag><![CDATA[Art]]></tag>
+		<tag><![CDATA[Youth]]></tag>
+
+		<coordinate><![CDATA[37.78182, -122.41044]]></coordinate>
+
+		<image><![CDATA[site/resources/Luggage_Store_Gallery/image1.jpg]]></image>
+	</resource>
+	
+	<resource>
+		<info type="name"><![CDATA[Lutheran Social Services]]></info>	
+		<info type="description"><![CDATA[Offers a variety of services for those in need, including housing services,  support for emancipated former foster care youth, and disaster preparedness and relief.]]></info>		
+		<info type="phone"><![CDATA[415.581.0891]]></info>
+		<info type="address"><![CDATA[191 Golden Gate Avenue]]></info>
+		<info type="website"><![CDATA[www.lssnorcal.org]]></info>
+
+		<tag><![CDATA[Housing]]></tag>
+		<tag><![CDATA[Youth]]></tag>
+		<tag><![CDATA[Emergency]]></tag>
+
+		<coordinate><![CDATA[37.78190, -122.41372]]></coordinate>
+
+		<image><![CDATA[site/resources/Lutheran_Social_Services/image1.jpg]]></image>
+	</resource>
+	
+	<resource>
+		<info type="name"><![CDATA[Network Ministries]]></info>	
+		<info type="description"><![CDATA[San Francisco Network Ministries works cooperatively for the empowerment of all, proclaiming good news for the poor and seeking liberty for those who are oppressed.  They provide affordable housing,  as well as memorial services to remember the lives of poor and homeless people.]]></info>		
+		<info type="phone"><![CDATA[415.928.6209]]></info>
+		<info type="address"><![CDATA[559 Ellis Street]]></info>
+		<info type="website"><![CDATA[www.sfnetworkministries.org]]></info>
+		
+		<tag><![CDATA[Poverty]]></tag>
+
+		<coordinate><![CDATA[37.78450, -122.41557]]></coordinate>
+
+		<image><![CDATA[site/resources/Network_Ministries/image1.jpg]]></image>
+		<image><![CDATA[site/resources/Network_Ministries/image2.jpg]]></image>
+		<image><![CDATA[site/resources/Network_Ministries/image3.jpg]]></image>
+		<image><![CDATA[site/resources/Network_Ministries/image4.jpg]]></image>
+
+		<audio type="game" path="site/resources/Network_Ministries/Audio/MissionShort.mp3"><![CDATA[Mission Short]]></audio>
+		<audio type="full" path="site/resources/Network_Ministries/Audio/FULL.mp3"><![CDATA[Full Interview]]></audio>
+		<audio type="clip" path="site/resources/Network_Ministries/Audio/Mission.mp3"><![CDATA[Mission Statement]]></audio>
+		<audio type="clip" path="site/resources/Network_Ministries/Audio/History.mp3"><![CDATA[History]]></audio>
+		<audio type="clip" path="site/resources/Network_Ministries/Audio/Services.mp3"><![CDATA[Services]]></audio>
+		<audio type="clip" path="site/resources/Network_Ministries/Audio/Demographics.mp3"><![CDATA[Demographics]]></audio>
+		<audio type="clip" path="site/resources/Network_Ministries/Audio/Context.mp3"><![CDATA[Context]]></audio>
+	</resource>
+
+	<resource>
+		<info type="name"><![CDATA[Shanti]]></info>	
+		<info type="description"><![CDATA[Shanti provides practical and emotional support to women with breast cancer. Transportation to and from medical appointments; in-home meal delivery seven days a week; temporary emergency funds; in-home volunteers who provide emotional and practical support such as grocery shopping, light housekeeping, appointment making; referrals; assistance with applying for financial benefits to cover breast cancer treatments.]]></info>		
+		<info type="phone"><![CDATA[415.674.4780]]></info>
+		<info type="address"><![CDATA[730 Polk Street. 3rd Fl.]]></info>
+		<info type="website"><![CDATA[www.shanti.org]]></info>
+
+		<tag><![CDATA[Health]]></tag>
+		<tag><![CDATA[Family Support]]></tag>
+
+		<coordinate><![CDATA[37.78357, -122.41925]]></coordinate>
+
+		<image><![CDATA[site/resources/Shanti/image1.jpg]]></image>
+	</resource>
+	
+	<resource>
+		<info type="name"><![CDATA[SRO Collaborative]]></info>	
+		<info type="description"><![CDATA[The Central City SRO Collaborative was established in 2001 to organize with Single Room Occupancy (SRO) tenants in San Francisco's Central City neighborhoods including the Tenderloin and South of Market.]]></info>		
+		<info type="phone"><![CDATA[415.775.7110]]></info>
+		<info type="address"><![CDATA[259 Hyde]]></info>
+		<info type="website"><![CDATA[www.ccsro.org]]></info>
+
+		<tag><![CDATA[Housing]]></tag>
+
+		<coordinate><![CDATA[37.78330, -122.41587]]></coordinate>
+
+		<image><![CDATA[site/resources/SRO_Collaborative/image1.jpg]]></image>
+	</resource>
+	
+	<resource>
+		<info type="name"><![CDATA[St. Anthony's Foundation]]></info>	
+		<info type="description"><![CDATA[The mission of St. Anthony Foundation is to feed, heal, shelter, clothe, lift the spirits of those in need, and create a society in which all persons flourish. ]]></info>		
+		<info type="phone"><![CDATA[415.592.2766]]></info>
+		<info type="address"><![CDATA[150 Golden Gate Avenue]]></info>
+		<info type="website"><![CDATA[www.stanthonysf.org]]></info>
+
+		<tag><![CDATA[Housing]]></tag>
+		<tag><![CDATA[Health]]></tag>
+		<tag><![CDATA[Clothing]]></tag>
+		<tag><![CDATA[Technology]]></tag>
+		<tag><![CDATA[Food]]></tag>
+		
+		<!-- Same as Tech Lab Overlapping: Multi Tab Info Window -->
+		<coordinate><![CDATA[37.78223, -122.41322]]></coordinate>
+
+		<image><![CDATA[site/resources/St_Anthonys_Foundation/image1.jpg]]></image>
+	</resource>
+	
+	<resource>
+		<info type="name"><![CDATA[Tenderloin Children Playground]]></info>	
+		<info type="description"><![CDATA[Operated by San Francisco Recreation and Parks Department, the Tenderloin Children's Playground provides kids and teens a safe and supervised place to play and participate in activities and events. It offers activities for neighborhood youth including pre-school activities, a latch-key program, arts and crafts, dance, sewing, cooking, gardening, woodworking, and year-round sports.]]></info>		
+		<info type="phone"><![CDATA[415.292.2163]]></info>
+		<info type="address"><![CDATA[570 Ellis Street]]></info>
+		<info type="website"><![CDATA[ ]]></info>
+
+		<tag><![CDATA[Children]]></tag>
+		<tag><![CDATA[Education]]></tag>
+
+		<coordinate><![CDATA[37.78479, -122.41564]]></coordinate>
+
+		<image><![CDATA[site/resources/Tenderloin_Childrens_Playground/image1.jpg]]></image>
+		<image><![CDATA[site/resources/Tenderloin_Childrens_Playground/image2.jpg]]></image>
+		<image><![CDATA[site/resources/Tenderloin_Childrens_Playground/image3.jpg]]></image>
+
+		<audio type="game" path="site/resources/Tenderloin_Childrens_Playground/Audio/MissionShort.mp3"><![CDATA[Mission Short]]></audio>
+		<audio type="full" path="site/resources/Tenderloin_Childrens_Playground/Audio/FULL.mp3"><![CDATA[Full Interview]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Childrens_Playground/Audio/Mission.mp3"><![CDATA[Mission Statement]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Childrens_Playground/Audio/History.mp3"><![CDATA[History]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Childrens_Playground/Audio/Services.mp3"><![CDATA[Services]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Childrens_Playground/Audio/Newcomers.mp3"><![CDATA[Newcomers]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Childrens_Playground/Audio/Demographics.mp3"><![CDATA[Demographics]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Childrens_Playground/Audio/Partnerships.mp3"><![CDATA[Partnerships]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Childrens_Playground/Audio/Context.mp3"><![CDATA[Context]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Childrens_Playground/Audio/Testimonial.mp3"><![CDATA[Testimonial]]></audio>
+	</resource>
+
+	<resource>
+		<info type="name"><![CDATA[Tenderloin Housing Clinic]]></info>	
+		<info type="description"><![CDATA[The Clinicís mission is to prevent tenant displacement, preserve and expand the Cityís low cost housing stock and to provide comprehensive legal assistance to low income tenants.]]></info>		
+		<info type="phone"><![CDATA[415.771.9844]]></info>
+		<info type="address"><![CDATA[472 Turk Street]]></info>
+		<info type="website"><![CDATA[www.thclinic.org]]></info>
+
+		<tag><![CDATA[Health]]></tag>
+
+		<coordinate><![CDATA[37.78264, -122.41689]]></coordinate>
+
+		<image><![CDATA[site/resources/Tenderloin_Housing_Clinic/image1.jpg]]></image>
+	</resource>
+	
+	<resource>
+		<info type="name"><![CDATA[Tenderloin National Forest]]></info>	
+		<info type="description"><![CDATA[The Tenderloin National Forest was created to address the lack of green space in this neighborhood. The Forest is an inspiration and model for others to attempt gardening in the inner city.]]></info>		
+		<info type="phone"><![CDATA[415.255.5971 ]]></info>
+		<info type="address"><![CDATA[Cohen Alley at Ellis and Leavenworth]]></info>
+		<info type="website"><![CDATA[www.carbonfarm.us/tenderloin.html]]></info>
+
+		<tag><![CDATA[Community Garden]]></tag>
+		<tag><![CDATA[Nature]]></tag>
+		<tag><![CDATA[Art]]></tag>
+
+		<coordinate><![CDATA[37.78461, -122.41478]]></coordinate>
+
+		<image><![CDATA[site/resources/Tenderloin_National_Forest/image1.jpg]]></image>
+	</resource>
+	
+	<resource>
+		<info type="name"><![CDATA[Tenderloin Neighborhood Development Corporation]]></info>	
+		<info type="description"><![CDATA[TNDC provides safe, affordable housing with support services for low-income people in the Tenderloin community.]]></info>		
+		<info type="phone"><![CDATA[415.776.2151]]></info>
+		<info type="address"><![CDATA[201 Eddy Street]]></info>
+		<info type="website"><![CDATA[www.tndc.org]]></info>
+
+		<tag><![CDATA[Housing]]></tag>
+
+		<coordinate><![CDATA[37.78392, -122.41127]]></coordinate>
+
+		<image><![CDATA[site/resources/Tenderloin_Neighborhood_Development_Corporation/image1.jpg]]></image>
+	</resource>
+	
+	<resource>
+		<info type="name"><![CDATA[Tenderloin Tech Lab]]></info>	
+		<info type="description"><![CDATA[The Tenderloin Tech Lab is the Tenderloinís only technology center specializing in adult computer and employment skills training, which aids residents in overcoming the barriers to employment and accessing technology.]]></info>		
+		<info type="phone"><![CDATA[415.592.2766]]></info>
+		<info type="address"><![CDATA[150 Golden Gate Avenue]]></info>
+		<info type="website"><![CDATA[www.stanthonysf.org/?q=services/tenderloin-tech-lab]]></info>
+		
+		<tag><![CDATA[Technology]]></tag>
+
+		<!-- <coordinate><![CDATA[37.78223, -122.41127]]></coordinate> -->
+		<coordinate><![CDATA[37.78176, -122.41217]]></coordinate>
+
+		<image><![CDATA[site/resources/Tenderloin_Tech_Lab/image1.jpg]]></image>
+
+		<audio type="game" path="site/resources/Tenderloin_Tech_Lab/Audio/MissionShort.mp3"><![CDATA[Mission Short]]></audio>
+		<audio type="full" path="site/resources/Tenderloin_Tech_Lab/Audio/FULL.mp3"><![CDATA[Full Interview]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Tech_Lab/Audio/Mission.mp3"><![CDATA[Mission Statement]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Tech_Lab/Audio/History.mp3"><![CDATA[History]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Tech_Lab/Audio/Services.mp3"><![CDATA[Services]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Tech_Lab/Audio/Demographics.mp3"><![CDATA[Demographics]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Tech_Lab/Audio/Context.mp3"><![CDATA[Context]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Tech_Lab/Audio/SuccessStory.mp3"><![CDATA[Success Story]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Tech_Lab/Audio/Collaboration.mp3"><![CDATA[Collaboration]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Tech_Lab/Audio/Newcomers.mp3"><![CDATA[Newcomers]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Tech_Lab/Audio/Testimonial.mp3"><![CDATA[Testimonial]]></audio>
+		<audio type="clip" path="site/resources/Tenderloin_Tech_Lab/Audio/Outtakes.mp3"><![CDATA[Outtakes]]></audio>
+	</resource>
+
+	<resource>
+		<info type="name"><![CDATA[Youth with a Mission]]></info>	
+		<info type="description"><![CDATA[Youth With a Mission works toward the holistic development of individuals, fighting for those who cannot fight for themselves, to bring justice, healing and restoration. Their Tenderloin location offers a variety of services including a drop-in daytime center with games, a food pantry, and a life group for sharing experiences.]]></info>		
+		<info type="phone"><![CDATA[415.309.9462]]></info>
+		<info type="address"><![CDATA[355 Ellis Street]]></info>
+		<info type="website"><![CDATA[www.ywamsanfrancisco.org]]></info>
+
+		<tag><![CDATA[Youth]]></tag>
+		<tag><![CDATA[Spirituality]]></tag>
+		
+		<coordinate><![CDATA[37.78468, -122.41205]]></coordinate>
+
+		<image><![CDATA[site/resources/Youth_With_a_Mission/image1.jpg]]></image>
+		<image><![CDATA[site/resources/Youth_With_a_Mission/image2.jpg]]></image>
+		<image><![CDATA[site/resources/Youth_With_a_Mission/image3.jpg]]></image>
+
+		<audio type="game" path="site/resources/Youth_With_a_Mission/Audio/MissionShort.mp3"><![CDATA[Mission Short]]></audio>
+		<audio type="full" path="site/resources/Youth_With_a_Mission/Audio/FULL.mp3"><![CDATA[Full Interview]]></audio>
+		<audio type="clip" path="site/resources/Youth_With_a_Mission/Audio/Mission.mp3"><![CDATA[Mission Statement]]></audio>
+		<audio type="clip" path="site/resources/Youth_With_a_Mission/Audio/History.mp3"><![CDATA[History]]></audio>
+		<audio type="clip" path="site/resources/Youth_With_a_Mission/Audio/Services.mp3"><![CDATA[Services]]></audio>
+		<audio type="clip" path="site/resources/Youth_With_a_Mission/Audio/Demographics.mp3"><![CDATA[Demographics]]></audio>
+		<audio type="clip" path="site/resources/Youth_With_a_Mission/Audio/Context.mp3"><![CDATA[Context]]></audio>
+		<audio type="clip" path="site/resources/Youth_With_a_Mission/Audio/Partnerships.mp3"><![CDATA[Partnerships]]></audio>
+	</resource>
+
+	<!-- 
+	<resource>
+		<info type="name"><![CDATA[ ]]></info>	
+		<info type="description"><![CDATA[ ]]></info>		
+		<info type="phone"><![CDATA[ ]]></info>
+		<info type="address"><![CDATA[ ]]></info>
+		<info type="website"><![CDATA[ ]]></info>
+
+		<tag><![CDATA[null]]></tag>
+		<tag><![CDATA[null]]></tag>
+		<tag><![CDATA[null]]></tag>
+		<tag><![CDATA[null]]></tag>
+		<tag><![CDATA[null]]></tag>
+
+		<coordinate><![CDATA[, ]]></coordinate>
+
+		<image><![CDATA[site/resources/xxx/image1.jpg]]></image>
+
+		<audio type="game" path="site/resources/xxx/Audio/0_MissionShort.mp3"><![CDATA[Mission Short]]></audio>
+		<audio type="full" path="site/resources/xxx/Audio/FULL.mp3"><![CDATA[Full Interview]]></audio>
+		<audio type="clip" path="site/resources/xxx/Audio/1_Mission.mp3"><![CDATA[Mission Statement]]></audio>
+		<audio type="clip" path="site/resources/xxx/Audio/2_History.mp3"><![CDATA[History]]></audio>
+		<audio type="clip" path="site/resources/xxx/Audio/3_Services.mp3"><![CDATA[Services]]></audio>
+		<audio type="clip" path="site/resources/xxx/Audio/4_Demographics.mp3"><![CDATA[Demographics]]></audio>
+		<audio type="clip" path="site/resources/xxx/Audio/5_Context.mp3"><![CDATA[Context]]></audio>
+		<audio type="clip" path="site/resources/xxx/Audio/6_Success_Story.mp3"><![CDATA[Success Story]]></audio>
+		<audio type="clip" path="site/resources/xxx/Audio/7_Collaboration.mp3"><![CDATA[Collaboration]]></audio>
+		<audio type="clip" path="site/resources/xxx/Audio/8_Expectation.mp3"><![CDATA[Expectation]]></audio>
+		<audio type="clip" path="site/resources/xxx/Audio/9_Testimonial.mp3"><![CDATA[Testimonial]]></audio>
+		<audio type="clip" path="site/resources/xxx/Audio/10_Outtakes.mp3"><![CDATA[Outtakes]]></audio>
+	</resource> 
+	-->
+	
+</index>

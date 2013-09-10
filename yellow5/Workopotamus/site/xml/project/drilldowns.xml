@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<drilldowns> 
+	<drill> 
+    	<drillname><![CDATA[ ]]></drillname> 
+        <drilltype><![CDATA[info]]></drilltype>
+        <drilltime><![CDATA[ ]]></drilltime>    
+		<title><![CDATA[About Workopotomus]]></title> 
+		<caption><![CDATA[Workopotomus is a modern suit made for the newly employed, or anyone who has less than a million dollars for work wear but needs to look good. <br><br>We created one reliable fit in two colors to keep costs down and make suit-buying as easy as possible. If you buy both, you can swap them throughout the workweek and still not break the bank.]]></caption>        
+    </drill> 
+
+	<drill> 
+    	<drillname><![CDATA[ ]]></drillname> 
+        <drilltype><![CDATA[info]]></drilltype>
+        <drilltime><![CDATA[ ]]></drilltime>    
+		<title><![CDATA[Will it Fit Me?]]></title>
+		<caption><![CDATA[Workopotomus suits are designed for wearability—not too boxy, not too skinny. We call it a modern fit and it suits all kinds of body types. That’s our model Jim on the left. He’s 6’0, buck-sixty and wears a 38. Check out other sample types below.]]></caption>        
+    </drill>  
+
+	<drill> 
+    	<drillname><![CDATA[ ]]></drillname> 
+        <drilltype><![CDATA[fit]]></drilltype>
+        <drilltime><![CDATA[ ]]></drilltime>    
+		<title><![CDATA[Not Just Another Monkey Suit]]></title> 
+		<caption><![CDATA[ ]]></caption>
+		<fits>
+			<sample name="tall" path="images/sizes/tall.png" thumb="images/sizes/tall_thumb.jpg" ><![CDATA[6' 7", wearing a 44 jacket]]></sample>
+			<sample name="husky" path="images/sizes/husky.png" thumb="images/sizes/husky_thumb.jpg" ><![CDATA[5' 11", broad shoulders, 44 jacket]]></sample>
+			<sample name="regular" path="images/sizes/regular.png" thumb="images/sizes/regular_thumb.jpg" ><![CDATA[5' 10", slim 38 jacket]]></sample>
+			<sample name="ape" path="images/sizes/ape.png" thumb="images/sizes/ape_thumb.jpg" ><![CDATA[Gorilla. Birthday suit.]]></sample> 
+		</fits>        
+    </drill> 
+
+	<drill> 
+    	<drillname><![CDATA[ ]]></drillname> 
+        <drilltype><![CDATA[info]]></drilltype>
+        <drilltime><![CDATA[ ]]></drilltime>    
+		<title><![CDATA[How Do I Pick My Size?]]></title> 
+		<caption><![CDATA[Workopotomus fits true to size. To find yours, try on any modern suit and note the jacket and pant sizes. We ship your suit trousers un-hemmed so you can tailor them to your height. Hint: you can get this done at any dry-cleaner for about five bucks.]]></caption>        
+    </drill>     
+
+	<drill> 
+    	<drillname><![CDATA[ ]]></drillname> 
+        <drilltype><![CDATA[info]]></drilltype>
+        <drilltime><![CDATA[ ]]></drilltime>    
+		<title><![CDATA[How Do You Make a Good $100 suit?]]></title> 
+		<caption><![CDATA[We keep it affordable by offering a single modern fit in two functional colors. Specializing lets us make a nice suit from good wool fabric for less than anyone else. We also keep costs down by staying virtual. Thank the internet.]]></caption>        
+    </drill> 
+
+	<drill> 
+    	<drillname><![CDATA[ ]]></drillname> 
+        <drilltype><![CDATA[info]]></drilltype>
+        <drilltime><![CDATA[ ]]></drilltime>    
+		<title><![CDATA[Are There Other Colors?]]></title> 
+		<caption><![CDATA[Mhmm. We’re working on a nice pinstripe so you can have three suits to choose from if you work a standard five-day week. For now there’s black and grey, by popular demand.]]></caption>        
+    </drill>    
+</drilldowns>

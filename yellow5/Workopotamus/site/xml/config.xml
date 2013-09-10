@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config root=''>
+		
+	<xml>						
+		<!-- 
+		<file><![CDATA[http://www.workopotamus.com/dev/site/xml/project/about.xml]]></file> 
+		<file><![CDATA[http://www.workopotamus.com/dev/site/xml/project/cuepoints.xml]]></file>   
+		<file><![CDATA[http://www.workopotamus.com/dev/site/xml/project/drilldowns.xml]]></file> 
+		-->
+		
+		<file><![CDATA[xml/project/about.xml]]></file> 
+		<file><![CDATA[xml/project/cuepoints_27.xml]]></file>   
+		<file><![CDATA[xml/project/drilldowns.xml]]></file>     
+		<file><![CDATA[xml/project/faq.xml]]></file>     
+		<file><![CDATA[xml/project/shipping.xml]]></file>	    																			
+	</xml>   
+</config>

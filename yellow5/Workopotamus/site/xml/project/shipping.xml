@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<shipping>			
+	<questions title="Shipping + Returns">
+		<question q="How long does shipping take?"><![CDATA[Two to three days. Orders ship the same or next day from our San Francisco headquarters. All orders ship Priority USPS with a tracking number so you can check delivery status. Flat rate of $10 wherever you are.]]></question>
+		<question q="What’s your return policy?"><![CDATA[Send it back within 14 days of the date it shipped to you and we’ll refund or exchange your order minus the original shipping cost. Suits should be unworn and undamaged with product tags still attached. Credit will post within 48 hours. We doubt you’ll return it though. The fits are really good.]]></question>
+	</questions>
+</shipping>

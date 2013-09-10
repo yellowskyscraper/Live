@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cuepoints flv='videos/workopotamus.flv'>    
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->  
+	
+	<cuepoint> 
+    	<cuename><![CDATA[firstidle]]></cuename> 
+        <cuetime><![CDATA[0]]></cuetime>     
+    </cuepoint>    
+
+	<cuepoint> 
+    	<cuename><![CDATA[stop]]></cuename> 
+        <cuetime><![CDATA[1.2]]></cuetime>        
+    </cuepoint>                       
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->  
+	
+	<cuepoint> 
+    	<cuename><![CDATA[beginning]]></cuename> 
+        <cuetime><![CDATA[1.5]]></cuetime>     
+    </cuepoint>    
+
+	<cuepoint> 
+    	<cuename><![CDATA[stop]]></cuename> 
+        <cuetime><![CDATA[21]]></cuetime>        
+    </cuepoint>                       
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->  
+	
+	<cuepoint> 
+    	<cuename><![CDATA[enunciation]]></cuename> 
+        <cuetime><![CDATA[26]]></cuetime>     
+    </cuepoint>    
+
+	<cuepoint> 
+    	<cuename><![CDATA[stop]]></cuename> 
+        <cuetime><![CDATA[29.2]]></cuetime>        
+    </cuepoint> 
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->
+
+	<cuepoint> 
+    	<cuename><![CDATA[idleone]]></cuename> 
+        <cuetime><![CDATA[29.8]]></cuetime>  
+    </cuepoint>    
+
+	<cuepoint> 
+    	<cuename><![CDATA[stop]]></cuename> 
+        <cuetime><![CDATA[34.2]]></cuetime>     
+    </cuepoint>
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->  
+	
+	<cuepoint> 
+    	<cuename><![CDATA[comeon]]></cuename> 
+        <cuetime><![CDATA[35.8]]></cuetime>     
+    </cuepoint>    
+
+	<cuepoint> 
+    	<cuename><![CDATA[stop]]></cuename> 
+        <cuetime><![CDATA[43]]></cuetime>        
+    </cuepoint> 
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->
+	<cuepoint> 
+    	<cuename><![CDATA[spin]]></cuename> 
+        <cuetime><![CDATA[43.5]]></cuetime>     
+    </cuepoint>    
+
+	<cuepoint> 
+    	<cuename><![CDATA[stop]]></cuename> 
+        <cuetime><![CDATA[58.5]]></cuetime>    
+    </cuepoint>                     
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->
+	
+	<cuepoint> 
+    	<cuename><![CDATA[userunthrough]]></cuename> 
+        <cuetime><![CDATA[59.05]]></cuetime> 
+    </cuepoint>    
+
+	<cuepoint> 
+    	<cuename><![CDATA[stop]]></cuename> 
+        <cuetime><![CDATA[64.3]]></cuetime>        
+    </cuepoint>                       
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->  
+	
+	<cuepoint> 
+    	<cuename><![CDATA[eachday]]></cuename> 
+        <cuetime><![CDATA[64.5]]></cuetime> 
+    </cuepoint>    
+
+	<cuepoint> 
+    	<cuename><![CDATA[stop]]></cuename> 
+        <cuetime><![CDATA[71]]></cuetime>        
+    </cuepoint>                       
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->  
+	
+	<cuepoint> 
+    	<cuename><![CDATA[yourmom]]></cuename> 
+        <cuetime><![CDATA[79.5]]></cuetime>     
+    </cuepoint>    
+
+	<cuepoint> 
+    	<cuename><![CDATA[stop]]></cuename> 
+        <cuetime><![CDATA[83.5]]></cuetime>        
+    </cuepoint>  
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->  
+	
+	<cuepoint> 
+    	<cuename><![CDATA[yougotit]]></cuename> 
+        <cuetime><![CDATA[83]]></cuetime>     
+    </cuepoint>    
+
+	<cuepoint> 
+    	<cuename><![CDATA[stop]]></cuename> 
+        <cuetime><![CDATA[92]]></cuetime>        
+    </cuepoint>  
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->
+	
+	<cuepoint> 
+    	<cuename><![CDATA[otherdudes]]></cuename> 
+        <cuetime><![CDATA[92.3]]></cuetime>     
+    </cuepoint>    
+
+	<cuepoint> 
+    	<cuename><![CDATA[stop]]></cuename> 
+        <cuetime><![CDATA[96.8]]></cuetime>        
+    </cuepoint>  
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->
+
+	<cuepoint> 
+    	<cuename><![CDATA[idletwo]]></cuename> 
+        <cuetime><![CDATA[97]]></cuetime>     
+    </cuepoint>    
+
+	<cuepoint> 
+    	<cuename><![CDATA[stop]]></cuename> 
+        <cuetime><![CDATA[108]]></cuetime>   
+    </cuepoint>                     
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->    
+
+	<cuepoint> 
+    	<cuename><![CDATA[taptaptap]]></cuename> 
+        <cuetime><![CDATA[108.2]]></cuetime>     
+    </cuepoint>    
+
+	<cuepoint> 
+    	<cuename><![CDATA[stop]]></cuename> 
+        <cuetime><![CDATA[132.1]]></cuetime>   
+    </cuepoint>                     
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->  
+
+	<cuepoint> 
+    	<cuename><![CDATA[dancemonkey]]></cuename> 
+        <cuetime><![CDATA[132.5]]></cuetime>     
+    </cuepoint>    
+
+	<cuepoint> 
+    	<cuename><![CDATA[stop]]></cuename> 
+        <cuetime><![CDATA[143.5]]></cuetime>   
+    </cuepoint>                     
+	<!-- //////////////////////////////////////////////////////////////////////////////////// -->
+</cuepoints>
