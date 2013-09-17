@@ -1,4 +1,4 @@
-<!doctype html>
+			<!doctype html>
 <html lang="en">
 
 <head>
@@ -48,7 +48,11 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>November 2010 | Identity System</p>
+				<ul>
+					<li>November 2010</li>
+					<li>Identity System</li>
+				</ul>
+				
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>

@@ -48,7 +48,11 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>November 2007 | A Non Linear Book?</p>
+				<ul>
+					<li>November 2007</li>
+					<li>A Non Linear Book?</li>
+				</ul>
+				
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>

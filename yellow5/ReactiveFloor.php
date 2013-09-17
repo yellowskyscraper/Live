@@ -48,7 +48,12 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>November 2008 | Small Scale Interactive Installation</p>
+				<ul>
+					<li>November 2008</li>
+					<li>Prototype</li>
+					<li>Small Scale Interactive Installation for Bayer Material Sciences</li>
+				</ul>
+				
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>

@@ -48,7 +48,12 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>July 2010 | E-Commerce Flash Site | Made at <a href="http://www.ordinarykids.com/" target="_blank">OrdinaryKids</a></p>
+				<ul>
+					<li>July 2010</li>
+					<li>E-Commerce Flash Site</li>
+					<li>Made at <a href="http://www.ordinarykids.com/" target="_blank">OrdinaryKids</a></li>
+				</ul>
+				
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>

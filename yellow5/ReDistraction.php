@@ -48,7 +48,11 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>April 2010 | Chrome Plug-in</p>
+				<ul>
+					<li>April 2010</li>
+					<li>Chrome Plug-in</li>
+				</ul>
+				
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>

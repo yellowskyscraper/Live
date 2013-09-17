@@ -11,7 +11,7 @@
 
 	a {
 		text-decoration:none;
-		color: #333;
+		color: #000;
 	}
 	
 	p {
@@ -20,6 +20,7 @@
 	}
 
 	h1 {
+		font-weight: 700;
 		font-size: 30px;
 		line-height: 34px;
 		margin: 0 0 0 0;
@@ -27,6 +28,7 @@
 	}
 
 	h2 {
+		font-weight: 700;
 		font-size: 24px;
 		line-height: 28px;
 		margin: 0 0 0 0;
@@ -34,6 +36,7 @@
 	}
 
 	h3 {
+		font-weight: 700;
 		font-size: 18px;
 		line-height: 22px;
 		margin: 0 0 0 0;
@@ -42,10 +45,14 @@
 
 	header h1 {
 		font-size: 20px;
+		margin: -2px 20px 2px 0;
+	}
+
+	nav {
+		margin: 0 20px 0 0;
 	}
 
 	header h1, nav {
-		margin: 0 20px 0 0;
 		float:left;
 	}
 
@@ -62,11 +69,16 @@
 	}
 
 	header li.current-section {
+		color: #000;
 		cursor:pointer;
 		border-bottom: 3px solid #ddd;
 	}
 
-	header li:hover a{
+	header a li{
+		color: #333;
+	}
+
+	header a:hover li{
 		color: #000;
 	}
 
@@ -82,12 +94,12 @@
 	.landing-header p {
 		font-size: 30px;
 		line-height: 34px;
-		color: #999;
 		margin-top: 20px;
+		color:#999;
 	}
 
 	.landing-credit p {
-		color: #999;
+		color:#888;
 	}
 
 	.hero-unit {
@@ -135,33 +147,51 @@
 	
 	.information-bar {
 		background-color: #eee;
+		margin:10px 0 10px 0;
 	}
 
 	.information-bar a{
+		color:#555;
 		font-weight: bold;
 	}
+
+	.information-bar a:hover{
+		color:#000;
+	}
 	
-	.information-bar p {
+	.information-bar li {
+		border-right: 4px solid #ddd; 
+		list-style-type:none;
 		float:left;
-		padding: 4px 5px 4px 13px;
+		padding: 4px 10px 4px 10px;
+	}
+
+	.information-bar li:last-child {
+		border: 0px solid #ddd; 
 	}
 
 	.divider-line {
 		margin-bottom: 5px;
-		border-top: 1px dotted #ccc;
+		border-top: 1px solid #ddd;
 	}
 
 	.bodycopy p{
-		font-size: 16px;
-		line-height: 19px;
+		font-size: 18px;
+		line-height: 21px;
 		max-width:540px;
 	}
 
 	.bodycopy a{
 		font-weight: bold;
+		color:#555;
+	}
+
+	.bodycopy a:hover{
+		color:#000;
 	}
 
 	.bodycopy h2{
+		margin-bottom: 5px;
 		max-width:540px;
 	}
 
@@ -191,7 +221,7 @@
 
 	.link-to-microsite {
 		width:100%;
-		background-color: #ddd;
+		background-color: #eee;
 		margin: 0 0 20px 0;
 		padding:12px;
 	}
@@ -202,7 +232,11 @@
 
 	.link-to-microsite:hover {
 		cursor:pointer;
-		background-color: #eee;
+		background-color: #ddd;
+	}
+
+	.link-to-microsite h3 {
+		color:#333;
 	}
 
 	.link-to-microsite:hover h3 {
@@ -242,61 +276,69 @@
 /*///////////////////////////////////////////////////////////|
 /////////////////////////////////////////////////////////////|*/
 
-	.tab_images .threecol img {
-		-moz-opacity:.80;
-		filter:alpha(opacity=80);
-		opacity:.80;
+	.tab_images {
+		margin-top: 60px;
+		margin-bottom: 0px;
 	}
 
 	.tab_images .threecol h3 {
-		color: #555;
 		margin: 2px 0 0 0;
+		color:#333;
 	}
 
 	.tab_images .threecol p {
-		color: #555;
 		margin: 0 0 0 0;
-		padding: 0 5px 8px 10px;
+		padding: 0 5px 20px 10px;
+		color:#333;
 	}
 
-	.tab_images .threecol:hover img,
-	.tab_images .current_tab img {
-		-moz-opacity:1.0;
-		filter:alpha(opacity=100);
-		opacity:1.0;
+	.tab_images .threecol:hover {
+		background-color: #eee;
 	}
 
-
-	.tab_images .threecol:hover, .tab_images .current_tab {
-		cursor:pointer;
-		/*background-color:#eee;*/
+	.tab_images .current_tab,
+	.tab_images .current_tab:hover {
+		background-color: #eee;
 	}
 
-	.tab_images .threecol:hover h3, .tab_images .current_tab h3, .tab_images .threecol:hover p, .tab_images .current_tab p {
+	.tab_images .threecol:hover h3, 
+	.tab_images .threecol:hover p, 
+	.tab_images .current_tab h3, 
+	.tab_images .current_tab p {
 		color:#000;
 	}
 
-	 .tab_images .current_tab:hover {
+	.tab_images .threecol:hover p,
+	.tab_images .current_tab p {
+		border-bottom: 3px solid #ddd;
+		padding: 0 5px 17px 10px;
+	}
+
+	.tab_images .current_tab:hover {
 		cursor:default;
 	}
+
+	.tab-divider-line {
+	 	margin-top: 0px;
+	 }
 
 /*///////////////////////////////////////////////////////////|
 /////////////////////////////////////////////////////////////|*/
 
 	.thumbnails .fourcol h3 {
 		margin: 4px 0 0 0;
-		color:#555;
+		color:#333;
 	}
 
 	.thumbnails .fourcol p {
 		margin: 0 0 0 0;
 		padding: 0 5px 8px 10px;
-		color:#555;
+		color:#333;
 	}
 
 	.thumbnails .fourcol:hover {
 		cursor:pointer;
-		/*background-color: #eee;*/
+		background-color: #eee;
 	}
 
 	.thumbnails .fourcol:hover h3,
@@ -304,16 +346,24 @@
 		color:#000;
 	}
 
+	.thumbnails .fourcol:hover p {
+		border-bottom: 4px solid #ddd;
+		padding: 0 5px 4px 10px;
+	}
+
 	.thumbnails .fourcol img {
-		-moz-opacity:.80;
-		filter:alpha(opacity=80);
-		opacity:.80;
+		width:100%;
+
+/*		-moz-opacity:.85;
+		filter:alpha(opacity=85);
+		opacity:.85;*/
 	}
 
 	.thumbnails .fourcol:hover img {
-		-moz-opacity:1.0;
+
+/*		-moz-opacity:1.0;
 		filter:alpha(opacity=100);
-		opacity:1.0;
+		opacity:1.0;*/
 	}
 
 /*///////////////////////////////////////////////////////////|
@@ -360,9 +410,17 @@
 	}
 
 	#mapplet p,
-	#mapplet a {   
+	#mapplet a {
 		font-size: 12px;
 		line-height: 15px;
+	}
+
+	#mapplet a {   
+		color: #444;
+	}
+
+	#mapplet a:hover {   
+		color: #000;
 	}
 
 	#mapplet p, 
@@ -400,6 +458,87 @@
 	#galleria { 
 		height:350px; 
 	}
+
+	.link-to-microsite h3 {
+		color:#333;
+	}
+
+	.information-bar li {
+		background-color: #eee;
+		border-right: 0px solid #ddd;
+		border-bottom: 1px solid #ddd;
+		width:96%;
+		padding: 4px 10px 4px 10px;
+	}
+
+	.row .landing-header p {
+		font-size: 20px;
+		line-height: 24px;
+		padding-right: 10px;
+	}
+
+	.row .work-detail h1,
+	.row .bodycopy h2,
+	.row .work-detail p,
+	.row .bodycopy p {
+		padding-right: 10px;
+	}
+
+	.row .work-detail p,
+	.row .bodycopy p {
+		color:#888;
+	}
+
+	.row .work-detail h1,
+	.row .bodycopy h2 {
+		color:#666;
+	}
+	
+	.row .work-detail h1 {
+		font-size: 40px;
+		line-height: 45px;
+	}
+
+	.tab_images .threecol {
+		width: 22.05%;
+		margin-right: 3.90%;
+
+		min-height: 100px;
+		float: left;
+	}
+
+	.tab_images .last {
+		margin-right: 0;
+		float: right;
+	} 
+
+	.thumbnails .fourcol {
+		width: 30.75%;
+		margin-right: 3.8%;
+		float: left;
+	} 
+
+	.thumbnails .fourcol h3,
+	.tab_images .threecol h3 {
+		margin:0 0 0 0;
+		padding:0 5px 8px 5px;
+		font-size: 13px;
+		line-height: 16px;
+	}
+
+	.tab_images .threecol:hover,
+	.tab_images .current_tab {
+		border-bottom: 3px solid #ddd;
+	}
+
+	.thumbnails .fourcol p {
+		display: none;
+	}
+
+	.thumbnails .last {
+		margin-right: 0;
+		float: right;
+	} 
 
 }
 

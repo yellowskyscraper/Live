@@ -48,7 +48,12 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>1986 - Current | Prototype | Interactive Installation</p>
+				<ul>
+					<li>February 2010</li>
+					<li>Prototype</li>
+					<li>Interactive Installation for an <a href="http://www.ordinarykids.com/" target="_blank">OrdinaryKids</a> Popular Workshop Exhibition</li>
+				</ul>
+
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>

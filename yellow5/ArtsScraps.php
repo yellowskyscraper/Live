@@ -49,7 +49,11 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>February 2008 | Promotional Ephemera</p>
+				<ul>
+					<li>February 2008</li>
+					<li>Promotional Ephemera</li>
+				</ul>
+				
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>

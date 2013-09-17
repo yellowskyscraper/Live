@@ -153,53 +153,5 @@ img {
 		padding-left: 0px;
 		padding-right: 0px;
 	}
-
-	.row .information-bar {
-		width: 100%;
-		float: left;
-	}
-
-	.row .landing-header p {
-		font-size: 20px;
-		line-height: 24px;
-	}
-
-	.row .work-detail h1{
-		font-size: 40px;
-		line-height: 45px;
-	}
-
-	.tab_images .threecol{
-		width: 22.05%;
-		margin-right: 3.90%;
-		float: left;
-	}
-
-	.tab_images .last{
-		margin-right: 0;
-		float: right;
-	} 
-
-	.thumbnails .fourcol{
-		width: 30.75%;
-		margin-right: 3.8%;
-		float: left;
-	} 
-
-	.thumbnails .fourcol h3,
-	.tab_images .threecol h3 {
-		margin:0 0 0 0;
-		padding:0 0 5px 3px;
-		font-size: 10px;
-		line-height: 13px;
-	}
-
-	.thumbnails .fourcol p {
-		display: none;
-	}
-
-	.thumbnails .last{
-		margin-right: 0;
-		float: right;
-	} 
+	
 }

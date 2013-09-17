@@ -49,7 +49,12 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>November 2010 | Prototype | On-line Archive</p>
+				<ul>
+					<li>November 2010</li>
+					<li>Prototype On-line Archive</li>
+					<li>Made for the <a href="http://www.gaffta.org/2010/11/09/the-great-urban-hack-re-cap/">Great Urban Hack</a> hosted by <a href="http://www.gaffta.org/">GAFFTA</a></li>
+				</ul>
+
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>

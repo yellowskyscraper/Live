@@ -49,7 +49,12 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>November 2010 | Exhibit &amp; Content Development | Made at the <a href="http://www.exploratorium.edu/" target="_blank">Exploratorium</a></p>
+				<ul>
+					<li>November 2010</li>
+					<li>Exhibit &amp; Content Development</li>
+					<li>Made at the <a href="http://www.exploratorium.edu/" target="_blank">Exploratorium</a></li>
+				</ul>
+
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>
@@ -70,11 +75,6 @@
 	</section>
 
 	<section>
-		<div class="row">
-			<div class="twelvecol divider-line">
-			</div>
-		</div>
-
 		<div class="row tab_images">
 			<div class="threecol current_tab">
 				<img src="data/projects/BayAreaModel/tab1.jpg">
@@ -101,15 +101,14 @@
 			<a href="TheGroundBeneathUs.php">
 				<div class="threecol last">
 					<img src="data/projects/BayAreaModel/tab4.jpg">
-					<h3>The Ground Beneath Us</h3>
+					<h3>The Ground Beneath</h3>
 					<p>Civilization exists by geological consent.</p>
 				</div>
 			</a>
 		</div>
 
-		<div class="row">
-			<div class="twelvecol divider-line">
-			</div>
+		<div class="row tab-divider-line">
+			<div class="twelvecol divider-line"></div>
 		</div>
 	</section>
 

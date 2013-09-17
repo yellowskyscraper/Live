@@ -49,7 +49,11 @@
 	<section>
 		<div class="row">
 			<div class="twelvecol information-bar">
-				<p>February 2009 | Large Print Installation</p>
+				<ul>
+					<li>February 2009</li>
+					<li>Large Print Installation for the I Hate Lucy Exhibition</li>
+				</ul>
+				
 				<div class="share-me">
 					<?php include 'data/includes/share.php'; ?>
 				</div>
