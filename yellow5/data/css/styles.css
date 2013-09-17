@@ -258,12 +258,12 @@
 	.share-me {
 		background-color: #FFF;
 		float:right;
-		width:99px;
+		width:93px;
 		height:26px;
 	}
 
 	.share-me img {
-		margin-left: 6px;
+		margin-left: 4px;
 		margin-top: 0;
 	}
 
@@ -281,14 +281,19 @@
 		margin-bottom: 0px;
 	}
 
+	.tab_images .threecol {
+		min-height: 210px;
+	}
+
 	.tab_images .threecol h3 {
 		margin: 2px 0 0 0;
+		padding: 0 10px 0 10px;
 		color:#333;
 	}
 
 	.tab_images .threecol p {
 		margin: 0 0 0 0;
-		padding: 0 5px 20px 10px;
+		padding: 0 10px 20px 10px;
 		color:#333;
 	}
 
@@ -308,10 +313,14 @@
 		color:#000;
 	}
 
+	.tab_images .threecol:hover,
+	.tab_images .current_tab {
+		border-bottom: 3px solid #ddd;
+	}
+
 	.tab_images .threecol:hover p,
 	.tab_images .current_tab p {
-		border-bottom: 3px solid #ddd;
-		padding: 0 5px 17px 10px;
+		padding: 0 10px 17px 10px;
 	}
 
 	.tab_images .current_tab:hover {
