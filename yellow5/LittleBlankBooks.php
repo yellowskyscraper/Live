@@ -52,6 +52,7 @@
 				<ul>
 					<li>May 2009</li>
 					<li>Interactive Installation</li>
+					<li>Senior Exhibition at the <a href="http://www.collegeforcreativestudies.edu/academics/undergraduate-programs/graphic-design" target="_blank">College for Creative Studies</a></li>
 				</ul>
 				
 				<div class="share-me">

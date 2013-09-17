@@ -51,7 +51,8 @@
 			<div class="twelvecol information-bar">
 				<ul>
 					<li>February 2009</li>
-					<li>Large Print Installation for the I Hate Lucy Exhibition</li>
+					<li>Large Print Installation</li>
+					<li>Made for the I Hate Lucy Exhibition</li>
 				</ul>
 				
 				<div class="share-me">

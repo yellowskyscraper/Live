@@ -50,8 +50,8 @@
 			<div class="twelvecol information-bar">
 				<ul>
 					<li>November 2008</li>
-					<li>Prototype</li>
-					<li>Small Scale Interactive Installation for Bayer Material Sciences</li>
+					<li>Small Scale Interactive Prototype</li>
+					<li>Made for Bayer Material Sciences</li>
 				</ul>
 				
 				<div class="share-me">

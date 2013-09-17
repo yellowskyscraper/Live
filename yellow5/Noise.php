@@ -51,7 +51,7 @@
 			<div class="twelvecol information-bar">
 				<ul>
 					<li>July 2011</li>
-					<li>Prototype</li>
+					<li>Productivity Prototype</li>
 					<li>iPhone Application</li>
 				</ul>
 				

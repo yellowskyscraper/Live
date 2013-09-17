@@ -51,7 +51,7 @@
 			<div class="twelvecol information-bar">
 				<ul>
 					<li>November 2010</li>
-					<li>Prototype On-line Archive</li>
+					<li>Prototype of an On-line Archive</li>
 					<li>Made for the <a href="http://www.gaffta.org/2010/11/09/the-great-urban-hack-re-cap/">Great Urban Hack</a> hosted by <a href="http://www.gaffta.org/">GAFFTA</a></li>
 				</ul>
 

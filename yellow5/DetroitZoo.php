@@ -50,7 +50,7 @@
 			<div class="twelvecol information-bar">
 				<ul>
 					<li>November 2010</li>
-					<li>Identity System</li>
+					<li>Riffing on an Identity System</li>
 				</ul>
 				
 				<div class="share-me">

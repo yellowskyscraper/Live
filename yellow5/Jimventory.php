@@ -51,6 +51,7 @@
 				<ul>
 					<li>November 2008</li>
 					<li>Interactive Installation</li>
+					<li>Made for the CHANCED! Exhibiton hosted by the U245 Gallery</li>
 				</ul>
 				
 				<div class="share-me">
