@@ -51,7 +51,7 @@
 				<ul>
 					<li>January 2010</li>
 					<li>Actionscript 3.0 Web Site</li>
-					<li>Developed at <a href="http://www.ordinarykids.com/" target="_blank">OrdinaryKids</a></li>
+					<li>Developed for <a href="http://www.ordinarykids.com/" target="_blank">OrdinaryKids</a></li>
 				</ul>
 				
 				<div class="share-me">

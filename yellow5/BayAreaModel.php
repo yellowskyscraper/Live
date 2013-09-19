@@ -52,7 +52,7 @@
 				<ul>
 					<li>November 2010</li>
 					<li>Exhibit &amp; Content Development</li>
-					<li>Made at the <a href="http://www.exploratorium.edu/" target="_blank">Exploratorium</a></li>
+					<li>Made for the <a href="http://www.exploratorium.edu/" target="_blank">Exploratorium</a></li>
 				</ul>
 
 				<div class="share-me">
@@ -115,12 +115,14 @@
 	<section>
 		<div class="row">
 			<div class="sevencol">
+				<a href="data/projects/BayAreaModel/San_Francisco_The_Wonder_Piers_04012013.pdf" target="_blank"><div class="link-to-press link-a"><h3>San Francisco on the Observatory &raquo;</h3></div></a>
 				<img src="data/projects/BayAreaModel/image-amy1.jpg">
 				<img src="data/projects/BayAreaModel/image13.jpg">
 				<img src="data/projects/BayAreaModel/image14.jpg">
 				<img src="data/projects/BayAreaModel/image1.jpg">
 			</div>
 			<div class="fivecol last">
+				<a href="data/projects/BayAreaModel/San_Francisco_The_Wonder_Piers_04012013.pdf" target="_blank"><div class="link-to-press link-b"><h3>San Francisco on the The Exploratorium &raquo;</h3></div></a>
 				<img src="data/projects/BayAreaModel/image2.jpg">
 				<img src="data/projects/BayAreaModel/image9.jpg">
 				<img src="data/projects/BayAreaModel/image10.jpg">

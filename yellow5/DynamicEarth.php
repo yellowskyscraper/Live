@@ -51,8 +51,8 @@
 			<div class="twelvecol information-bar">
 				<ul>
 					<li>November 2010</li>
-					<li>Cartography</li>
-					<li>Made at the <a href="http://www.exploratorium.edu/" target="_blank">Exploratorium</a></li>
+					<li>Research &amp; Cartography</li>
+					<li>Made for the <a href="http://www.exploratorium.edu/" target="_blank">Exploratorium</a></li>
 				</ul>
 				
 				<div class="share-me">

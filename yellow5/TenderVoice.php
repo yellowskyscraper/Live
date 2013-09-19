@@ -51,7 +51,7 @@
 			<div class="twelvecol information-bar">
 				<ul>
 					<li>June 2010</li>
-					<li>BETA Launch of an Interactive Resource &amp; Game</li>
+					<li>BETA of a Neighborhood Resource &amp; Game</li>
 					<li>Made for the <a href="http://www.citycentered.org/">City Centered Festival</a> facilitated by <a href="http://www.gaffta.org/">GAFFTA</a></li>
 				</ul>
 				

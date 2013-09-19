@@ -219,6 +219,34 @@
 /*///////////////////////////////////////////////////////////|
 /////////////////////////////////////////////////////////////|*/
 
+	.link-to-press {
+		width:100%;
+		background-color: #dee;
+		margin: 0 0 20px 0;
+		padding:12px;
+	}
+
+	.link-to-press h3 {
+		padding:0;
+		padding-right:22px;
+	}
+
+	.link-to-press:hover {
+		cursor:pointer;
+		background-color: #cdd;
+	}
+
+	.link-to-press h3 {
+		color:#333;
+	}
+
+	.link-to-press:hover h3 {
+		padding-left: 3px;
+		color:#000;
+	}
+
+
+
 	.link-to-microsite {
 		width:100%;
 		background-color: #eee;
