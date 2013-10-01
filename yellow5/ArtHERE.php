@@ -100,13 +100,13 @@
 		<div class="row">
 			<div class="sevencol">
 				<a href="http://arthere.org/" target="_blank"><div class="link-to-microsite link-a"><h3>Check out ArtHERE &raquo;</h3></div></a>
-				<a href="http://www.fastcoexist.com/1679634/arthere-a-matchmaking-service-for-urban-spaces-and-art" target="_blank"><div class="link-to-press link-a"><h3>Fast Company on ArtHERE &raquo;</h3></div></a>
+				<a href="http://www.fastcoexist.com/1679634/arthere-a-matchmaking-service-for-urban-spaces-and-art" target="_blank"><div class="link-to-press link-a"><h3>Fast Company, A Matchmaking Service &raquo;</h3></div></a>
 				<img src="data/projects/ArtHERE/image3.jpg">
 				<img src="data/projects/ArtHERE/image4.jpg">
 			</div>
 			<div class="fivecol last">
 				<a href="http://arthere.org/" target="_blank"><div class="link-to-microsite link-b"><h3>Check out ArtHERE  &raquo;</h3></div></a>
-				<a href="http://www.fastcoexist.com/1679634/arthere-a-matchmaking-service-for-urban-spaces-and-art" target="_blank"><div class="link-to-press link-b"><h3>Fast Company on ArtHERE &raquo;</h3></div></a>
+				<a href="http://www.fastcoexist.com/1679634/arthere-a-matchmaking-service-for-urban-spaces-and-art" target="_blank"><div class="link-to-press link-b"><h3>Fast Company, A Matchmaking Service &raquo;</h3></div></a>
 				<img src="data/projects/ArtHERE/image1.jpg">
 				<img src="data/projects/ArtHERE/image2.jpg">
 			</div>

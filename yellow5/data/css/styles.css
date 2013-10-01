@@ -357,7 +357,7 @@
 
 	.tab-divider-line {
 	 	margin-top: 0px;
-	 }
+	}
 
 /*///////////////////////////////////////////////////////////|
 /////////////////////////////////////////////////////////////|*/
@@ -369,7 +369,7 @@
 
 	.thumbnails .fourcol p {
 		margin: 0 0 0 0;
-		padding: 0 5px 8px 10px;
+		padding: 0 5px 15px 10px;
 		color:#333;
 	}
 
@@ -385,7 +385,7 @@
 
 	.thumbnails .fourcol:hover p {
 		border-bottom: 4px solid #ddd;
-		padding: 0 5px 4px 10px;
+		padding: 0 5px 11px 10px;
 	}
 
 	.thumbnails .fourcol img {
