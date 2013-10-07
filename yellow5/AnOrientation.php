@@ -125,12 +125,13 @@
 	<section>
 		<div class="row">
 			<div class="sevencol bodycopy">
-				<img src="data/projects/BayAreaModel/AnOrientation/image7.jpg">
+				<img src="data/projects/BayAreaModel/AnOrientation/image9.jpg">
 				<img src="data/projects/BayAreaModel/AnOrientation/image1.jpg">
 				<img src="data/projects/BayAreaModel/AnOrientation/image4.jpg">
 			</div>
 			<div class="fivecol last">
 				<img src="data/projects/BayAreaModel/image-amy1.jpg">
+				<img src="data/projects/BayAreaModel/AnOrientation/image10.jpg">
 				<img src="data/projects/BayAreaModel/AnOrientation/image3.jpg">
 				<img src="data/projects/BayAreaModel/AnOrientation/image2.jpg">
 			</div>

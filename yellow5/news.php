@@ -12,8 +12,8 @@
 	
 	<?php include 'data/includes/header.php'; ?>
 
-	<script src="data/js/galleria/galleria-1.2.9.min.js"></script>
-	<script src="data/js/galleria/plugins/flickr/galleria.flickr.min.js"></script>
+	<!--<script src="data/js/galleria/galleria-1.2.9.min.js"></script>
+	<script src="data/js/galleria/plugins/flickr/galleria.flickr.min.js"></script>-->
 
 	<!--Deleted or special cases embedded styles-->
 	<style type="text/css">
@@ -55,22 +55,56 @@
 			<div class="twelvecol">
 				<a href="http://www.flickr.com/photos/yellowskyscraper/" target="_blank"><div class="link-to-microsite link-a"><h3>Browse the complete Archive on Flickr &raquo;</h3></div></a>
 				<a href="http://www.flickr.com/photos/yellowskyscraper/" target="_blank"><div class="link-to-microsite link-b"><h3>Browse the complete Archive on Flickr &raquo;</h3></div></a>
-
-				<div id="galleria"></div>
-		        <script>
-		            Galleria.loadTheme('data/js/galleria/themes/classic/galleria.classic.min.js');
-		     
-		           	var flickr = new Galleria.Flickr();
-					flickr.setOptions({
-						max: 100,
-						thumbSize: 'big'
-					}).user('yellowskyscraper', function(data) {
-						Galleria.run('#galleria', {
-							dataSource: data
-						});
-					});
-		        </script>
 			</div>
+		</div>
+
+		<div class="row">
+		<?php
+			/*$params = array(
+				'api_key'	=> '9487eab6d4e67ec44054bf55ec692929',
+				'method'	=> 'flickr.photos.getInfo',
+				'photo_id'	=> '8317630365',
+				'format'	=> 'php_serial',
+			);*/
+
+			$params = array(
+				'api_key' => '9487eab6d4e67ec44054bf55ec692929',
+				'method' => 'flickr.photos.search',
+				'user_id' => '7296286@N03',
+				'format' => 'php_serial'
+			);
+
+			$encoded_params = array();
+			foreach ($params as $k => $v) $encoded_params[] = urlencode($k).'='.urlencode($v);
+
+			$url = "http://api.flickr.com/services/rest/?".implode('&', $encoded_params);
+			$rsp = file_get_contents($url);
+			$rsp_obj = unserialize($rsp);
+
+			if ($rsp_obj['stat'] == 'ok'){
+				echo "<div class='sevencol'>";
+				print_r ($rsp_obj);
+				echo "</div>";
+
+				foreach ($rsp_obj['photos']['photo'] as $photo) {
+					
+					$farm = $photo['farm'];
+					$server = $photo['server'];
+					$photoID = $photo['id'];
+					$secret = $photo['secret'];
+					$photo_title = $photo['title'];
+					
+					echo "<div class='sevencol'>";
+						echo "Title is ".$photo_title."!<br>";
+						echo "<img src='http://farm".$farm.".staticflickr.com/".$server."/".$photoID."_".$secret."_b.jpg' />";
+					echo "</div>";
+				}
+
+			} else {
+				echo "Call failed!";
+			}
+			
+		?>
 		</div>
 		
 	</section>
